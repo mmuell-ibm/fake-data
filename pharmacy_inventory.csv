@@ -1,0 +1,226 @@
+product_code,category,location,quantity_in_stock,reorder_threshold,supplier,last_ordered,expected_delivery,predicted_demand_next_week,stockout_risk
+692554,Flu Shots,"New York, NY",151,16,George-King,2025-01-11,2025-05-13,19,0.5546249394609004
+916153,GLP-1 Medications,"New York, NY",49,13,Ward Group,2025-03-06,2025-05-13,30,0.28453051366813753
+959868,Pain Relief - Ibuprofen,"New York, NY",19,27,Hendricks LLC,2025-03-23,2025-04-27,45,0.41160279934985633
+306790,Pain Relief - Acetaminophen,"New York, NY",185,25,Evans Inc,2025-01-24,2025-04-24,14,0.16899772355947484
+821090,Antibiotics - Amoxicillin,"New York, NY",120,20,Robinson Group,2025-03-16,2025-05-04,25,0.4995105878380648
+263188,Antihistamines - Zyrtec,"New York, NY",53,14,Lee Ltd,2025-01-03,2025-05-01,30,0.5214118869461588
+740201,Topical Creams - Hydrocortisone,"New York, NY",191,34,Townsend and Sons,2025-03-28,2025-04-20,48,0.13736039576091674
+157305,Cold & Cough Syrup - Robitussin,"New York, NY",139,35,Carroll Group,2025-01-02,2025-04-23,40,0.49706250129619234
+709810,Vitamins - Vitamin D,"New York, NY",23,14,"Carrillo, Norton and White",2025-02-01,2025-05-13,23,0.7988734931732855
+717998,Vitamins - Multivitamins,"New York, NY",33,33,Wong and Sons,2025-01-05,2025-05-02,26,0.1764728871108493
+815270,Insulin - Novolog,"New York, NY",25,44,"Jones, Hernandez and Hodges",2025-04-11,2025-05-02,5,0.41989028651146043
+298366,Antacids - Tums,"New York, NY",133,38,Lambert Group,2025-01-19,2025-04-21,8,0.44615023336456616
+364309,Diabetes Test Strips,"New York, NY",72,19,"Henry, Smith and Wolfe",2025-01-17,2025-05-09,15,0.7867312270936878
+780656,Allergy Relief - Benadryl,"New York, NY",18,39,George-Hull,2025-02-28,2025-05-07,46,0.20761294965526
+187517,First Aid - Band-Aids,"New York, NY",111,37,Evans-Hubbard,2025-01-26,2025-05-12,21,0.14891032807623095
+742567,Flu Shots,"Los Angeles, CA",13,49,"Jones, Pennington and Sharp",2025-01-07,2025-05-03,19,0.8372402134494883
+341256,GLP-1 Medications,"Los Angeles, CA",21,29,Curtis-Bradshaw,2025-02-06,2025-04-25,42,0.7297392968176838
+999585,Pain Relief - Ibuprofen,"Los Angeles, CA",172,47,"Williams, Hayes and Kaufman",2025-02-06,2025-05-13,24,0.6227397778805919
+962334,Pain Relief - Acetaminophen,"Los Angeles, CA",98,26,Hoover Inc,2025-03-27,2025-05-02,8,0.12085225777926223
+598662,Antibiotics - Amoxicillin,"Los Angeles, CA",166,30,Dawson PLC,2025-02-09,2025-05-13,13,0.466039034881496
+375877,Antihistamines - Zyrtec,"Los Angeles, CA",51,35,Shaw Inc,2025-01-03,2025-04-21,6,0.8922251329160091
+100638,Topical Creams - Hydrocortisone,"Los Angeles, CA",101,11,Allen LLC,2025-03-26,2025-05-08,42,0.866646226917012
+702607,Cold & Cough Syrup - Robitussin,"Los Angeles, CA",45,45,Reid-Olson,2025-02-02,2025-05-04,40,0.5644670993607072
+632344,Vitamins - Vitamin D,"Los Angeles, CA",19,40,Cooley-Clark,2025-02-03,2025-05-02,27,0.7504386505251641
+185601,Vitamins - Multivitamins,"Los Angeles, CA",69,29,"Carlson, Chen and Spencer",2025-03-15,2025-05-05,23,0.015965830091760003
+771135,Insulin - Novolog,"Los Angeles, CA",20,20,"Hammond, Hughes and Atkinson",2025-02-05,2025-04-28,18,0.7946816910723956
+395608,Antacids - Tums,"Los Angeles, CA",171,46,Lambert Inc,2025-04-07,2025-04-21,26,0.1571440928040505
+782206,Diabetes Test Strips,"Los Angeles, CA",131,23,"Mayo, Ochoa and Wilson",2025-03-14,2025-05-07,16,0.22689178691765488
+924838,Allergy Relief - Benadryl,"Los Angeles, CA",82,31,"Higgins, Dickson and Patel",2025-02-20,2025-05-10,15,0.7619398933250314
+998692,First Aid - Band-Aids,"Los Angeles, CA",86,46,Singleton and Sons,2025-02-24,2025-05-01,40,0.7496968931228185
+311174,Flu Shots,"Chicago, IL",46,22,Cunningham-Haynes,2025-01-23,2025-04-20,13,0.3598581810656951
+806686,GLP-1 Medications,"Chicago, IL",147,47,Mejia LLC,2025-02-09,2025-05-07,28,0.6253928791139718
+282588,Pain Relief - Ibuprofen,"Chicago, IL",115,45,Vincent Group,2025-03-23,2025-05-10,27,0.02423524306968705
+461661,Pain Relief - Acetaminophen,"Chicago, IL",34,44,"Nguyen, Cunningham and Flynn",2025-02-21,2025-04-23,46,0.4699708256177493
+274475,Antibiotics - Amoxicillin,"Chicago, IL",31,38,"Hill, Curry and Lee",2025-01-01,2025-05-12,25,0.7225977294854973
+700333,Antihistamines - Zyrtec,"Chicago, IL",67,18,Hicks Ltd,2025-03-31,2025-04-28,34,0.591300709462271
+398016,Topical Creams - Hydrocortisone,"Chicago, IL",192,15,"Olsen, Nelson and Reyes",2025-03-18,2025-04-21,18,0.5530882423059552
+693984,Cold & Cough Syrup - Robitussin,"Chicago, IL",151,15,Tyler-Lopez,2025-01-02,2025-04-29,21,0.5704622303461158
+203508,Vitamins - Vitamin D,"Chicago, IL",152,24,"Joseph, Espinoza and Foley",2025-04-05,2025-04-20,34,0.6973028993604005
+760809,Vitamins - Multivitamins,"Chicago, IL",101,26,Hernandez PLC,2025-01-28,2025-05-03,10,0.8012919716614787
+241722,Insulin - Novolog,"Chicago, IL",124,31,"Velez, Rowe and Mitchell",2025-03-22,2025-04-25,11,0.537447327168176
+392595,Antacids - Tums,"Chicago, IL",66,20,Stewart-Johns,2025-03-11,2025-04-21,40,0.9168927977997264
+629226,Diabetes Test Strips,"Chicago, IL",85,47,Jones and Sons,2025-04-11,2025-05-06,24,0.9702762465572627
+368652,Allergy Relief - Benadryl,"Chicago, IL",64,50,Schmidt-Jones,2025-04-12,2025-04-30,36,0.25308103242553337
+700940,First Aid - Band-Aids,"Chicago, IL",116,50,Stafford-Randall,2025-01-28,2025-04-26,16,0.03194579655656704
+563714,Flu Shots,"Houston, TX",90,43,Hawkins-Hansen,2025-02-06,2025-04-23,32,0.1379525463879996
+179427,GLP-1 Medications,"Houston, TX",171,29,Lewis-James,2025-02-14,2025-05-05,13,0.1782227896271712
+880267,Pain Relief - Ibuprofen,"Houston, TX",60,32,"Mora, Little and Conway",2025-02-17,2025-05-05,22,0.12026663059199827
+798580,Pain Relief - Acetaminophen,"Houston, TX",54,46,Moore-Zamora,2025-04-11,2025-04-24,49,0.3550071268439411
+132702,Antibiotics - Amoxicillin,"Houston, TX",34,34,"Reed, Moore and Kaiser",2025-03-02,2025-05-04,49,0.05146072823419445
+344554,Antihistamines - Zyrtec,"Houston, TX",84,41,Johnson-Nelson,2025-03-28,2025-05-13,32,0.569798104602815
+345456,Topical Creams - Hydrocortisone,"Houston, TX",191,11,"Yu, Patrick and Green",2025-01-02,2025-05-03,39,0.1942357341917461
+901033,Cold & Cough Syrup - Robitussin,"Houston, TX",157,22,Coffey-Murray,2025-02-17,2025-05-12,38,0.26523407081681116
+597023,Vitamins - Vitamin D,"Houston, TX",19,20,Franklin Ltd,2025-02-03,2025-04-22,17,0.5523296107004689
+855824,Vitamins - Multivitamins,"Houston, TX",71,16,Moore-Hoffman,2025-02-16,2025-05-05,36,0.6101247174806672
+243935,Insulin - Novolog,"Houston, TX",55,18,Bell-Wilson,2025-04-06,2025-04-27,42,0.9837283827794189
+186905,Antacids - Tums,"Houston, TX",108,20,"Crawford, Wagner and Ritter",2025-01-12,2025-04-20,43,0.4321941129666689
+840293,Diabetes Test Strips,"Houston, TX",191,39,"Wood, Dillon and Stewart",2025-01-30,2025-05-06,25,0.1558024337005025
+645352,Allergy Relief - Benadryl,"Houston, TX",124,28,"Page, Murray and Hughes",2025-02-25,2025-05-04,25,0.6236883519534576
+436241,First Aid - Band-Aids,"Houston, TX",176,20,Lozano-King,2025-04-04,2025-04-22,11,0.551193877560775
+907650,Flu Shots,"Phoenix, AZ",151,38,Hunt-Rhodes,2025-01-01,2025-05-04,41,0.024820158937766457
+288513,GLP-1 Medications,"Phoenix, AZ",71,26,Barnes Inc,2025-03-24,2025-04-26,45,0.3581969171590281
+882178,Pain Relief - Ibuprofen,"Phoenix, AZ",62,14,Ellis-Martinez,2025-03-04,2025-05-08,28,0.6134647791723027
+155328,Pain Relief - Acetaminophen,"Phoenix, AZ",99,50,Wagner LLC,2025-02-04,2025-04-28,6,0.4694746859498874
+104955,Antibiotics - Amoxicillin,"Phoenix, AZ",164,29,Hernandez and Sons,2025-03-23,2025-05-12,8,0.09695422687400879
+366622,Antihistamines - Zyrtec,"Phoenix, AZ",176,10,Sanchez-Cooper,2025-02-10,2025-04-26,49,0.9217079678686201
+215123,Topical Creams - Hydrocortisone,"Phoenix, AZ",171,36,"Cameron, Cordova and Cohen",2025-03-26,2025-04-26,15,0.18584776960635307
+622426,Cold & Cough Syrup - Robitussin,"Phoenix, AZ",130,48,"Reyes, Garcia and James",2025-01-22,2025-04-21,12,0.6286534473198555
+946606,Vitamins - Vitamin D,"Phoenix, AZ",196,13,Nelson-Carson,2025-02-06,2025-05-08,8,0.7298059460853619
+155735,Vitamins - Multivitamins,"Phoenix, AZ",80,28,Allen-Hawkins,2025-03-22,2025-04-22,30,0.09562520419345932
+363776,Insulin - Novolog,"Phoenix, AZ",165,22,Ryan-Sherman,2025-04-03,2025-05-08,50,0.6200486674182658
+459205,Antacids - Tums,"Phoenix, AZ",95,20,Allen-Morrow,2025-02-12,2025-05-09,39,0.6915494122504202
+474478,Diabetes Test Strips,"Phoenix, AZ",152,33,Johnson LLC,2025-02-01,2025-05-09,14,0.47209749079355545
+970942,Allergy Relief - Benadryl,"Phoenix, AZ",41,37,Dillon PLC,2025-03-24,2025-05-12,30,0.418724890645102
+918624,First Aid - Band-Aids,"Phoenix, AZ",71,28,"Farrell, Cooper and Schroeder",2025-02-09,2025-04-23,27,0.3256770469147222
+184992,Flu Shots,"Philadelphia, PA",132,11,Edwards LLC,2025-01-14,2025-04-24,16,0.023601617421047494
+493739,GLP-1 Medications,"Philadelphia, PA",160,30,"Lewis, Lewis and Sanchez",2025-03-22,2025-04-24,8,0.9976194111229283
+796228,Pain Relief - Ibuprofen,"Philadelphia, PA",42,16,Arroyo Group,2025-02-19,2025-04-24,36,0.6391045431525659
+848349,Pain Relief - Acetaminophen,"Philadelphia, PA",14,11,Jones-French,2025-01-04,2025-04-30,41,0.49085164993998576
+286272,Antibiotics - Amoxicillin,"Philadelphia, PA",129,35,Rodgers LLC,2025-03-15,2025-05-08,21,0.5754585777370287
+867627,Antihistamines - Zyrtec,"Philadelphia, PA",169,12,Dickson-Jones,2025-04-12,2025-05-01,33,0.6821700323519996
+542462,Topical Creams - Hydrocortisone,"Philadelphia, PA",62,43,Cooper-Garcia,2025-03-28,2025-04-20,29,0.6740160698117237
+300432,Cold & Cough Syrup - Robitussin,"Philadelphia, PA",48,36,"Webb, Schmidt and Ewing",2025-01-04,2025-04-25,16,0.06526905582881548
+651472,Vitamins - Vitamin D,"Philadelphia, PA",32,25,Thomas-Shaffer,2025-02-28,2025-05-03,27,0.061657788921722356
+535522,Vitamins - Multivitamins,"Philadelphia, PA",47,45,Thomas Group,2025-01-06,2025-04-28,18,0.6126191510325467
+208873,Insulin - Novolog,"Philadelphia, PA",133,31,Pierce and Sons,2025-03-01,2025-05-13,48,0.19164847840248211
+427472,Antacids - Tums,"Philadelphia, PA",191,22,"Matthews, Williams and Scott",2025-03-17,2025-05-03,49,0.7947639204152086
+745855,Diabetes Test Strips,"Philadelphia, PA",196,18,Gregory LLC,2025-02-02,2025-04-26,36,0.12035446894605073
+832302,Allergy Relief - Benadryl,"Philadelphia, PA",189,22,"Hawkins, Snyder and Hale",2025-01-26,2025-04-26,19,0.4455286874798067
+487854,First Aid - Band-Aids,"Philadelphia, PA",53,36,Smith PLC,2025-04-07,2025-05-04,16,0.360222198975807
+823771,Flu Shots,"San Antonio, TX",125,36,"Watson, Wheeler and Torres",2025-01-10,2025-04-20,29,0.9501562303480481
+914995,GLP-1 Medications,"San Antonio, TX",23,20,Taylor-Giles,2025-03-03,2025-05-03,44,0.5111048283220612
+129888,Pain Relief - Ibuprofen,"San Antonio, TX",159,17,"Mcdowell, Gonzalez and Bowers",2025-02-03,2025-05-09,35,0.3874700813307923
+822151,Pain Relief - Acetaminophen,"San Antonio, TX",152,18,"Hall, Thomas and Andrade",2025-03-30,2025-05-02,47,0.87717526593468
+581725,Antibiotics - Amoxicillin,"San Antonio, TX",70,45,Henderson Inc,2025-01-07,2025-05-05,27,0.19537245474750087
+815850,Antihistamines - Zyrtec,"San Antonio, TX",161,22,Adams-Navarro,2025-02-20,2025-05-02,5,0.8999696006976055
+288909,Topical Creams - Hydrocortisone,"San Antonio, TX",16,24,Brooks PLC,2025-02-08,2025-04-21,18,0.17388107310280776
+959932,Cold & Cough Syrup - Robitussin,"San Antonio, TX",198,15,Fisher Inc,2025-03-23,2025-04-21,48,0.48767720076141585
+134408,Vitamins - Vitamin D,"San Antonio, TX",200,49,Watkins Inc,2025-04-11,2025-05-09,50,0.3100309754091154
+541469,Vitamins - Multivitamins,"San Antonio, TX",54,27,Campbell LLC,2025-01-05,2025-04-26,23,0.9505818054733468
+235353,Insulin - Novolog,"San Antonio, TX",152,37,"Dickson, Johnson and Obrien",2025-04-04,2025-05-03,38,0.07081485269568843
+180940,Antacids - Tums,"San Antonio, TX",65,29,"Hill, James and Lewis",2025-01-28,2025-05-08,12,0.14294801295477133
+740007,Diabetes Test Strips,"San Antonio, TX",68,50,Mcclure-Elliott,2025-02-05,2025-05-09,38,0.5770486334044963
+906873,Allergy Relief - Benadryl,"San Antonio, TX",100,29,Brooks Ltd,2025-01-17,2025-05-06,39,0.5860269575407335
+158381,First Aid - Band-Aids,"San Antonio, TX",98,33,"Bates, Smith and Estrada",2025-04-13,2025-05-06,37,0.7658950621301741
+169300,Flu Shots,"San Diego, CA",149,14,"Herring, Brown and Bennett",2025-02-22,2025-04-25,40,0.6436892387187657
+912332,GLP-1 Medications,"San Diego, CA",83,26,Huerta and Sons,2025-01-10,2025-05-10,26,0.878254232281364
+345187,Pain Relief - Ibuprofen,"San Diego, CA",195,36,Ponce Group,2025-04-06,2025-04-29,27,0.4623385083732
+189278,Pain Relief - Acetaminophen,"San Diego, CA",151,12,Whitney-Ryan,2025-03-14,2025-05-03,43,0.13826428931646995
+695665,Antibiotics - Amoxicillin,"San Diego, CA",191,14,Knox Group,2025-02-18,2025-05-08,11,0.40550395730905
+233334,Antihistamines - Zyrtec,"San Diego, CA",107,50,"Baldwin, King and Williams",2025-02-26,2025-04-25,24,0.6678660245389845
+393033,Topical Creams - Hydrocortisone,"San Diego, CA",97,47,Parrish Ltd,2025-01-26,2025-04-22,28,0.8838077964591863
+397238,Cold & Cough Syrup - Robitussin,"San Diego, CA",74,10,Mcintyre and Sons,2025-01-30,2025-05-08,17,0.7899154499909383
+542976,Vitamins - Vitamin D,"San Diego, CA",76,43,Zuniga-Horn,2025-03-23,2025-04-21,46,0.22135246597664404
+130698,Vitamins - Multivitamins,"San Diego, CA",168,21,"Sanchez, Chan and Wright",2025-01-26,2025-05-03,5,0.5316634136977181
+528888,Insulin - Novolog,"San Diego, CA",170,26,"Myers, Fuller and Hernandez",2025-03-04,2025-05-02,47,0.42587533514856524
+797304,Antacids - Tums,"San Diego, CA",155,38,Whitaker LLC,2025-01-24,2025-04-27,5,0.78008008594867
+657550,Diabetes Test Strips,"San Diego, CA",114,39,Smith-Miller,2025-03-15,2025-05-03,37,0.40829199267683525
+379442,Allergy Relief - Benadryl,"San Diego, CA",174,43,Mccoy-Fitzgerald,2025-03-04,2025-05-06,36,0.38421281924303297
+535194,First Aid - Band-Aids,"San Diego, CA",89,37,"Weeks, Johnson and Burke",2025-01-31,2025-04-25,49,0.9376496843865386
+522062,Flu Shots,"Dallas, TX",185,47,Walker Ltd,2025-03-28,2025-05-01,50,0.07612831316266988
+589504,GLP-1 Medications,"Dallas, TX",99,13,Skinner Ltd,2025-04-08,2025-05-02,50,0.5019955498283424
+392077,Pain Relief - Ibuprofen,"Dallas, TX",131,14,"Carter, Cunningham and Poole",2025-01-26,2025-05-10,22,0.7821093475348336
+610394,Pain Relief - Acetaminophen,"Dallas, TX",94,46,Bentley Ltd,2025-04-04,2025-04-29,22,0.6800379623210988
+139064,Antibiotics - Amoxicillin,"Dallas, TX",114,17,"Barton, Lindsey and Peterson",2025-04-06,2025-04-29,24,0.43592344622742984
+303658,Antihistamines - Zyrtec,"Dallas, TX",149,42,"Jennings, Cook and Allen",2025-03-20,2025-05-11,32,0.007292824961397604
+706246,Topical Creams - Hydrocortisone,"Dallas, TX",68,43,White-Floyd,2025-02-18,2025-05-05,27,0.8521574157127741
+980755,Cold & Cough Syrup - Robitussin,"Dallas, TX",119,36,Ruiz-Paul,2025-01-05,2025-05-11,10,0.6890331845672861
+123326,Vitamins - Vitamin D,"Dallas, TX",106,29,Walker Ltd,2025-03-24,2025-05-10,21,0.11538862103719316
+776952,Vitamins - Multivitamins,"Dallas, TX",85,24,Acosta and Sons,2025-03-22,2025-05-07,29,0.5844309327605305
+558763,Insulin - Novolog,"Dallas, TX",105,49,"Mendoza, Decker and Glover",2025-03-02,2025-05-12,24,0.7218999030358165
+317358,Antacids - Tums,"Dallas, TX",85,44,Holloway-Day,2025-02-11,2025-05-04,28,0.01594827016518674
+627378,Diabetes Test Strips,"Dallas, TX",48,28,Smith and Sons,2025-02-12,2025-05-03,49,0.9038981727929695
+262201,Allergy Relief - Benadryl,"Dallas, TX",132,14,Butler and Sons,2025-01-10,2025-04-19,12,0.14655680752716826
+948488,First Aid - Band-Aids,"Dallas, TX",92,12,"Cervantes, Lindsey and Mills",2025-03-18,2025-04-22,9,0.13558424564255078
+889240,Flu Shots,"San Jose, CA",11,46,James-Mckenzie,2025-02-20,2025-05-01,40,0.08974002112782209
+655266,GLP-1 Medications,"San Jose, CA",90,26,Ortiz and Sons,2025-04-04,2025-05-06,13,0.6752649739633824
+215462,Pain Relief - Ibuprofen,"San Jose, CA",188,28,Roach Inc,2025-03-20,2025-04-21,19,0.9687414552263807
+608070,Pain Relief - Acetaminophen,"San Jose, CA",66,50,"Johnson, Reed and Jones",2025-03-13,2025-05-09,13,0.1795231396910525
+452301,Antibiotics - Amoxicillin,"San Jose, CA",74,37,Levine-Warren,2025-03-20,2025-04-23,24,0.5855225128691046
+517632,Antihistamines - Zyrtec,"San Jose, CA",138,23,"Rivera, Castaneda and Hill",2025-02-21,2025-05-02,16,0.9090391975487997
+795247,Topical Creams - Hydrocortisone,"San Jose, CA",34,13,Rodriguez-Phillips,2025-02-01,2025-05-07,10,0.20089118244985749
+847585,Cold & Cough Syrup - Robitussin,"San Jose, CA",123,31,"Williamson, Hill and Murphy",2025-03-10,2025-05-11,18,0.18704916758674273
+262189,Vitamins - Vitamin D,"San Jose, CA",159,27,Mcclain Group,2025-01-30,2025-05-06,41,0.744797528874221
+999427,Vitamins - Multivitamins,"San Jose, CA",89,35,"Morgan, Crosby and Smith",2025-03-01,2025-04-27,11,0.2223630950187493
+157006,Insulin - Novolog,"San Jose, CA",78,15,Campbell Inc,2025-01-16,2025-04-28,28,0.4933723668079204
+828461,Antacids - Tums,"San Jose, CA",112,32,Morgan-Rodriguez,2025-02-17,2025-04-28,41,0.27341412355696837
+407105,Diabetes Test Strips,"San Jose, CA",85,47,Bradley Ltd,2025-01-12,2025-05-04,6,0.954007306329582
+245950,Allergy Relief - Benadryl,"San Jose, CA",192,11,"Martin, Robinson and Haas",2025-01-25,2025-05-10,7,0.3858523375017564
+727767,First Aid - Band-Aids,"San Jose, CA",131,46,Morgan Group,2025-02-11,2025-04-23,16,0.2682117300690876
+196045,Flu Shots,"Austin, TX",62,21,Jones and Sons,2025-02-01,2025-05-04,41,0.79988330448288
+577857,GLP-1 Medications,"Austin, TX",183,17,"Peterson, Elliott and Torres",2025-03-03,2025-04-27,18,0.4249448231895304
+528241,Pain Relief - Ibuprofen,"Austin, TX",52,41,Howard PLC,2025-03-28,2025-05-07,36,0.45779317356696103
+949582,Pain Relief - Acetaminophen,"Austin, TX",74,46,Lewis and Sons,2025-01-04,2025-04-20,23,0.32412509752876717
+966387,Antibiotics - Amoxicillin,"Austin, TX",166,49,Soto and Sons,2025-02-12,2025-05-11,33,0.6907981140906879
+706713,Antihistamines - Zyrtec,"Austin, TX",139,28,"Norton, Walker and Taylor",2025-02-25,2025-04-29,33,0.9144575792000955
+967554,Topical Creams - Hydrocortisone,"Austin, TX",104,39,"Porter, Hunt and Johnson",2025-04-11,2025-04-30,29,0.06681949954425415
+145561,Cold & Cough Syrup - Robitussin,"Austin, TX",160,27,"Rice, Perez and Herrera",2025-01-31,2025-05-05,24,0.4168647193860434
+342260,Vitamins - Vitamin D,"Austin, TX",35,35,Hayden Group,2025-03-28,2025-05-05,45,0.721455345571531
+733123,Vitamins - Multivitamins,"Austin, TX",72,25,Simmons Group,2025-03-29,2025-04-23,20,0.04835477128265642
+864025,Insulin - Novolog,"Austin, TX",25,46,"Stephenson, Cisneros and Jones",2025-04-06,2025-05-12,16,0.46690497009893295
+791109,Antacids - Tums,"Austin, TX",57,26,Noble Group,2025-02-15,2025-04-19,15,0.7451321242528932
+347228,Diabetes Test Strips,"Austin, TX",143,41,"Johnson, Frank and Lee",2025-02-23,2025-04-27,46,0.4828716965118054
+496492,Allergy Relief - Benadryl,"Austin, TX",119,50,"Murphy, Cherry and Parsons",2025-02-17,2025-04-19,18,0.22291684944767454
+421201,First Aid - Band-Aids,"Austin, TX",26,14,Cantu-Martinez,2025-02-26,2025-05-02,46,0.33927530982684895
+349058,Flu Shots,"Jacksonville, FL",111,15,"Riddle, Jones and Mayo",2025-02-05,2025-05-10,15,0.4402213008001793
+799522,GLP-1 Medications,"Jacksonville, FL",186,15,"Bailey, Horn and Long",2025-02-23,2025-05-02,46,0.7913438051356595
+263055,Pain Relief - Ibuprofen,"Jacksonville, FL",172,41,Harrison Group,2025-02-22,2025-05-11,48,0.24370692592215082
+863788,Pain Relief - Acetaminophen,"Jacksonville, FL",184,21,Salazar Ltd,2025-01-16,2025-04-27,19,0.9568719787264978
+931197,Antibiotics - Amoxicillin,"Jacksonville, FL",191,14,Smith-Powell,2025-03-30,2025-04-23,24,0.9780339296291081
+828185,Antihistamines - Zyrtec,"Jacksonville, FL",108,49,"Dunn, Gutierrez and Coffey",2025-03-05,2025-05-03,37,0.42818220901280757
+837692,Topical Creams - Hydrocortisone,"Jacksonville, FL",92,14,Knight Inc,2025-03-21,2025-04-22,49,0.7286078719858781
+286582,Cold & Cough Syrup - Robitussin,"Jacksonville, FL",166,35,Lin Ltd,2025-01-04,2025-05-08,8,0.454396482315115
+778862,Vitamins - Vitamin D,"Jacksonville, FL",115,47,Dixon PLC,2025-01-16,2025-05-04,11,0.9455178127988232
+964688,Vitamins - Multivitamins,"Jacksonville, FL",174,37,Mason PLC,2025-04-11,2025-04-20,38,0.5008047556548918
+266569,Insulin - Novolog,"Jacksonville, FL",63,18,Greene-Wilkinson,2025-04-04,2025-05-02,22,0.22326962540902318
+543572,Antacids - Tums,"Jacksonville, FL",47,20,Lopez-Greene,2025-01-21,2025-04-21,41,0.2854874794641542
+606080,Diabetes Test Strips,"Jacksonville, FL",69,26,"Kim, Schaefer and Walter",2025-02-24,2025-05-02,41,0.814522647417142
+689627,Allergy Relief - Benadryl,"Jacksonville, FL",62,40,Lewis and Sons,2025-02-21,2025-05-07,19,0.7654736846746291
+360833,First Aid - Band-Aids,"Jacksonville, FL",120,10,Anderson Group,2025-04-04,2025-04-25,39,0.9431415525658176
+184147,Flu Shots,"Fort Worth, TX",51,12,Buckley-Byrd,2025-02-14,2025-05-06,27,0.9129874808275563
+351106,GLP-1 Medications,"Fort Worth, TX",114,23,"Johnson, Gordon and Smith",2025-04-08,2025-04-26,16,0.727530132957266
+510532,Pain Relief - Ibuprofen,"Fort Worth, TX",47,29,Ballard-Cortez,2025-01-06,2025-04-28,32,0.3892694549727721
+598135,Pain Relief - Acetaminophen,"Fort Worth, TX",93,21,Boone Group,2025-02-21,2025-05-12,36,0.2798072531861119
+719679,Antibiotics - Amoxicillin,"Fort Worth, TX",118,36,Taylor Ltd,2025-01-22,2025-05-06,40,0.5862093055620843
+214860,Antihistamines - Zyrtec,"Fort Worth, TX",23,38,Saunders-Fletcher,2025-01-27,2025-05-10,5,0.0223947086760512
+350468,Topical Creams - Hydrocortisone,"Fort Worth, TX",71,15,Cole-Olson,2025-01-31,2025-05-11,39,0.027219316999754217
+817274,Cold & Cough Syrup - Robitussin,"Fort Worth, TX",163,17,Rangel LLC,2025-01-24,2025-05-11,32,0.5862678487757839
+837968,Vitamins - Vitamin D,"Fort Worth, TX",144,34,"Villegas, Lynn and Brown",2025-01-13,2025-05-12,12,0.9507243263571864
+601150,Vitamins - Multivitamins,"Fort Worth, TX",146,22,Charles LLC,2025-01-28,2025-05-03,24,0.07338251396047135
+232333,Insulin - Novolog,"Fort Worth, TX",71,13,Zamora Group,2025-01-24,2025-05-02,40,0.7549352495447551
+278808,Antacids - Tums,"Fort Worth, TX",109,39,"King, Roy and Peterson",2025-04-13,2025-05-12,22,0.6544551312403218
+360019,Diabetes Test Strips,"Fort Worth, TX",172,19,Kennedy Inc,2025-02-11,2025-04-30,8,0.12100174110113215
+695097,Allergy Relief - Benadryl,"Fort Worth, TX",146,15,Nelson PLC,2025-04-04,2025-04-25,30,0.8688540214855922
+688740,First Aid - Band-Aids,"Fort Worth, TX",94,34,Brown LLC,2025-02-21,2025-05-03,34,0.2300533554304205
+737646,Flu Shots,"Columbus, OH",118,30,Murphy Ltd,2025-04-12,2025-04-21,9,0.24760866528189118
+303698,GLP-1 Medications,"Columbus, OH",152,44,Johnson-Gray,2025-02-14,2025-04-28,33,0.1910184638553898
+431511,Pain Relief - Ibuprofen,"Columbus, OH",137,47,Meadows LLC,2025-03-23,2025-04-27,40,0.8803997558859621
+309572,Pain Relief - Acetaminophen,"Columbus, OH",174,21,"Reynolds, Hernandez and Williams",2025-03-03,2025-05-12,34,0.6770947190021008
+153998,Antibiotics - Amoxicillin,"Columbus, OH",150,32,Tyler PLC,2025-01-19,2025-05-03,30,0.42622795122340174
+702220,Antihistamines - Zyrtec,"Columbus, OH",45,25,"Mclean, Trujillo and Norman",2025-04-08,2025-04-26,14,0.7506833904685526
+871874,Topical Creams - Hydrocortisone,"Columbus, OH",125,48,Carey Inc,2025-03-25,2025-04-22,22,0.1889948293597602
+938437,Cold & Cough Syrup - Robitussin,"Columbus, OH",135,22,Hodges-Williams,2025-01-30,2025-05-12,48,0.6931545258478318
+127153,Vitamins - Vitamin D,"Columbus, OH",182,23,Anderson Inc,2025-01-16,2025-05-03,48,0.40989721412638136
+636166,Vitamins - Multivitamins,"Columbus, OH",66,26,"Owens, Chase and Williams",2025-02-28,2025-04-25,30,0.06673675143391455
+744198,Insulin - Novolog,"Columbus, OH",39,25,"Meadows, Powers and Huffman",2025-04-02,2025-04-21,14,0.6291405905806317
+672722,Antacids - Tums,"Columbus, OH",136,12,Jones Group,2025-03-21,2025-05-03,24,0.39728759856021034
+785267,Diabetes Test Strips,"Columbus, OH",171,46,Hahn Ltd,2025-04-05,2025-05-03,24,0.5702017933733134
+294691,Allergy Relief - Benadryl,"Columbus, OH",159,28,Anderson PLC,2025-01-28,2025-05-06,6,0.9797035647191457
+456376,First Aid - Band-Aids,"Columbus, OH",121,17,"Mann, Rodgers and Cole",2025-03-28,2025-05-02,43,0.09548204083633438
+606427,Flu Shots,"Charlotte, NC",72,21,Clark-Atkins,2025-02-04,2025-05-12,40,0.6079830749337517
+429304,GLP-1 Medications,"Charlotte, NC",179,28,Shea-Rangel,2025-04-01,2025-04-25,10,0.7307863219606016
+731594,Pain Relief - Ibuprofen,"Charlotte, NC",97,15,Miller Inc,2025-01-08,2025-04-27,5,0.3887443161746249
+398145,Pain Relief - Acetaminophen,"Charlotte, NC",118,37,Arnold-White,2025-01-24,2025-04-28,45,0.9858991011189566
+641129,Antibiotics - Amoxicillin,"Charlotte, NC",148,10,Robinson-Kennedy,2025-02-05,2025-05-01,47,0.6533972622283333
+617670,Antihistamines - Zyrtec,"Charlotte, NC",161,38,Stewart-Anderson,2025-03-15,2025-04-24,28,0.031055630045894955
+310633,Topical Creams - Hydrocortisone,"Charlotte, NC",56,34,Caldwell PLC,2025-01-20,2025-05-12,7,0.46218054234994044
+798516,Cold & Cough Syrup - Robitussin,"Charlotte, NC",193,10,"Beck, Weaver and Lawrence",2025-02-13,2025-04-28,30,0.11581111389351861
+359059,Vitamins - Vitamin D,"Charlotte, NC",86,21,Gonzalez-Snyder,2025-03-22,2025-05-09,25,0.04649975001887274
+432552,Vitamins - Multivitamins,"Charlotte, NC",185,15,Young and Sons,2025-02-10,2025-05-13,11,0.4129801601031363
+617012,Insulin - Novolog,"Charlotte, NC",197,45,Travis-Clark,2025-01-17,2025-04-22,13,0.7857232448278975
+579254,Antacids - Tums,"Charlotte, NC",12,45,"Ray, Andrews and Garcia",2025-02-17,2025-05-08,48,0.01532159344301931
+488740,Diabetes Test Strips,"Charlotte, NC",116,48,"Jones, Sweeney and Hopkins",2025-03-16,2025-05-02,14,0.5230718060233932
+594224,Allergy Relief - Benadryl,"Charlotte, NC",110,46,Craig-Wu,2025-01-05,2025-05-07,27,0.8156276966746661
+348586,First Aid - Band-Aids,"Charlotte, NC",131,44,Graves Group,2025-01-03,2025-05-05,36,0.7107564601486273
