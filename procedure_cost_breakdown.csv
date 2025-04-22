@@ -1,0 +1,211 @@
+Procedure,Provider,Network Status,Distance from Member (miles),Facility Fee ($),Physician Fee ($),Anesthesia Fee ($),Medication Fee ($),Total Cost ($)
+Appendectomy,City Hospital,In-Network,57.7,19207.88,6529.08,2834.1,1847.27,30418.33
+Appendectomy,City Hospital,Out-of-Network,53.6,30069.71,13432.68,2872.91,546.2,46921.5
+Appendectomy,Regional Medical Center,In-Network,60.6,5910.91,8254.3,4917.26,838.93,19921.4
+Appendectomy,Regional Medical Center,Out-of-Network,29.6,22367.57,3894.84,4503.45,2546.25,33312.11
+Appendectomy,Sunrise Health,In-Network,44.9,14832.84,1995.38,1737.94,1743.57,20309.73
+Appendectomy,Sunrise Health,Out-of-Network,97.7,1664.14,12113.93,2763.96,1849.54,18391.57
+Appendectomy,Green Valley Clinic,In-Network,74.9,6793.88,5763.72,2157.29,1205.2,15920.09
+Appendectomy,Green Valley Clinic,Out-of-Network,65.7,3827.77,10635.65,6997.91,1715.11,23176.44
+Appendectomy,Oceanview Medical,In-Network,50.7,16256.94,533.62,4651.09,420.03,21861.68
+Appendectomy,Oceanview Medical,Out-of-Network,88.2,29380.02,14726.18,3200.07,1030.57,48336.84
+Knee Replacement,City Hospital,In-Network,90.3,7517.68,5101.33,3203.15,328.01,16150.17
+Knee Replacement,City Hospital,Out-of-Network,94.1,28715.85,6210.64,3090.11,864.47,38881.07
+Knee Replacement,Regional Medical Center,In-Network,6.4,14408.0,7924.36,1373.91,342.54,24048.81
+Knee Replacement,Regional Medical Center,Out-of-Network,25.3,14534.13,15229.58,5500.57,2393.52,37657.8
+Knee Replacement,Sunrise Health,In-Network,15.6,1466.53,8562.43,1302.26,482.82,11814.04
+Knee Replacement,Sunrise Health,Out-of-Network,73.5,25929.99,7663.12,6711.03,208.55,40512.69
+Knee Replacement,Green Valley Clinic,In-Network,51.3,16398.95,1771.28,2274.62,1587.83,22032.68
+Knee Replacement,Green Valley Clinic,Out-of-Network,22.4,2746.69,9716.09,4300.4,1144.74,17907.92
+Knee Replacement,Oceanview Medical,In-Network,40.1,2429.42,7381.81,4045.75,1670.9,15527.88
+Knee Replacement,Oceanview Medical,Out-of-Network,21.2,20418.65,6294.2,5585.74,1562.05,33860.64
+Hip Replacement,City Hospital,In-Network,32.7,17530.2,6655.05,4756.79,217.33,29159.37
+Hip Replacement,City Hospital,Out-of-Network,81.8,4962.25,12532.02,6218.76,651.1,24364.13
+Hip Replacement,Regional Medical Center,In-Network,66.5,5533.15,7476.79,3259.72,1620.16,17889.82
+Hip Replacement,Regional Medical Center,Out-of-Network,4.9,16114.27,6975.72,1073.06,2485.37,26648.42
+Hip Replacement,Sunrise Health,In-Network,72.1,11184.97,1865.15,3027.86,1839.42,17917.4
+Hip Replacement,Sunrise Health,Out-of-Network,10.1,27257.22,11788.72,7990.0,1994.9,49030.84
+Hip Replacement,Green Valley Clinic,In-Network,79.5,16352.41,9075.55,3668.7,1089.26,30185.92
+Hip Replacement,Green Valley Clinic,Out-of-Network,79.5,30007.16,2809.71,4814.49,1987.22,39618.58
+Hip Replacement,Oceanview Medical,In-Network,17.7,16530.31,2491.51,1475.29,784.52,21281.63
+Hip Replacement,Oceanview Medical,Out-of-Network,63.7,22105.0,10854.84,5864.76,522.9,39347.5
+Cataract Surgery,City Hospital,In-Network,65.3,1320.21,7158.64,2048.09,830.86,11357.8
+Cataract Surgery,City Hospital,Out-of-Network,37.8,11984.48,6472.24,7728.28,3215.28,29400.28
+Cataract Surgery,Regional Medical Center,In-Network,31.1,12671.1,6993.4,4780.57,507.49,24952.56
+Cataract Surgery,Regional Medical Center,Out-of-Network,6.8,23144.17,2065.29,1800.39,2786.99,29796.84
+Cataract Surgery,Sunrise Health,In-Network,97.2,12123.5,5806.46,1670.21,715.53,20315.7
+Cataract Surgery,Sunrise Health,Out-of-Network,45.4,10562.16,11855.79,1131.6,1435.18,24984.73
+Cataract Surgery,Green Valley Clinic,In-Network,27.7,15052.33,7802.8,1725.29,1498.12,26078.54
+Cataract Surgery,Green Valley Clinic,Out-of-Network,48.9,32459.4,3887.31,1025.37,2743.96,40116.04
+Cataract Surgery,Oceanview Medical,In-Network,92.5,6030.48,9180.88,4999.2,583.36,20793.92
+Cataract Surgery,Oceanview Medical,Out-of-Network,15.7,8028.98,10967.85,2024.47,407.89,21429.19
+Coronary Artery Bypass,City Hospital,In-Network,14.1,17452.93,1468.97,2424.12,1561.14,22907.16
+Coronary Artery Bypass,City Hospital,Out-of-Network,86.0,19956.92,11113.32,4400.94,1852.04,37323.22
+Coronary Artery Bypass,Regional Medical Center,In-Network,34.4,11812.21,9149.51,2446.13,796.76,24204.61
+Coronary Artery Bypass,Regional Medical Center,Out-of-Network,11.3,7487.0,4018.95,3378.85,3629.08,18513.88
+Coronary Artery Bypass,Sunrise Health,In-Network,19.1,6761.67,5255.81,4851.07,1140.61,18009.16
+Coronary Artery Bypass,Sunrise Health,Out-of-Network,9.2,2789.36,13130.34,3132.91,919.44,19972.05
+Coronary Artery Bypass,Green Valley Clinic,In-Network,47.4,6146.09,9310.41,1029.52,1648.32,18134.34
+Coronary Artery Bypass,Green Valley Clinic,Out-of-Network,8.7,22963.4,10807.84,1745.0,2457.71,37973.95
+Coronary Artery Bypass,Oceanview Medical,In-Network,29.7,5510.03,1215.05,4978.28,650.44,12353.8
+Coronary Artery Bypass,Oceanview Medical,Out-of-Network,7.1,14637.65,3501.38,3052.0,902.0,22093.03
+Hysterectomy,City Hospital,In-Network,28.8,11716.77,9151.17,3372.14,763.36,25003.44
+Hysterectomy,City Hospital,Out-of-Network,99.0,6218.43,10732.33,2452.68,1089.39,20492.83
+Hysterectomy,Regional Medical Center,In-Network,5.8,18343.75,5784.7,3296.4,1832.2,29257.05
+Hysterectomy,Regional Medical Center,Out-of-Network,83.6,9702.88,13559.16,7535.33,969.87,31767.24
+Hysterectomy,Sunrise Health,In-Network,18.7,4905.43,4118.25,1685.48,752.33,11461.49
+Hysterectomy,Sunrise Health,Out-of-Network,34.1,7678.01,7059.46,4396.82,696.7,19830.99
+Hysterectomy,Green Valley Clinic,In-Network,11.5,16344.8,5922.37,1108.78,1022.86,24398.81
+Hysterectomy,Green Valley Clinic,Out-of-Network,35.5,6586.99,2409.5,654.92,2682.97,12334.38
+Hysterectomy,Oceanview Medical,In-Network,61.4,13904.83,684.62,2914.62,1987.26,19491.33
+Hysterectomy,Oceanview Medical,Out-of-Network,9.2,24413.2,13333.37,1620.4,1248.21,40615.18
+Cesarean Section,City Hospital,In-Network,43.8,3954.79,8525.72,2894.82,600.19,15975.52
+Cesarean Section,City Hospital,Out-of-Network,72.4,22658.26,4465.8,2486.94,1024.73,30635.73
+Cesarean Section,Regional Medical Center,In-Network,23.9,15123.18,8684.69,391.55,1101.39,25300.81
+Cesarean Section,Regional Medical Center,Out-of-Network,69.7,5691.98,7615.5,5006.52,888.9,19202.9
+Cesarean Section,Sunrise Health,In-Network,25.1,6518.37,5995.16,4579.65,1053.94,18147.12
+Cesarean Section,Sunrise Health,Out-of-Network,92.3,11122.94,19169.75,3306.31,1826.45,35425.45
+Cesarean Section,Green Valley Clinic,In-Network,62.2,16640.33,5976.01,2920.08,565.27,26101.69
+Cesarean Section,Green Valley Clinic,Out-of-Network,18.5,18170.47,9297.62,6336.32,2111.62,35916.03
+Cesarean Section,Oceanview Medical,In-Network,88.8,4205.74,1833.02,1344.07,1844.53,9227.36
+Cesarean Section,Oceanview Medical,Out-of-Network,57.2,6876.58,6483.75,6611.9,484.0,20456.23
+Tonsillectomy,City Hospital,In-Network,19.6,19559.93,1175.47,1410.03,752.36,22897.79
+Tonsillectomy,City Hospital,Out-of-Network,24.9,25003.38,15988.37,6064.03,3191.37,50247.15
+Tonsillectomy,Regional Medical Center,In-Network,48.4,6861.24,2094.25,2107.98,1350.81,12414.28
+Tonsillectomy,Regional Medical Center,Out-of-Network,96.2,23946.11,2347.45,6471.7,1005.43,33770.69
+Tonsillectomy,Sunrise Health,In-Network,90.4,6471.32,8869.26,683.67,1085.67,17109.92
+Tonsillectomy,Sunrise Health,Out-of-Network,22.6,5192.84,1467.88,5018.39,1427.04,13106.15
+Tonsillectomy,Green Valley Clinic,In-Network,41.8,12726.21,4305.82,1889.29,1093.83,20015.15
+Tonsillectomy,Green Valley Clinic,Out-of-Network,69.5,4836.55,7294.12,4587.46,837.93,17556.06
+Tonsillectomy,Oceanview Medical,In-Network,6.8,4960.57,6768.12,3299.23,1678.43,16706.35
+Tonsillectomy,Oceanview Medical,Out-of-Network,72.5,25754.77,14758.09,640.93,635.9,41789.69
+Gallbladder Removal,City Hospital,In-Network,50.3,5354.65,4209.74,3259.42,160.1,12983.91
+Gallbladder Removal,City Hospital,Out-of-Network,95.1,8451.56,7828.41,5491.9,2029.71,23801.58
+Gallbladder Removal,Regional Medical Center,In-Network,1.9,2854.88,4245.17,3568.14,1958.04,12626.23
+Gallbladder Removal,Regional Medical Center,Out-of-Network,52.5,1762.97,5755.82,2816.71,2119.22,12454.72
+Gallbladder Removal,Sunrise Health,In-Network,70.7,2884.42,5154.56,2058.67,1292.87,11390.52
+Gallbladder Removal,Sunrise Health,Out-of-Network,94.2,20782.52,5518.4,6206.27,499.74,33006.93
+Gallbladder Removal,Green Valley Clinic,In-Network,11.6,8320.08,1941.64,3674.51,660.11,14596.34
+Gallbladder Removal,Green Valley Clinic,Out-of-Network,49.6,33255.78,2683.86,5524.44,959.13,42423.21
+Gallbladder Removal,Oceanview Medical,In-Network,2.1,13488.34,6153.62,2336.14,1942.71,23920.81
+Gallbladder Removal,Oceanview Medical,Out-of-Network,45.4,3364.42,2671.49,4195.49,2759.41,12990.81
+Spinal Fusion,City Hospital,In-Network,41.9,14863.87,9168.37,1520.0,1743.81,27296.05
+Spinal Fusion,City Hospital,Out-of-Network,30.6,21808.56,7794.74,5279.47,1929.18,36811.95
+Spinal Fusion,Regional Medical Center,In-Network,95.8,12932.46,6501.99,4610.42,1565.93,25610.8
+Spinal Fusion,Regional Medical Center,Out-of-Network,77.1,5100.88,10174.84,4933.47,1227.22,21436.41
+Spinal Fusion,Sunrise Health,In-Network,87.7,1527.92,6612.97,4432.91,321.5,12895.3
+Spinal Fusion,Sunrise Health,Out-of-Network,89.9,6388.04,10956.38,2973.23,3085.63,23403.28
+Spinal Fusion,Green Valley Clinic,In-Network,24.0,15027.56,3205.91,3982.09,1066.08,23281.64
+Spinal Fusion,Green Valley Clinic,Out-of-Network,66.4,11134.83,9413.19,2169.11,2114.05,24831.18
+Spinal Fusion,Oceanview Medical,In-Network,82.0,5816.81,3512.21,459.6,1155.99,10944.61
+Spinal Fusion,Oceanview Medical,Out-of-Network,17.6,28239.74,12959.72,824.96,555.91,42580.33
+Colonoscopy,City Hospital,In-Network,51.2,1364.84,1338.45,1337.27,1981.85,6022.41
+Colonoscopy,City Hospital,Out-of-Network,25.7,35639.77,8398.96,904.61,1329.35,46272.69
+Colonoscopy,Regional Medical Center,In-Network,3.7,15098.5,2687.53,4569.35,778.38,23133.76
+Colonoscopy,Regional Medical Center,Out-of-Network,53.9,27211.16,3973.24,6305.85,2596.4,40086.65
+Colonoscopy,Sunrise Health,In-Network,2.7,18966.24,821.16,848.38,983.61,21619.39
+Colonoscopy,Sunrise Health,Out-of-Network,57.9,19179.23,8986.56,5806.8,1558.85,35531.44
+Colonoscopy,Green Valley Clinic,In-Network,63.1,12037.11,5956.72,1608.64,633.01,20235.48
+Colonoscopy,Green Valley Clinic,Out-of-Network,94.9,29990.81,5051.82,6748.62,1352.5,43143.75
+Colonoscopy,Oceanview Medical,In-Network,7.8,6637.83,9205.57,3824.92,659.99,20328.31
+Colonoscopy,Oceanview Medical,Out-of-Network,1.4,16233.28,8189.33,4291.2,272.25,28986.06
+Angioplasty,City Hospital,In-Network,65.9,2046.41,1445.47,330.06,200.52,4022.46
+Angioplasty,City Hospital,Out-of-Network,32.7,21880.98,6298.09,5022.23,1290.62,34491.92
+Angioplasty,Regional Medical Center,In-Network,11.6,10716.26,2820.68,492.04,1125.28,15154.26
+Angioplasty,Regional Medical Center,Out-of-Network,5.1,39346.11,8171.87,3023.09,1230.85,51771.92
+Angioplasty,Sunrise Health,In-Network,98.5,17329.25,7203.42,4947.64,1262.79,30743.1
+Angioplasty,Sunrise Health,Out-of-Network,62.6,6991.69,16475.23,8234.17,367.08,32068.17
+Angioplasty,Green Valley Clinic,In-Network,99.8,11656.53,8458.39,2337.27,416.18,22868.37
+Angioplasty,Green Valley Clinic,Out-of-Network,3.3,16064.54,16940.88,2959.45,1778.41,37743.28
+Angioplasty,Oceanview Medical,In-Network,25.9,16501.05,1424.47,1075.93,1944.96,20946.41
+Angioplasty,Oceanview Medical,Out-of-Network,30.2,22359.58,3790.76,5354.94,733.23,32238.51
+MRI Scan,City Hospital,In-Network,46.2,1528.03,6046.12,4403.36,1197.46,13174.97
+MRI Scan,City Hospital,Out-of-Network,18.4,14866.32,9854.83,4931.63,1161.06,30813.84
+MRI Scan,Regional Medical Center,In-Network,8.3,14644.89,2570.82,591.25,1434.8,19241.76
+MRI Scan,Regional Medical Center,Out-of-Network,66.1,11271.37,9652.87,6766.58,2487.65,30178.47
+MRI Scan,Sunrise Health,In-Network,31.3,13188.72,5708.24,1617.42,1914.64,22429.02
+MRI Scan,Sunrise Health,Out-of-Network,54.5,8848.73,4440.79,3182.58,2069.99,18542.09
+MRI Scan,Green Valley Clinic,In-Network,37.0,19634.97,809.35,2560.82,1761.81,24766.95
+MRI Scan,Green Valley Clinic,Out-of-Network,3.8,12110.61,18032.3,2421.3,3035.41,35599.62
+MRI Scan,Oceanview Medical,In-Network,82.4,17832.17,9990.11,1021.41,1212.56,30056.25
+MRI Scan,Oceanview Medical,Out-of-Network,99.0,27995.8,9080.74,6139.08,3142.34,46357.96
+CT Scan,City Hospital,In-Network,45.8,18073.22,8478.75,1246.23,368.12,28166.32
+CT Scan,City Hospital,Out-of-Network,11.3,18666.19,3715.66,7864.37,1986.2,32232.42
+CT Scan,Regional Medical Center,In-Network,46.3,18835.84,9062.96,624.98,1353.59,29877.37
+CT Scan,Regional Medical Center,Out-of-Network,9.4,7498.68,11862.94,7454.85,3059.68,29876.15
+CT Scan,Sunrise Health,In-Network,37.9,2776.56,7296.3,2568.86,1363.45,14005.17
+CT Scan,Sunrise Health,Out-of-Network,19.2,13279.45,4051.34,2128.53,1244.46,20703.78
+CT Scan,Green Valley Clinic,In-Network,75.2,8277.51,4303.61,879.29,186.97,13647.38
+CT Scan,Green Valley Clinic,Out-of-Network,71.8,24817.34,8852.45,1743.47,2342.54,37755.8
+CT Scan,Oceanview Medical,In-Network,46.9,12764.35,3306.94,1027.61,1964.94,19063.84
+CT Scan,Oceanview Medical,Out-of-Network,72.0,2106.22,3468.16,5231.87,1216.37,12022.62
+X-Ray,City Hospital,In-Network,22.7,10783.25,6044.82,3171.85,1415.38,21415.3
+X-Ray,City Hospital,Out-of-Network,13.1,6091.61,6183.3,5286.59,1678.58,19240.08
+X-Ray,Regional Medical Center,In-Network,70.6,9429.24,3258.6,374.76,940.42,14003.02
+X-Ray,Regional Medical Center,Out-of-Network,96.3,25792.91,4573.38,4525.41,2896.62,37788.32
+X-Ray,Sunrise Health,In-Network,51.6,18650.94,2379.73,2074.6,1005.74,24111.01
+X-Ray,Sunrise Health,Out-of-Network,42.0,28484.9,1937.34,5855.18,654.05,36931.47
+X-Ray,Green Valley Clinic,In-Network,43.7,6845.92,2388.83,476.36,1160.36,10871.47
+X-Ray,Green Valley Clinic,Out-of-Network,51.8,1686.61,3421.71,547.66,513.04,6169.02
+X-Ray,Oceanview Medical,In-Network,15.4,19535.31,6392.04,725.74,726.71,27379.8
+X-Ray,Oceanview Medical,Out-of-Network,19.4,3626.0,17704.07,4434.38,1451.26,27215.71
+Ultrasound,City Hospital,In-Network,9.0,7874.26,6707.46,3475.01,654.82,18711.55
+Ultrasound,City Hospital,Out-of-Network,48.7,22903.45,9612.51,5932.88,599.33,39048.17
+Ultrasound,Regional Medical Center,In-Network,85.2,16901.42,9802.97,713.2,893.22,28310.81
+Ultrasound,Regional Medical Center,Out-of-Network,92.9,10935.67,5871.49,2526.05,2268.3,21601.51
+Ultrasound,Sunrise Health,In-Network,84.4,12661.95,7518.44,673.5,391.44,21245.33
+Ultrasound,Sunrise Health,Out-of-Network,48.9,14267.31,12759.91,3186.76,2787.16,33001.14
+Ultrasound,Green Valley Clinic,In-Network,77.9,13646.39,6692.28,2106.98,133.34,22578.99
+Ultrasound,Green Valley Clinic,Out-of-Network,62.8,25168.59,2966.51,7803.48,2388.86,38327.44
+Ultrasound,Oceanview Medical,In-Network,13.5,17327.97,689.32,4005.84,570.06,22593.19
+Ultrasound,Oceanview Medical,Out-of-Network,16.9,22564.21,3902.96,3513.97,1586.83,31567.97
+Skin Biopsy,City Hospital,In-Network,88.3,15010.69,1131.51,3182.28,415.8,19740.28
+Skin Biopsy,City Hospital,Out-of-Network,55.9,1449.97,6451.03,5979.14,893.55,14773.69
+Skin Biopsy,Regional Medical Center,In-Network,8.8,15469.62,9252.35,1716.34,1932.31,28370.62
+Skin Biopsy,Regional Medical Center,Out-of-Network,36.6,3497.26,4667.68,1228.96,2119.98,11513.88
+Skin Biopsy,Sunrise Health,In-Network,85.9,18286.56,8382.28,2961.03,174.06,29803.93
+Skin Biopsy,Sunrise Health,Out-of-Network,26.6,8967.6,10005.0,3543.37,2958.12,25474.09
+Skin Biopsy,Green Valley Clinic,In-Network,13.2,12804.59,2370.86,4320.17,282.3,19777.92
+Skin Biopsy,Green Valley Clinic,Out-of-Network,32.3,6222.12,17501.56,3567.25,1569.77,28860.7
+Skin Biopsy,Oceanview Medical,In-Network,50.9,18257.83,1045.19,2258.6,303.98,21865.6
+Skin Biopsy,Oceanview Medical,Out-of-Network,49.7,20719.39,11392.33,7115.47,2342.06,41569.25
+Dental Extraction,City Hospital,In-Network,40.2,6011.79,1188.21,3297.73,330.06,10827.79
+Dental Extraction,City Hospital,Out-of-Network,82.8,22146.67,8961.04,1212.31,182.4,32502.42
+Dental Extraction,Regional Medical Center,In-Network,89.0,7698.91,3016.95,635.9,1230.32,12582.08
+Dental Extraction,Regional Medical Center,Out-of-Network,25.1,16696.43,12295.22,2147.35,3452.16,34591.16
+Dental Extraction,Sunrise Health,In-Network,70.6,13279.06,1061.67,1177.53,1359.91,16878.17
+Dental Extraction,Sunrise Health,Out-of-Network,73.2,10648.87,11643.73,3744.46,2301.58,28338.64
+Dental Extraction,Green Valley Clinic,In-Network,88.4,1732.97,2499.21,390.54,777.98,5400.7
+Dental Extraction,Green Valley Clinic,Out-of-Network,82.6,7264.81,8101.31,9213.34,475.74,25055.2
+Dental Extraction,Oceanview Medical,In-Network,74.7,13997.03,6797.68,576.29,1976.75,23347.75
+Dental Extraction,Oceanview Medical,Out-of-Network,13.8,28234.75,17102.78,6824.01,548.06,52709.6
+Root Canal,City Hospital,In-Network,82.5,2525.93,3645.26,2161.37,1842.68,10175.24
+Root Canal,City Hospital,Out-of-Network,15.1,4084.14,13632.46,2677.32,3052.18,23446.1
+Root Canal,Regional Medical Center,In-Network,11.9,1944.54,6067.93,3944.88,209.71,12167.06
+Root Canal,Regional Medical Center,Out-of-Network,26.4,6957.5,6012.91,7073.69,2199.37,22243.47
+Root Canal,Sunrise Health,In-Network,51.0,1775.94,7306.12,4586.9,1525.09,15194.05
+Root Canal,Sunrise Health,Out-of-Network,33.2,9902.63,6397.75,3677.49,2586.1,22563.97
+Root Canal,Green Valley Clinic,In-Network,21.7,16269.56,1064.47,2735.81,1158.69,21228.53
+Root Canal,Green Valley Clinic,Out-of-Network,89.7,22715.85,4663.31,4651.7,1690.01,33720.87
+Root Canal,Oceanview Medical,In-Network,10.4,6667.14,1197.76,526.58,1689.16,10080.64
+Root Canal,Oceanview Medical,Out-of-Network,43.2,12306.7,8711.76,1384.98,1102.57,23506.01
+Physical Therapy Session,City Hospital,In-Network,1.8,12930.73,5725.88,2627.67,1823.27,23107.55
+Physical Therapy Session,City Hospital,Out-of-Network,84.0,9234.79,11263.77,8616.8,1127.33,30242.69
+Physical Therapy Session,Regional Medical Center,In-Network,49.7,12389.14,1850.04,3845.97,887.79,18972.94
+Physical Therapy Session,Regional Medical Center,Out-of-Network,91.1,20816.16,7601.36,4903.11,2246.29,35566.92
+Physical Therapy Session,Sunrise Health,In-Network,3.8,11371.07,4627.42,1737.33,1633.39,19369.21
+Physical Therapy Session,Sunrise Health,Out-of-Network,50.2,29146.77,17153.46,8652.25,1229.87,56182.35
+Physical Therapy Session,Green Valley Clinic,In-Network,26.5,17916.92,7644.27,3376.16,442.19,29379.54
+Physical Therapy Session,Green Valley Clinic,Out-of-Network,12.1,13065.16,10300.07,640.51,1112.5,25118.24
+Physical Therapy Session,Oceanview Medical,In-Network,91.0,13545.43,3676.06,2017.43,1441.62,20680.54
+Physical Therapy Session,Oceanview Medical,Out-of-Network,49.9,26992.7,9628.46,8017.68,1281.17,45920.01
+Annual Wellness Check,City Hospital,In-Network,60.3,0.0,0.0,0.0,0.0,0.0
+Annual Wellness Check,City Hospital,Out-of-Network,34.5,3471.47,2191.75,0.0,0.0,5663.22
+Annual Wellness Check,Regional Medical Center,In-Network,2.6,0.0,0.0,0.0,0.0,0.0
+Annual Wellness Check,Regional Medical Center,Out-of-Network,58.0,2050.33,3245.04,0.0,0.0,5295.37
+Annual Wellness Check,Sunrise Health,In-Network,57.1,0.0,0.0,0.0,0.0,0.0
+Annual Wellness Check,Sunrise Health,Out-of-Network,78.1,4727.51,2937.68,0.0,0.0,7665.19
+Annual Wellness Check,Green Valley Clinic,In-Network,83.5,0.0,0.0,0.0,0.0,0.0
+Annual Wellness Check,Green Valley Clinic,Out-of-Network,73.8,4895.2,2509.91,0.0,0.0,7405.11
+Annual Wellness Check,Oceanview Medical,In-Network,10.4,0.0,0.0,0.0,0.0,0.0
+Annual Wellness Check,Oceanview Medical,Out-of-Network,15.7,3151.49,2152.16,0.0,0.0,5303.65

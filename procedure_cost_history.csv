@@ -1,0 +1,101 @@
+Name,Relationship,Age,Procedure,Date of Service,Provider,Network Status,Distance from Member (miles),Facility Fee ($),Physician Fee ($),Anesthesia Fee ($),Medication Fee ($),Total Cost ($)
+Bob,Father,45,Physical Therapy Session,2024-09-07,Oceanview Medical,In-Network,40.4,19082.18,4017.8,1825.84,1158.68,26084.5
+Bob,Father,45,Angioplasty,2024-10-27,Oceanview Medical,Out-of-Network,46.0,3490.59,5180.17,4041.57,218.0,12930.33
+Alice,Mother,42,Colonoscopy,2024-06-12,Sunrise Health,Out-of-Network,32.0,21000.33,9272.07,7089.29,2353.04,39714.73
+Daisy,Daughter,9,Annual Wellness Check,2024-05-27,Regional Medical Center,Out-of-Network,24.7,242.12,7.35,0.0,0.0,249.47
+Ella,Daughter,6,CT Scan,2025-03-10,Oceanview Medical,In-Network,27.8,16069.67,8874.27,1052.25,343.07,26339.26
+Alice,Mother,42,Root Canal,2024-05-01,City Hospital,Out-of-Network,19.8,18268.41,2671.29,1064.62,2078.01,24082.33
+Bob,Father,45,Cesarean Section,2024-05-22,Regional Medical Center,Out-of-Network,18.6,12231.69,894.06,3005.21,1606.56,17737.52
+Charlie,Son,12,Dental Extraction,2024-08-28,Oceanview Medical,Out-of-Network,37.1,30482.22,7652.98,2554.76,982.34,41672.3
+Ella,Daughter,6,X-Ray,2024-10-19,Green Valley Clinic,Out-of-Network,45.8,29355.07,6062.68,5941.71,2196.76,43556.22
+Alice,Mother,42,Coronary Artery Bypass,2024-08-17,Oceanview Medical,In-Network,39.6,6283.28,5548.19,1285.51,975.76,14092.74
+Bob,Father,45,CT Scan,2024-10-30,Oceanview Medical,In-Network,37.2,12588.87,5981.43,2022.08,690.94,21283.32
+Charlie,Son,12,Cesarean Section,2024-10-26,Green Valley Clinic,Out-of-Network,42.7,35013.45,1916.25,8899.77,1552.2,47381.67
+Daisy,Daughter,9,Knee Replacement,2024-04-25,Regional Medical Center,Out-of-Network,22.3,29920.84,3141.59,1271.78,2607.49,36941.7
+Bob,Father,45,Dental Extraction,2024-09-21,Regional Medical Center,Out-of-Network,31.8,8629.78,10355.05,5088.09,2967.66,27040.58
+Charlie,Son,12,Colonoscopy,2024-06-25,Green Valley Clinic,In-Network,20.3,4276.13,9959.19,3026.49,645.26,17907.07
+Charlie,Son,12,Cesarean Section,2024-07-14,Sunrise Health,In-Network,34.2,1174.78,8116.46,2617.67,1382.57,13291.48
+Daisy,Daughter,9,MRI Scan,2024-10-29,Oceanview Medical,In-Network,46.4,16400.98,9622.85,3728.61,175.32,29927.76
+Bob,Father,45,Cesarean Section,2024-12-05,Regional Medical Center,Out-of-Network,35.6,31868.84,6509.7,4901.18,2806.72,46086.44
+Alice,Mother,42,X-Ray,2025-03-14,Regional Medical Center,Out-of-Network,24.1,23860.77,7860.83,2899.11,525.62,35146.33
+Charlie,Son,12,Knee Replacement,2025-03-01,Sunrise Health,Out-of-Network,29.6,19186.57,1627.59,3334.25,1259.21,25407.62
+Alice,Mother,42,Hip Replacement,2025-02-22,City Hospital,In-Network,3.5,19235.06,7331.76,4966.24,1030.62,32563.68
+Charlie,Son,12,Appendectomy,2024-10-26,City Hospital,In-Network,38.5,6903.68,2282.46,4372.1,1964.93,15523.17
+Daisy,Daughter,9,Hysterectomy,2025-03-07,Sunrise Health,In-Network,20.6,11561.39,5169.34,387.46,339.49,17457.68
+Bob,Father,45,CT Scan,2025-01-10,Regional Medical Center,Out-of-Network,22.0,27899.53,1505.1,3991.26,1023.27,34419.16
+Ella,Daughter,6,Root Canal,2025-01-07,City Hospital,Out-of-Network,45.9,27725.72,6291.71,1041.23,1918.69,36977.35
+Ella,Daughter,6,Annual Wellness Check,2025-01-05,Sunrise Health,In-Network,39.1,0.0,0.0,0.0,0.0,0.0
+Daisy,Daughter,9,Gallbladder Removal,2024-05-14,Oceanview Medical,In-Network,25.3,3250.48,890.37,1966.65,509.58,6617.08
+Charlie,Son,12,Skin Biopsy,2025-01-17,Sunrise Health,Out-of-Network,1.1,15391.82,8108.28,7112.63,2218.07,32830.8
+Daisy,Daughter,9,Appendectomy,2024-11-08,Regional Medical Center,Out-of-Network,14.7,15479.61,10561.36,4195.8,2447.17,32683.94
+Daisy,Daughter,9,Root Canal,2024-09-16,City Hospital,In-Network,15.1,5373.24,9733.58,1168.41,1147.75,17422.98
+Bob,Father,45,Spinal Fusion,2024-07-12,City Hospital,In-Network,26.5,16508.21,8437.06,2747.2,1389.11,29081.58
+Charlie,Son,12,Coronary Artery Bypass,2024-07-31,Green Valley Clinic,Out-of-Network,24.9,5927.63,8520.04,6073.55,2162.95,22684.17
+Alice,Mother,42,Cesarean Section,2024-09-03,City Hospital,In-Network,9.2,17736.37,9029.85,3707.42,1448.87,31922.51
+Charlie,Son,12,Root Canal,2024-11-15,City Hospital,In-Network,23.3,13015.1,7950.61,1575.24,1978.99,24519.94
+Ella,Daughter,6,Knee Replacement,2024-06-10,Regional Medical Center,In-Network,1.9,10348.55,6220.66,1522.21,738.38,18829.8
+Alice,Mother,42,Hip Replacement,2024-10-22,Regional Medical Center,Out-of-Network,44.7,13372.3,12883.61,7093.94,2896.56,36246.41
+Bob,Father,45,Skin Biopsy,2025-01-16,Regional Medical Center,In-Network,41.9,1633.76,7903.3,4456.8,1257.34,15251.2
+Daisy,Daughter,9,Hysterectomy,2025-02-17,Green Valley Clinic,In-Network,38.2,12755.65,4024.63,1081.13,263.7,18125.11
+Daisy,Daughter,9,Spinal Fusion,2024-08-04,Oceanview Medical,Out-of-Network,33.5,15077.8,2201.6,6263.13,146.29,23688.82
+Bob,Father,45,Gallbladder Removal,2024-06-10,Regional Medical Center,In-Network,25.5,6539.25,6762.75,2688.51,1351.58,17342.09
+Bob,Father,45,Annual Wellness Check,2024-11-28,Regional Medical Center,Out-of-Network,24.2,100.2,125.58,0.0,0.0,225.78
+Bob,Father,45,X-Ray,2024-10-11,Green Valley Clinic,In-Network,1.0,18183.43,8995.69,1856.3,255.25,29290.67
+Daisy,Daughter,9,Root Canal,2024-06-01,City Hospital,In-Network,3.2,4287.47,2427.2,4538.35,1263.98,12517.0
+Alice,Mother,42,Skin Biopsy,2024-06-22,City Hospital,In-Network,43.5,15625.44,7676.01,1179.0,208.82,24689.27
+Alice,Mother,42,Root Canal,2024-12-28,Sunrise Health,In-Network,24.3,18614.81,1822.41,4323.42,339.71,25100.35
+Daisy,Daughter,9,Skin Biopsy,2025-01-20,City Hospital,Out-of-Network,41.0,21835.25,2594.61,2626.91,723.74,27780.51
+Charlie,Son,12,MRI Scan,2024-09-23,Sunrise Health,Out-of-Network,13.7,30961.49,15338.79,2774.18,422.45,49496.91
+Bob,Father,45,Tonsillectomy,2025-03-08,Regional Medical Center,In-Network,38.1,12317.76,9746.75,332.27,1665.72,24062.5
+Ella,Daughter,6,Root Canal,2024-09-02,City Hospital,Out-of-Network,21.7,13533.83,12515.1,6016.28,1509.44,33574.65
+Daisy,Daughter,9,Skin Biopsy,2025-01-27,City Hospital,In-Network,29.0,14904.81,6255.95,1788.16,1251.98,24200.9
+Bob,Father,45,MRI Scan,2024-11-29,Oceanview Medical,In-Network,40.8,13482.59,9495.85,4267.79,1018.68,28264.91
+Ella,Daughter,6,Annual Wellness Check,2024-05-14,City Hospital,In-Network,15.1,0.0,0.0,0.0,0.0,0.0
+Alice,Mother,42,Ultrasound,2024-06-14,Green Valley Clinic,Out-of-Network,36.5,5155.35,6765.42,2895.92,3160.38,17977.07
+Charlie,Son,12,Knee Replacement,2024-05-21,Regional Medical Center,Out-of-Network,6.1,6239.96,11277.21,5072.11,1781.5,24370.78
+Bob,Father,45,Angioplasty,2024-10-23,Oceanview Medical,Out-of-Network,15.8,26367.29,4770.61,5369.38,2060.86,38568.14
+Alice,Mother,42,Spinal Fusion,2025-03-18,Green Valley Clinic,In-Network,48.9,9588.11,4872.26,3809.49,1018.22,19288.08
+Daisy,Daughter,9,Hip Replacement,2024-06-06,City Hospital,Out-of-Network,17.4,14578.87,6180.57,4582.19,3488.16,28829.79
+Charlie,Son,12,Skin Biopsy,2024-08-27,Oceanview Medical,Out-of-Network,4.6,4361.76,15750.06,8628.86,566.84,29307.52
+Charlie,Son,12,Coronary Artery Bypass,2024-10-27,Regional Medical Center,Out-of-Network,3.9,21041.17,11337.92,2247.79,1819.13,36446.01
+Alice,Mother,42,Hysterectomy,2024-05-20,Regional Medical Center,In-Network,38.4,18585.1,7958.57,2117.1,1289.93,29950.7
+Ella,Daughter,6,Angioplasty,2024-12-10,City Hospital,Out-of-Network,30.9,24916.67,12888.62,5241.67,2253.07,45300.03
+Daisy,Daughter,9,Gallbladder Removal,2024-06-09,Oceanview Medical,In-Network,46.4,17325.99,8845.82,1677.64,922.37,28771.82
+Ella,Daughter,6,Spinal Fusion,2024-06-22,City Hospital,Out-of-Network,32.3,21767.2,3845.32,3342.88,1976.16,30931.56
+Ella,Daughter,6,Cataract Surgery,2024-10-30,Regional Medical Center,In-Network,43.7,13377.55,9353.5,4294.53,1606.29,28631.87
+Charlie,Son,12,Appendectomy,2025-04-09,Oceanview Medical,In-Network,5.1,6050.09,3975.34,2480.51,487.36,12993.3
+Daisy,Daughter,9,Cesarean Section,2024-04-21,Oceanview Medical,In-Network,22.6,4110.35,5861.72,3479.07,849.06,14300.2
+Bob,Father,45,Hysterectomy,2025-01-28,Green Valley Clinic,Out-of-Network,8.4,6952.99,6198.64,2001.99,957.64,16111.26
+Charlie,Son,12,Gallbladder Removal,2025-03-18,Oceanview Medical,In-Network,39.0,15163.19,5878.99,4013.42,726.94,25782.54
+Alice,Mother,42,Hip Replacement,2025-01-21,Regional Medical Center,In-Network,18.7,14998.05,6944.13,2425.68,528.77,24896.63
+Ella,Daughter,6,Colonoscopy,2024-07-07,Oceanview Medical,In-Network,21.7,2931.06,5719.23,1581.54,325.05,10556.88
+Alice,Mother,42,CT Scan,2024-06-14,Green Valley Clinic,Out-of-Network,32.2,14506.8,9220.4,4637.87,2251.4,30616.47
+Ella,Daughter,6,Spinal Fusion,2024-07-31,Oceanview Medical,Out-of-Network,35.5,6040.55,4697.88,6030.23,1377.57,18146.23
+Ella,Daughter,6,Angioplasty,2024-05-14,City Hospital,In-Network,45.0,19311.92,6756.01,3781.3,335.68,30184.91
+Ella,Daughter,6,Hysterectomy,2025-04-13,Green Valley Clinic,Out-of-Network,2.6,5343.84,6031.35,2664.23,1703.48,15742.9
+Alice,Mother,42,Knee Replacement,2024-08-27,Sunrise Health,Out-of-Network,27.9,23548.1,7477.93,6233.36,1598.04,38857.43
+Alice,Mother,42,Tonsillectomy,2024-05-24,Oceanview Medical,Out-of-Network,29.6,9583.37,7976.02,5063.56,835.05,23458.0
+Ella,Daughter,6,Hip Replacement,2025-04-05,Oceanview Medical,In-Network,12.3,1381.67,9972.22,4981.81,261.1,16596.8
+Charlie,Son,12,Hysterectomy,2024-11-29,Sunrise Health,In-Network,24.2,4195.8,6484.09,3370.34,919.86,14970.09
+Charlie,Son,12,Skin Biopsy,2024-06-29,Regional Medical Center,Out-of-Network,18.0,30752.71,4961.56,6834.78,1299.53,43848.58
+Ella,Daughter,6,Hip Replacement,2024-07-03,Green Valley Clinic,Out-of-Network,30.4,26700.73,7444.46,4553.44,2287.03,40985.66
+Alice,Mother,42,Hysterectomy,2024-06-09,Regional Medical Center,Out-of-Network,48.3,9591.2,4698.89,6263.63,1089.95,21643.67
+Ella,Daughter,6,Appendectomy,2024-06-17,City Hospital,Out-of-Network,31.6,26170.58,13406.83,6324.19,1662.36,47563.96
+Ella,Daughter,6,Gallbladder Removal,2025-03-29,Oceanview Medical,Out-of-Network,22.8,5035.23,970.92,1602.78,2378.25,9987.18
+Charlie,Son,12,Knee Replacement,2024-12-19,Sunrise Health,Out-of-Network,21.4,13424.68,10346.36,7784.08,962.56,32517.68
+Bob,Father,45,MRI Scan,2024-07-18,Regional Medical Center,In-Network,31.0,17797.6,5465.33,401.16,1926.08,25590.17
+Daisy,Daughter,9,Gallbladder Removal,2025-01-26,Regional Medical Center,Out-of-Network,35.7,33429.68,7446.23,1267.27,385.19,42528.37
+Ella,Daughter,6,Cesarean Section,2025-04-21,Oceanview Medical,In-Network,7.4,10557.43,3393.71,2885.48,406.61,17243.23
+Ella,Daughter,6,Annual Wellness Check,2024-09-05,Regional Medical Center,Out-of-Network,2.9,367.14,4.05,0.0,0.0,371.19
+Alice,Mother,42,Root Canal,2024-05-30,Oceanview Medical,In-Network,25.7,16945.83,7251.27,2660.95,1110.86,27968.91
+Ella,Daughter,6,X-Ray,2024-05-04,Sunrise Health,In-Network,48.3,10659.27,9153.64,913.86,1074.77,21801.54
+Alice,Mother,42,MRI Scan,2024-05-25,Regional Medical Center,In-Network,3.6,12930.78,3971.75,4269.33,1821.99,22993.85
+Daisy,Daughter,9,Tonsillectomy,2025-02-18,Green Valley Clinic,In-Network,39.8,17174.69,6163.96,1546.74,1532.12,26417.51
+Charlie,Son,12,Hip Replacement,2025-03-26,Regional Medical Center,In-Network,7.8,9865.26,2898.58,2993.51,251.46,16008.81
+Charlie,Son,12,Ultrasound,2024-11-24,Green Valley Clinic,In-Network,42.4,14558.16,8544.61,917.52,997.73,25018.02
+Daisy,Daughter,9,Skin Biopsy,2024-11-16,City Hospital,In-Network,45.5,19676.02,7863.81,2812.55,505.25,30857.63
+Ella,Daughter,6,Skin Biopsy,2025-03-18,City Hospital,Out-of-Network,25.7,14329.82,17803.14,4151.74,918.56,37203.26
+Alice,Mother,42,Appendectomy,2024-06-26,Green Valley Clinic,In-Network,44.0,12853.9,3567.57,747.47,1059.14,18228.08
+Charlie,Son,12,CT Scan,2025-02-17,City Hospital,Out-of-Network,37.9,23816.97,14637.44,5895.27,1226.02,45575.7
+Ella,Daughter,6,Hip Replacement,2024-11-21,Regional Medical Center,Out-of-Network,34.4,35503.76,5565.33,6774.64,2120.32,49964.05
+Bob,Father,45,Hip Replacement,2024-07-23,City Hospital,In-Network,38.0,3615.24,3549.77,1246.1,568.43,8979.54
