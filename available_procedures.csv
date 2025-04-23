@@ -1,0 +1,114 @@
+procedure,location,facility_rating,distance_miles,gold_ppo_plan_accepted,silver_epo_plan_accepted,accepted_plans,cost_facility,cost_physician,cost_anesthesia,cost_medication,total_cost
+Angioplasty,City Hospital,4.7,5.2,True,True,"Gold PPO, Family Plan - Silver EPO, Medicare Advantage",9432.8,4774.57,1894.37,834.8,16936.54
+Angioplasty,Regional Medical Center,4.3,12.6,False,True,"Family Plan - Silver EPO, Bronze HDHP, Medicaid",23594.95,4897.27,581.04,783.86,29857.12
+Angioplasty,Green Valley Clinic,4.5,1.2,True,True,"Gold PPO, Family Plan - Silver EPO",3807.32,5687.8,293.41,1301.58,11090.11
+Angioplasty,Oceanview Medical,4.2,22.9,False,True,"Bronze HDHP, Family Plan - Silver EPO",16635.64,8253.25,2024.51,2757.76,29671.16
+Annual Physical Exam,City Hospital,4.7,5.2,True,True,"Gold PPO, Family Plan - Silver EPO, Medicare Advantage",34.37,146.42,0.0,2.07,182.86
+Annual Physical Exam,Regional Medical Center,4.3,12.6,False,True,"Family Plan - Silver EPO, Bronze HDHP, Medicaid",30.22,235.07,0.0,0.16,265.45
+Annual Physical Exam,Sunrise Health,4.6,3.8,False,True,"Family Plan - Silver EPO, Medicare Advantage",27.28,147.92,0.0,7.72,182.92
+Annual Physical Exam,Oceanview Medical,4.2,22.9,False,True,"Bronze HDHP, Family Plan - Silver EPO",32.47,206.02,0.0,4.61,243.1
+Appendectomy,City Hospital,4.7,5.2,True,True,"Gold PPO, Family Plan - Silver EPO, Medicare Advantage",19564.19,2457.05,1273.0,1113.9,24408.14
+Appendectomy,Regional Medical Center,4.3,12.6,False,True,"Family Plan - Silver EPO, Bronze HDHP, Medicaid",16238.56,10461.76,3863.8,1803.06,32367.18
+Appendectomy,Sunrise Health,4.6,3.8,False,True,"Family Plan - Silver EPO, Medicare Advantage",3411.96,5876.87,506.76,1558.09,11353.68
+Appendectomy,Oceanview Medical,4.2,22.9,False,True,"Bronze HDHP, Family Plan - Silver EPO",19191.65,13942.8,2325.8,1026.24,36486.49
+CT Scan,City Hospital,4.7,5.2,True,True,"Gold PPO, Family Plan - Silver EPO, Medicare Advantage",12475.89,2025.6,4872.91,1916.51,21290.91
+CT Scan,Regional Medical Center,4.3,12.6,False,True,"Family Plan - Silver EPO, Bronze HDHP, Medicaid",23672.68,7636.9,4503.71,330.41,36143.7
+CT Scan,Sunrise Health,4.6,3.8,False,True,"Family Plan - Silver EPO, Medicare Advantage",5548.75,2088.92,693.25,1188.58,9519.5
+CT Scan,Green Valley Clinic,4.5,1.2,True,True,"Gold PPO, Family Plan - Silver EPO",15125.54,7935.4,3434.18,528.14,27023.26
+CT Scan,Oceanview Medical,4.2,22.9,False,True,"Bronze HDHP, Family Plan - Silver EPO",22678.44,1246.8,2101.91,620.06,26647.21
+Cataract Surgery,City Hospital,4.7,5.2,True,True,"Gold PPO, Family Plan - Silver EPO, Medicare Advantage",7466.12,4848.76,3834.8,459.46,16609.14
+Cataract Surgery,Regional Medical Center,4.3,12.6,False,True,"Family Plan - Silver EPO, Bronze HDHP, Medicaid",6096.39,2877.52,5797.57,1996.52,16768.0
+Cataract Surgery,Green Valley Clinic,4.5,1.2,True,True,"Gold PPO, Family Plan - Silver EPO",12374.09,4485.24,2225.37,424.27,19508.97
+Cataract Surgery,Oceanview Medical,4.2,22.9,False,True,"Bronze HDHP, Family Plan - Silver EPO",19391.86,7774.16,2090.29,1031.38,30287.69
+Cesarean Section,Regional Medical Center,4.3,12.6,False,True,"Family Plan - Silver EPO, Bronze HDHP, Medicaid",3269.96,8835.93,2685.54,1999.99,16791.42
+Cesarean Section,Sunrise Health,4.6,3.8,False,True,"Family Plan - Silver EPO, Medicare Advantage",6822.05,1580.24,402.66,1597.57,10402.52
+Cesarean Section,Green Valley Clinic,4.5,1.2,True,True,"Gold PPO, Family Plan - Silver EPO",5099.15,4679.53,3947.58,485.82,14212.08
+Colonoscopy,City Hospital,4.7,5.2,True,True,"Gold PPO, Family Plan - Silver EPO, Medicare Advantage",1948.17,522.46,481.58,84.28,3036.49
+Colonoscopy,Regional Medical Center,4.3,12.6,False,True,"Family Plan - Silver EPO, Bronze HDHP, Medicaid",1224.28,514.13,406.13,89.17,2233.71
+Coronary Artery Bypass,City Hospital,4.7,5.2,True,True,"Gold PPO, Family Plan - Silver EPO, Medicare Advantage",5762.75,6010.38,1954.08,766.96,14494.17
+Coronary Artery Bypass,Regional Medical Center,4.3,12.6,False,True,"Family Plan - Silver EPO, Bronze HDHP, Medicaid",6091.66,1581.81,5060.31,879.03,13612.81
+Coronary Artery Bypass,Sunrise Health,4.6,3.8,False,True,"Family Plan - Silver EPO, Medicare Advantage",15929.53,7041.09,1675.89,251.53,24898.04
+Coronary Artery Bypass,Green Valley Clinic,4.5,1.2,True,True,"Gold PPO, Family Plan - Silver EPO",9840.98,7149.92,3829.57,1114.82,21935.29
+Coronary Artery Bypass,Oceanview Medical,4.2,22.9,False,True,"Bronze HDHP, Family Plan - Silver EPO",9122.37,11916.89,3883.59,2565.95,27488.8
+Dental Cleaning,Regional Medical Center,4.3,12.6,False,True,"Family Plan - Silver EPO, Bronze HDHP, Medicaid",38.06,66.08,0.0,0.0,104.14
+Dental Cleaning,Sunrise Health,4.6,3.8,False,True,"Family Plan - Silver EPO, Medicare Advantage",42.34,84.35,0.0,0.0,126.69
+Dental Cleaning,Oceanview Medical,4.2,22.9,False,True,"Bronze HDHP, Family Plan - Silver EPO",50.51,59.41,0.0,0.0,109.92
+Dental Extraction,City Hospital,4.7,5.2,True,True,"Gold PPO, Family Plan - Silver EPO, Medicare Advantage",1477.71,6972.51,2763.49,1710.54,12924.25
+Dental Extraction,Regional Medical Center,4.3,12.6,False,True,"Family Plan - Silver EPO, Bronze HDHP, Medicaid",2167.83,990.56,1789.6,384.43,5332.42
+Dental Extraction,Sunrise Health,4.6,3.8,False,True,"Family Plan - Silver EPO, Medicare Advantage",2150.16,1799.5,1034.64,1193.3,6177.6
+Dental Extraction,Green Valley Clinic,4.5,1.2,True,True,"Gold PPO, Family Plan - Silver EPO",12120.73,6341.95,1928.02,1398.15,21788.85
+Dental Extraction,Oceanview Medical,4.2,22.9,False,True,"Bronze HDHP, Family Plan - Silver EPO",26899.24,7515.2,3838.43,525.06,38777.93
+Flu Shot,City Hospital,4.7,5.2,True,True,"Gold PPO, Family Plan - Silver EPO, Medicare Advantage",0.39,29.91,0.0,3.31,33.61
+Flu Shot,Regional Medical Center,4.3,12.6,False,True,"Family Plan - Silver EPO, Bronze HDHP, Medicaid",3.61,46.57,0.0,4.7,54.88
+Flu Shot,Sunrise Health,4.6,3.8,False,True,"Family Plan - Silver EPO, Medicare Advantage",7.99,24.83,0.0,2.47,35.29
+Flu Shot,Green Valley Clinic,4.5,1.2,True,True,"Gold PPO, Family Plan - Silver EPO",4.26,22.77,0.0,2.27,29.3
+Flu Shot,Oceanview Medical,4.2,22.9,False,True,"Bronze HDHP, Family Plan - Silver EPO",0.85,40.57,0.0,2.6,44.02
+Gallbladder Removal,City Hospital,4.7,5.2,True,True,"Gold PPO, Family Plan - Silver EPO, Medicare Advantage",11574.49,8845.31,698.4,1806.16,22924.36
+Gallbladder Removal,Regional Medical Center,4.3,12.6,False,True,"Family Plan - Silver EPO, Bronze HDHP, Medicaid",3515.99,1671.15,938.47,1446.28,7571.89
+Gallbladder Removal,Sunrise Health,4.6,3.8,False,True,"Family Plan - Silver EPO, Medicare Advantage",17639.66,7039.5,1800.24,343.58,26822.98
+Gallbladder Removal,Green Valley Clinic,4.5,1.2,True,True,"Gold PPO, Family Plan - Silver EPO",12612.02,2640.47,488.54,611.31,16352.34
+Gallbladder Removal,Oceanview Medical,4.2,22.9,False,True,"Bronze HDHP, Family Plan - Silver EPO",14631.3,4232.92,4551.54,860.28,24276.04
+Hip Replacement,City Hospital,4.7,5.2,True,True,"Gold PPO, Family Plan - Silver EPO, Medicare Advantage",13797.96,5601.69,1832.05,218.56,21450.26
+Hip Replacement,Regional Medical Center,4.3,12.6,False,True,"Family Plan - Silver EPO, Bronze HDHP, Medicaid",14436.53,4834.28,2363.71,370.62,22005.14
+Hip Replacement,Sunrise Health,4.6,3.8,False,True,"Family Plan - Silver EPO, Medicare Advantage",12367.41,5276.92,2381.72,433.36,20459.41
+Hip Replacement,Green Valley Clinic,4.5,1.2,True,True,"Gold PPO, Family Plan - Silver EPO",9331.88,2815.25,863.32,127.47,13137.92
+Hip Replacement,Oceanview Medical,4.2,22.9,False,True,"Bronze HDHP, Family Plan - Silver EPO",12073.32,4484.04,1426.38,222.67,18206.41
+Hysterectomy,City Hospital,4.7,5.2,True,True,"Gold PPO, Family Plan - Silver EPO, Medicare Advantage",8292.49,7472.98,1363.17,762.97,17891.61
+Hysterectomy,Regional Medical Center,4.3,12.6,False,True,"Family Plan - Silver EPO, Bronze HDHP, Medicaid",16918.38,8958.96,5218.91,1967.18,33063.43
+Hysterectomy,Sunrise Health,4.6,3.8,False,True,"Family Plan - Silver EPO, Medicare Advantage",10944.67,3628.79,4373.7,118.83,19065.99
+Hysterectomy,Green Valley Clinic,4.5,1.2,True,True,"Gold PPO, Family Plan - Silver EPO",9462.4,4290.82,3222.27,319.31,17294.8
+Hysterectomy,Oceanview Medical,4.2,22.9,False,True,"Bronze HDHP, Family Plan - Silver EPO",19158.83,12049.53,3103.16,1442.76,35754.28
+Knee Replacement,City Hospital,4.7,5.2,True,True,"Gold PPO, Family Plan - Silver EPO, Medicare Advantage",7786.07,7017.28,3889.38,1384.9,20077.63
+Knee Replacement,Regional Medical Center,4.3,12.6,False,True,"Family Plan - Silver EPO, Bronze HDHP, Medicaid",22686.77,4032.98,4087.03,2367.65,33174.43
+Knee Replacement,Green Valley Clinic,4.5,1.2,True,True,"Gold PPO, Family Plan - Silver EPO",2931.43,550.11,2462.9,889.28,6833.72
+Knee Replacement,Oceanview Medical,4.2,22.9,False,True,"Bronze HDHP, Family Plan - Silver EPO",10954.31,11596.07,1017.04,2085.21,25652.63
+MRI Scan,City Hospital,4.7,5.2,True,True,"Gold PPO, Family Plan - Silver EPO, Medicare Advantage",1006.91,205.34,0.0,0.0,1212.25
+MRI Scan,Regional Medical Center,4.3,12.6,False,True,"Family Plan - Silver EPO, Bronze HDHP, Medicaid",1325.16,378.66,0.0,0.0,1703.82
+MRI Scan,Green Valley Clinic,4.5,1.2,True,True,"Gold PPO, Family Plan - Silver EPO",786.1,147.23,0.0,0.0,933.33
+MRI Scan,Oceanview Medical,4.2,22.9,False,True,"Bronze HDHP, Family Plan - Silver EPO",2047.58,485.17,0.0,0.0,2532.75
+Mammogram,City Hospital,4.7,5.2,True,True,"Gold PPO, Family Plan - Silver EPO, Medicare Advantage",213.26,156.96,0.0,0.0,370.22
+Mammogram,Regional Medical Center,4.3,12.6,False,True,"Family Plan - Silver EPO, Bronze HDHP, Medicaid",327.19,271.17,0.0,0.0,598.36
+Mammogram,Sunrise Health,4.6,3.8,False,True,"Family Plan - Silver EPO, Medicare Advantage",192.96,178.63,0.0,0.0,371.59
+Mammogram,Green Valley Clinic,4.5,1.2,True,True,"Gold PPO, Family Plan - Silver EPO",119.09,99.1,0.0,0.0,218.19
+Mammogram,Oceanview Medical,4.2,22.9,False,True,"Bronze HDHP, Family Plan - Silver EPO",218.17,149.22,0.0,0.0,367.39
+Physical Therapy Session,City Hospital,4.7,5.2,True,True,"Gold PPO, Family Plan - Silver EPO, Medicare Advantage",15200.88,6383.29,4388.8,1579.33,27552.3
+Physical Therapy Session,Regional Medical Center,4.3,12.6,False,True,"Family Plan - Silver EPO, Bronze HDHP, Medicaid",14051.66,6093.37,5484.87,1335.03,26964.93
+Physical Therapy Session,Sunrise Health,4.6,3.8,False,True,"Family Plan - Silver EPO, Medicare Advantage",1899.87,766.4,3538.72,1507.78,7712.77
+Physical Therapy Session,Green Valley Clinic,4.5,1.2,True,True,"Gold PPO, Family Plan - Silver EPO",9030.78,4878.16,2475.29,1404.73,17788.96
+Physical Therapy Session,Oceanview Medical,4.2,22.9,False,True,"Bronze HDHP, Family Plan - Silver EPO",22894.97,1970.19,5389.22,207.66,30462.04
+Root Canal,City Hospital,4.7,5.2,True,True,"Gold PPO, Family Plan - Silver EPO, Medicare Advantage",2943.96,3161.44,3196.58,1697.5,10999.48
+Root Canal,Regional Medical Center,4.3,12.6,False,True,"Family Plan - Silver EPO, Bronze HDHP, Medicaid",19970.39,11287.86,2356.47,1481.43,35096.15
+Root Canal,Sunrise Health,4.6,3.8,False,True,"Family Plan - Silver EPO, Medicare Advantage",1400.01,3755.23,3228.24,987.1,9370.58
+Root Canal,Green Valley Clinic,4.5,1.2,True,True,"Gold PPO, Family Plan - Silver EPO",8754.72,7416.44,2006.76,1051.55,19229.47
+Root Canal,Oceanview Medical,4.2,22.9,False,True,"Bronze HDHP, Family Plan - Silver EPO",23385.33,8244.58,2414.59,1740.76,35785.26
+Skin Biopsy,City Hospital,4.7,5.2,True,True,"Gold PPO, Family Plan - Silver EPO, Medicare Advantage",14546.59,1721.06,1182.08,736.5,18186.23
+Skin Biopsy,Regional Medical Center,4.3,12.6,False,True,"Family Plan - Silver EPO, Bronze HDHP, Medicaid",3769.69,9902.76,4667.97,760.1,19100.52
+Skin Biopsy,Green Valley Clinic,4.5,1.2,True,True,"Gold PPO, Family Plan - Silver EPO",2136.63,4647.21,2175.52,1174.16,10133.52
+Skin Biopsy,Oceanview Medical,4.2,22.9,False,True,"Bronze HDHP, Family Plan - Silver EPO",14212.97,5103.34,3227.96,1696.23,24240.5
+Spinal Fusion,City Hospital,4.7,5.2,True,True,"Gold PPO, Family Plan - Silver EPO, Medicare Advantage",18870.37,2445.9,3941.48,199.44,25457.19
+Spinal Fusion,Regional Medical Center,4.3,12.6,False,True,"Family Plan - Silver EPO, Bronze HDHP, Medicaid",22663.5,1749.14,4119.13,1044.15,29575.92
+Spinal Fusion,Sunrise Health,4.6,3.8,False,True,"Family Plan - Silver EPO, Medicare Advantage",15827.32,7125.86,1511.46,1348.93,25813.57
+Spinal Fusion,Green Valley Clinic,4.5,1.2,True,True,"Gold PPO, Family Plan - Silver EPO",11528.06,2523.22,1390.78,1414.77,16856.83
+Spinal Fusion,Oceanview Medical,4.2,22.9,False,True,"Bronze HDHP, Family Plan - Silver EPO",6244.68,4475.75,608.61,913.06,12242.1
+Tonsillectomy,City Hospital,4.7,5.2,True,True,"Gold PPO, Family Plan - Silver EPO, Medicare Advantage",4663.81,1198.44,2113.85,1944.46,9920.56
+Tonsillectomy,Regional Medical Center,4.3,12.6,False,True,"Family Plan - Silver EPO, Bronze HDHP, Medicaid",1614.23,10493.77,3670.94,727.04,16505.98
+Tonsillectomy,Sunrise Health,4.6,3.8,False,True,"Family Plan - Silver EPO, Medicare Advantage",4369.48,6463.79,403.31,275.13,11511.71
+Tonsillectomy,Green Valley Clinic,4.5,1.2,True,True,"Gold PPO, Family Plan - Silver EPO",6439.95,2200.34,302.26,1000.43,9942.98
+Tonsillectomy,Oceanview Medical,4.2,22.9,False,True,"Bronze HDHP, Family Plan - Silver EPO",22884.06,9450.68,863.38,454.76,33652.88
+Ultrasound,City Hospital,4.7,5.2,True,True,"Gold PPO, Family Plan - Silver EPO, Medicare Advantage",4791.86,2495.29,1565.6,1856.34,10709.09
+Ultrasound,Regional Medical Center,4.3,12.6,False,True,"Family Plan - Silver EPO, Bronze HDHP, Medicaid",12554.08,4914.2,5986.48,1936.32,25391.08
+Ultrasound,Green Valley Clinic,4.5,1.2,True,True,"Gold PPO, Family Plan - Silver EPO",10934.93,5130.95,729.61,1386.79,18182.28
+Ultrasound,Oceanview Medical,4.2,22.9,False,True,"Bronze HDHP, Family Plan - Silver EPO",2848.97,6010.27,2950.41,2637.76,14447.41
+Vision Exam,City Hospital,4.7,5.2,True,True,"Gold PPO, Family Plan - Silver EPO, Medicare Advantage",15406.29,7640.86,1430.1,110.64,24587.89
+Vision Exam,Sunrise Health,4.6,3.8,False,True,"Family Plan - Silver EPO, Medicare Advantage",5187.1,8986.95,1912.84,848.88,16935.77
+Vision Exam,Green Valley Clinic,4.5,1.2,True,True,"Gold PPO, Family Plan - Silver EPO",7329.52,884.94,2546.7,1018.59,11779.75
+Vision Exam,Oceanview Medical,4.2,22.9,False,True,"Bronze HDHP, Family Plan - Silver EPO",27281.55,11577.9,5636.4,547.3,45043.15
+Well Child Visit,City Hospital,4.7,5.2,True,True,"Gold PPO, Family Plan - Silver EPO, Medicare Advantage",7950.27,804.96,568.35,771.8,10095.38
+Well Child Visit,Regional Medical Center,4.3,12.6,False,True,"Family Plan - Silver EPO, Bronze HDHP, Medicaid",16815.55,8044.48,1126.26,2297.61,28283.9
+Well Child Visit,Sunrise Health,4.6,3.8,False,True,"Family Plan - Silver EPO, Medicare Advantage",17843.07,4923.67,3875.29,601.73,27243.76
+Well Child Visit,Green Valley Clinic,4.5,1.2,True,True,"Gold PPO, Family Plan - Silver EPO",12466.32,5716.54,590.81,1351.46,20125.13
+Well Child Visit,Oceanview Medical,4.2,22.9,False,True,"Bronze HDHP, Family Plan - Silver EPO",26583.97,4986.06,4680.93,1976.17,38227.13
+X-Ray,City Hospital,4.7,5.2,True,True,"Gold PPO, Family Plan - Silver EPO, Medicare Advantage",11789.46,8169.81,4036.06,449.0,24444.33
+X-Ray,Regional Medical Center,4.3,12.6,False,True,"Family Plan - Silver EPO, Bronze HDHP, Medicaid",6282.11,5478.68,4498.38,2134.35,18393.52
+X-Ray,Green Valley Clinic,4.5,1.2,True,True,"Gold PPO, Family Plan - Silver EPO",11093.09,4648.55,3684.19,598.84,20024.67
+X-Ray,Oceanview Medical,4.2,22.9,False,True,"Bronze HDHP, Family Plan - Silver EPO",20032.25,10423.72,3373.14,1101.05,34930.16
