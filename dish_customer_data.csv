@@ -1,0 +1,501 @@
+customer_id,account_age_months,service_type,plan_name,monthly_cost_usd,last_payment_date,payment_status,tech_support_calls,device_count,streaming_hours,satisfaction_score,is_autopay,data_overage_count,upgrade_eligibility,churn_risk_score
+C001,48,Satellite TV,America's Top 200,54.75,2025-04-24,On Time,0,5,0.0,2,False,0,True,0.35
+C002,14,Satellite TV,America's Top 200,50.94,2025-04-12,On Time,1,5,0.0,7,True,0,False,0.25
+C003,49,5G Wireless,5G Basic,102.52,2025-04-09,On Time,2,2,0.0,4,False,0,True,0.42
+C004,23,Internet,Home 100 Mbps,106.27,2025-04-12,On Time,0,4,80.4,7,True,2,False,0.16
+C005,3,Sling TV,Orange,89.51,2025-04-07,On Time,0,2,130.0,7,False,0,False,0.55
+C006,24,5G Wireless,5G Basic,61.97,2025-04-10,On Time,5,1,0.0,10,True,1,True,0.11
+C007,18,Internet,Home 500 Mbps,119.06,2025-04-11,On Time,1,3,126.4,1,True,0,False,0.51
+C008,5,Internet,Home 500 Mbps,48.99,2025-04-01,On Time,5,3,31.9,8,False,3,True,0.18
+C009,16,5G Wireless,5G Basic,97.05,2025-04-14,On Time,4,4,0.0,10,False,2,True,0.2
+C010,6,Sling TV,Blue + Sports,98.02,2025-04-04,On Time,5,2,118.8,7,True,0,False,0.38
+C011,30,Internet,Gigabit Fiber,77.62,2025-04-14,Late,0,1,102.3,9,False,2,True,0.54
+C012,11,5G Wireless,5G Unlimited,70.84,2025-04-01,Late,5,3,0.0,9,True,0,False,0.08
+C013,24,Sling TV,Blue,98.63,2025-04-14,Missed,4,1,89.8,8,True,0,True,0.36
+C014,16,5G Wireless,5G Unlimited,35.21,2025-04-03,On Time,0,1,0.0,8,True,1,True,0.27
+C015,11,Internet,Gigabit Fiber,53.86,2025-04-04,On Time,1,5,113.3,4,False,3,False,0.13
+C016,29,Internet,Gigabit Fiber,40.89,2025-04-24,On Time,0,5,83.1,10,True,0,True,0.35
+C017,5,Satellite TV,America's Top 200,111.49,2025-04-04,On Time,4,2,0.0,5,False,0,True,0.13
+C018,16,Sling TV,Blue + Sports,100.62,2025-04-06,On Time,0,1,98.8,6,False,0,False,0.33
+C019,4,Internet,Gigabit Fiber,90.6,2025-04-11,On Time,3,3,120.1,2,True,1,True,0.17
+C020,28,Internet,Home 100 Mbps,46.51,2025-04-17,On Time,0,4,121.2,9,True,0,True,0.21
+C021,11,Satellite TV,America's Top 200,66.58,2025-04-16,On Time,3,1,0.0,3,False,0,True,0.26
+C022,60,Internet,Home 500 Mbps,100.57,2025-04-17,On Time,5,5,99.3,8,True,1,False,0.39
+C023,38,Sling TV,Orange,96.22,2025-04-30,Late,0,1,87.6,9,True,0,True,0.15
+C024,5,Satellite TV,America's Top 200,83.55,2025-04-10,Late,3,1,0.0,10,True,0,True,0.31
+C025,43,Satellite TV,America's Top 120,82.53,2025-04-15,On Time,2,2,0.0,6,True,0,False,0.2
+C026,43,Internet,Home 100 Mbps,88.1,2025-04-17,On Time,0,1,68.7,10,True,0,True,0.18
+C027,60,5G Wireless,5G Basic,61.41,2025-04-29,Late,2,3,0.0,3,False,2,True,0.37
+C028,7,5G Wireless,5G Max,114.5,2025-04-27,On Time,0,5,0.0,3,False,2,True,0.2
+C029,44,5G Wireless,5G Basic,87.08,2025-04-23,On Time,2,1,0.0,2,False,2,True,0.19
+C030,50,Satellite TV,America's Top 120,41.77,2025-04-23,On Time,3,5,0.0,7,True,0,True,0.28
+C031,58,Satellite TV,America's Everything Pack,43.41,2025-04-30,Late,4,5,0.0,3,False,0,True,0.1
+C032,24,Satellite TV,America's Top 120,110.91,2025-04-06,Missed,0,3,0.0,4,True,0,True,0.21
+C033,57,5G Wireless,5G Max,108.72,2025-04-12,Late,1,2,0.0,3,False,0,True,0.31
+C034,52,5G Wireless,5G Unlimited,90.29,2025-04-08,Late,2,2,0.0,2,False,0,False,0.04
+C035,53,Sling TV,Blue,112.66,2025-04-20,On Time,1,2,3.5,4,False,0,False,0.12
+C036,50,5G Wireless,5G Basic,55.12,2025-04-11,On Time,5,5,0.0,6,True,0,False,0.21
+C037,3,Sling TV,Orange + Sports,39.76,2025-04-18,On Time,2,4,90.9,9,True,0,False,0.36
+C038,3,Sling TV,Orange + Sports,93.79,2025-05-01,On Time,4,2,54.6,2,False,0,False,0.65
+C039,58,Satellite TV,America's Everything Pack,57.03,2025-04-22,On Time,2,4,0.0,5,True,0,True,0.16
+C040,25,Internet,Gigabit Fiber,90.96,2025-04-03,On Time,4,3,60.9,1,False,2,True,0.07
+C041,39,Internet,Gigabit Fiber,88.92,2025-04-17,On Time,5,2,76.7,3,True,2,False,0.08
+C042,44,Satellite TV,America's Top 200,57.94,2025-04-06,On Time,0,1,0.0,4,False,0,True,0.17
+C043,57,Internet,Home 500 Mbps,86.68,2025-04-25,Late,3,4,59.9,3,True,0,False,0.54
+C044,52,Sling TV,Blue,116.22,2025-04-15,On Time,4,2,137.6,2,False,0,True,0.06
+C045,34,Internet,Gigabit Fiber,118.91,2025-04-12,On Time,3,5,122.3,9,False,3,True,0.24
+C046,17,Internet,Home 500 Mbps,97.66,2025-04-05,On Time,4,4,94.0,5,False,0,False,0.31
+C047,22,Sling TV,Orange + Sports,58.77,2025-04-14,On Time,1,2,57.5,3,True,0,True,0.15
+C048,22,Internet,Home 500 Mbps,78.84,2025-04-18,On Time,3,4,135.7,10,True,3,False,0.39
+C049,20,Satellite TV,America's Top 120,97.81,2025-04-04,Late,3,5,0.0,9,True,0,False,0.48
+C050,28,Sling TV,Orange + Sports,73.71,2025-04-19,On Time,5,4,108.6,8,True,0,True,0.1
+C051,37,Internet,Gigabit Fiber,89.67,2025-04-29,On Time,1,4,27.3,5,False,2,True,0.37
+C052,22,Internet,Home 500 Mbps,98.51,2025-04-19,On Time,3,3,125.2,8,True,0,False,0.3
+C053,50,Sling TV,Orange,116.16,2025-04-30,Late,1,2,125.9,10,True,0,True,0.22
+C054,43,Sling TV,Blue + Sports,40.3,2025-04-01,On Time,5,3,115.0,3,True,0,True,0.16
+C055,38,5G Wireless,5G Basic,32.31,2025-04-22,On Time,3,4,0.0,4,True,1,True,0.46
+C056,39,5G Wireless,5G Max,102.5,2025-04-06,Missed,0,3,0.0,9,False,2,True,0.1
+C057,55,5G Wireless,5G Basic,67.81,2025-04-16,On Time,2,4,0.0,3,False,1,False,0.18
+C058,28,Internet,Home 500 Mbps,104.32,2025-04-13,On Time,1,1,41.8,8,True,3,False,0.34
+C059,32,5G Wireless,5G Basic,106.59,2025-04-26,On Time,2,3,0.0,6,False,2,True,0.27
+C060,16,Sling TV,Orange,94.81,2025-04-16,On Time,1,4,96.9,8,False,0,True,0.44
+C061,15,Satellite TV,America's Top 120,66.4,2025-04-24,On Time,4,3,0.0,8,False,0,False,0.13
+C062,45,5G Wireless,5G Unlimited,70.84,2025-04-22,On Time,0,2,0.0,6,True,1,True,0.4
+C063,18,Sling TV,Blue + Sports,95.21,2025-04-07,On Time,2,1,124.9,5,True,0,False,0.32
+C064,1,Sling TV,Orange + Sports,93.72,2025-04-27,On Time,0,5,43.8,3,False,0,True,0.29
+C065,19,Satellite TV,America's Everything Pack,72.25,2025-04-17,On Time,0,3,0.0,8,True,0,True,0.11
+C066,5,Internet,Home 500 Mbps,81.93,2025-04-10,On Time,1,5,142.4,2,True,0,False,0.34
+C067,29,Sling TV,Blue + Sports,111.77,2025-04-22,Late,3,3,85.3,1,True,0,True,0.17
+C068,43,Sling TV,Orange + Sports,37.31,2025-04-24,On Time,0,2,0.4,8,False,0,False,0.8
+C069,19,Satellite TV,America's Top 200,93.63,2025-04-09,Late,0,2,0.0,5,True,0,False,0.13
+C070,15,Satellite TV,America's Everything Pack,88.29,2025-04-02,On Time,1,1,0.0,1,True,0,False,0.13
+C071,8,5G Wireless,5G Unlimited,72.18,2025-04-22,On Time,2,5,0.0,9,False,3,True,0.34
+C072,48,Satellite TV,America's Top 120,59.01,2025-04-23,On Time,1,5,0.0,10,True,0,False,0.03
+C073,31,Satellite TV,America's Top 200,76.71,2025-04-17,Missed,1,5,0.0,7,False,0,True,0.16
+C074,27,Internet,Home 500 Mbps,60.0,2025-04-10,On Time,1,3,61.7,8,False,3,True,0.26
+C075,21,Internet,Home 100 Mbps,52.72,2025-04-28,Missed,3,5,123.7,1,False,3,True,0.25
+C076,40,Sling TV,Orange + Sports,98.08,2025-04-11,On Time,0,2,40.1,3,False,0,False,0.07
+C077,2,Internet,Home 100 Mbps,117.58,2025-04-12,Late,5,2,46.6,1,False,0,True,0.46
+C078,8,Satellite TV,America's Top 120,88.29,2025-04-27,On Time,5,3,0.0,9,False,0,False,0.54
+C079,16,Internet,Home 500 Mbps,71.11,2025-04-27,On Time,4,5,111.9,3,True,2,False,0.26
+C080,18,5G Wireless,5G Max,103.85,2025-04-22,Late,4,5,0.0,8,True,3,False,0.07
+C081,36,5G Wireless,5G Unlimited,98.66,2025-04-19,On Time,2,2,0.0,4,False,1,False,0.05
+C082,48,Satellite TV,America's Top 120,72.57,2025-04-02,Late,3,2,0.0,8,True,0,True,0.13
+C083,56,5G Wireless,5G Basic,106.05,2025-04-28,On Time,3,1,0.0,3,False,1,True,0.33
+C084,22,Internet,Home 500 Mbps,86.09,2025-04-19,On Time,2,5,57.0,6,False,0,True,0.12
+C085,15,Sling TV,Orange + Sports,97.21,2025-04-18,Missed,5,1,66.6,5,True,0,True,0.11
+C086,19,5G Wireless,5G Basic,62.26,2025-04-18,On Time,4,4,0.0,10,True,1,True,0.32
+C087,56,Satellite TV,America's Everything Pack,64.43,2025-04-10,On Time,4,2,0.0,4,False,0,False,0.22
+C088,43,Internet,Home 500 Mbps,30.85,2025-04-06,On Time,2,5,23.7,8,False,2,False,0.3
+C089,55,5G Wireless,5G Unlimited,57.19,2025-04-19,Late,0,2,0.0,7,False,2,False,0.4
+C090,26,Satellite TV,America's Everything Pack,54.7,2025-04-13,Late,5,1,0.0,10,False,0,False,0.18
+C091,15,Sling TV,Orange + Sports,87.3,2025-04-12,On Time,5,2,94.2,1,False,0,False,0.23
+C092,24,Satellite TV,America's Everything Pack,95.91,2025-04-29,Missed,2,4,0.0,3,True,0,True,0.18
+C093,33,5G Wireless,5G Max,112.21,2025-04-05,On Time,3,3,0.0,6,True,3,True,0.27
+C094,56,Sling TV,Blue,90.87,2025-04-10,Missed,4,3,13.5,7,True,0,False,0.24
+C095,24,Satellite TV,America's Top 120,90.55,2025-04-10,On Time,3,3,0.0,2,True,0,False,0.33
+C096,57,Satellite TV,America's Everything Pack,114.89,2025-04-21,Missed,1,1,0.0,8,False,0,False,0.44
+C097,3,Satellite TV,America's Top 200,115.16,2025-04-22,Missed,0,1,0.0,4,True,0,False,0.39
+C098,43,Internet,Home 500 Mbps,115.44,2025-04-09,Missed,3,5,111.3,3,False,0,False,0.1
+C099,3,Internet,Home 500 Mbps,92.13,2025-04-25,On Time,1,3,14.9,6,False,0,False,0.21
+C100,8,5G Wireless,5G Basic,115.41,2025-04-05,On Time,5,2,0.0,10,True,0,False,0.17
+C101,51,Sling TV,Blue,80.81,2025-04-29,Late,4,2,88.0,4,False,0,True,0.23
+C102,55,Satellite TV,America's Top 120,118.56,2025-04-27,On Time,1,1,0.0,1,True,0,True,0.48
+C103,38,5G Wireless,5G Basic,59.14,2025-04-26,On Time,1,4,0.0,9,True,0,False,0.12
+C104,33,Internet,Home 500 Mbps,83.43,2025-04-17,On Time,4,1,109.1,9,False,3,True,0.17
+C105,55,Satellite TV,America's Top 120,66.15,2025-04-10,On Time,5,4,0.0,2,True,0,False,0.24
+C106,9,Sling TV,Orange,54.75,2025-04-11,On Time,5,3,57.1,10,False,0,False,0.2
+C107,51,Internet,Home 100 Mbps,93.16,2025-04-04,On Time,4,2,64.5,4,False,2,False,0.15
+C108,47,Internet,Home 500 Mbps,38.56,2025-04-18,On Time,2,3,143.0,8,True,0,True,0.3
+C109,7,Satellite TV,America's Top 120,97.01,2025-04-20,Late,4,1,0.0,10,False,0,True,0.26
+C110,56,Internet,Home 500 Mbps,89.88,2025-04-07,On Time,5,1,145.3,10,False,2,True,0.18
+C111,43,Sling TV,Blue,73.4,2025-04-04,On Time,4,3,17.2,5,True,0,False,0.07
+C112,60,Satellite TV,America's Everything Pack,89.2,2025-04-09,On Time,1,3,0.0,5,False,0,False,0.37
+C113,56,Satellite TV,America's Top 200,42.89,2025-04-10,On Time,1,1,0.0,2,True,0,False,0.17
+C114,22,Internet,Home 500 Mbps,44.17,2025-04-22,Late,4,5,12.7,1,True,1,True,0.65
+C115,29,Satellite TV,America's Top 120,89.57,2025-04-16,On Time,3,3,0.0,4,True,0,False,0.5
+C116,19,Internet,Home 100 Mbps,91.04,2025-04-13,On Time,5,3,6.8,7,True,0,True,0.41
+C117,50,5G Wireless,5G Basic,42.35,2025-04-23,On Time,0,1,0.0,8,False,1,True,0.38
+C118,46,Internet,Gigabit Fiber,50.71,2025-04-14,Late,2,1,59.6,1,False,0,False,0.48
+C119,37,Satellite TV,America's Top 120,68.64,2025-04-19,Late,3,3,0.0,2,False,0,True,0.45
+C120,52,5G Wireless,5G Basic,115.29,2025-04-17,Late,2,1,0.0,7,True,1,False,0.31
+C121,6,Internet,Gigabit Fiber,65.62,2025-04-22,Late,1,3,116.9,2,True,1,False,0.35
+C122,53,5G Wireless,5G Max,88.09,2025-04-27,On Time,1,3,0.0,4,True,1,True,0.54
+C123,30,Sling TV,Blue + Sports,97.9,2025-04-07,On Time,5,5,96.4,10,False,0,False,0.31
+C124,5,Sling TV,Blue + Sports,72.2,2025-04-11,On Time,2,5,8.4,9,True,0,False,0.15
+C125,3,Internet,Home 500 Mbps,35.12,2025-04-05,On Time,5,1,92.3,9,False,3,True,0.45
+C126,42,Internet,Gigabit Fiber,46.94,2025-04-12,On Time,1,1,67.6,6,True,1,True,0.36
+C127,29,Sling TV,Blue + Sports,77.17,2025-04-12,On Time,2,3,58.1,6,True,0,False,0.06
+C128,7,Satellite TV,America's Top 120,80.22,2025-04-19,On Time,5,5,0.0,3,False,0,True,0.23
+C129,20,Sling TV,Orange + Sports,117.09,2025-04-09,On Time,1,5,106.3,2,False,0,False,0.19
+C130,43,5G Wireless,5G Basic,93.25,2025-04-01,Late,5,5,0.0,2,False,2,True,0.52
+C131,12,5G Wireless,5G Unlimited,115.61,2025-04-21,Missed,3,2,0.0,4,True,1,True,0.22
+C132,33,5G Wireless,5G Basic,99.38,2025-04-05,Late,4,1,0.0,6,True,3,True,0.14
+C133,54,Sling TV,Blue,92.36,2025-04-12,Late,1,4,6.6,6,True,0,False,0.47
+C134,51,5G Wireless,5G Max,70.4,2025-04-14,On Time,3,2,0.0,6,False,3,False,0.16
+C135,34,Internet,Gigabit Fiber,67.68,2025-04-26,Late,4,2,131.0,1,False,2,True,0.06
+C136,6,Satellite TV,America's Top 120,98.68,2025-04-23,On Time,4,2,0.0,7,True,0,True,0.34
+C137,60,Internet,Home 500 Mbps,32.4,2025-04-30,On Time,2,2,57.9,2,False,1,True,0.31
+C138,54,5G Wireless,5G Basic,94.32,2025-04-21,Late,1,1,0.0,5,False,1,False,0.28
+C139,1,Internet,Gigabit Fiber,111.53,2025-05-01,On Time,1,5,141.0,10,False,0,False,0.33
+C140,8,Sling TV,Orange + Sports,34.3,2025-04-18,On Time,4,4,9.4,8,True,0,True,0.41
+C141,28,Sling TV,Orange + Sports,30.14,2025-04-20,On Time,3,2,99.7,2,False,0,True,0.32
+C142,56,Satellite TV,America's Top 120,72.31,2025-04-11,On Time,2,3,0.0,1,False,0,True,0.18
+C143,47,5G Wireless,5G Basic,89.14,2025-04-28,Late,5,3,0.0,3,True,2,False,0.11
+C144,45,Sling TV,Blue + Sports,73.07,2025-04-26,Late,0,4,5.5,4,True,0,True,0.06
+C145,60,Satellite TV,America's Top 120,57.91,2025-04-19,Missed,4,4,0.0,5,True,0,True,0.39
+C146,56,5G Wireless,5G Unlimited,100.28,2025-04-04,On Time,2,1,0.0,6,False,3,False,0.22
+C147,12,Internet,Home 500 Mbps,74.66,2025-04-16,On Time,4,3,120.2,7,True,3,True,0.17
+C148,7,5G Wireless,5G Unlimited,37.21,2025-04-10,On Time,3,5,0.0,7,True,3,False,0.07
+C149,47,Internet,Home 100 Mbps,108.3,2025-04-20,On Time,3,3,95.9,1,True,3,False,0.21
+C150,10,Sling TV,Orange,106.38,2025-04-10,Late,0,2,10.1,6,False,0,False,0.36
+C151,10,Satellite TV,America's Everything Pack,91.12,2025-04-01,On Time,3,1,0.0,10,True,0,False,0.32
+C152,42,Internet,Home 500 Mbps,55.08,2025-04-01,On Time,5,2,74.9,7,True,2,False,0.14
+C153,40,Internet,Home 100 Mbps,55.7,2025-04-02,Missed,1,1,20.4,2,False,1,False,0.22
+C154,55,Satellite TV,America's Everything Pack,118.79,2025-04-10,On Time,0,5,0.0,9,False,0,False,0.14
+C155,51,Sling TV,Blue,62.53,2025-04-24,On Time,1,2,35.5,8,True,0,False,0.06
+C156,52,5G Wireless,5G Unlimited,118.47,2025-04-27,On Time,0,1,0.0,5,False,3,False,0.58
+C157,5,Internet,Gigabit Fiber,41.28,2025-04-21,On Time,3,4,102.0,6,True,1,True,0.17
+C158,59,Internet,Gigabit Fiber,108.14,2025-04-05,On Time,1,3,24.7,6,True,2,False,0.49
+C159,13,Satellite TV,America's Top 120,87.16,2025-04-14,On Time,5,3,0.0,10,True,0,True,0.22
+C160,43,Sling TV,Blue,86.2,2025-04-03,On Time,4,1,123.8,1,True,0,True,0.37
+C161,14,5G Wireless,5G Max,99.03,2025-04-18,On Time,0,4,0.0,9,False,2,False,0.39
+C162,20,Sling TV,Blue + Sports,70.82,2025-04-09,On Time,3,4,72.6,4,False,0,True,0.29
+C163,21,5G Wireless,5G Max,96.08,2025-04-04,On Time,3,2,0.0,6,True,2,True,0.36
+C164,18,Internet,Home 100 Mbps,70.46,2025-04-27,On Time,2,4,129.6,7,True,1,False,0.37
+C165,49,5G Wireless,5G Basic,44.34,2025-04-15,On Time,2,4,0.0,1,True,3,False,0.43
+C166,38,Sling TV,Blue,61.76,2025-04-30,On Time,4,4,42.9,1,True,0,False,0.06
+C167,47,Sling TV,Orange + Sports,62.92,2025-04-19,On Time,3,1,85.5,4,False,0,False,0.15
+C168,33,Satellite TV,America's Top 120,70.53,2025-04-14,On Time,4,5,0.0,2,True,0,True,0.69
+C169,51,Internet,Home 500 Mbps,118.81,2025-04-14,Missed,1,2,90.4,7,True,0,True,0.05
+C170,52,Sling TV,Orange + Sports,72.64,2025-04-17,On Time,4,2,49.2,10,False,0,True,0.19
+C171,48,Internet,Gigabit Fiber,105.83,2025-04-13,On Time,4,5,73.5,10,False,3,True,0.27
+C172,44,5G Wireless,5G Unlimited,39.86,2025-04-18,On Time,5,1,0.0,10,False,2,True,0.32
+C173,31,Satellite TV,America's Everything Pack,45.35,2025-04-11,Late,3,2,0.0,4,True,0,True,0.48
+C174,29,Sling TV,Orange,58.23,2025-04-27,On Time,1,4,75.3,10,False,0,True,0.32
+C175,36,Sling TV,Blue,59.25,2025-04-10,On Time,3,3,143.5,8,False,0,False,0.49
+C176,31,5G Wireless,5G Max,47.3,2025-04-24,On Time,2,2,0.0,5,False,1,False,0.18
+C177,23,5G Wireless,5G Unlimited,80.44,2025-04-02,Late,2,3,0.0,2,False,3,False,0.03
+C178,3,Sling TV,Orange + Sports,55.89,2025-04-09,On Time,3,3,112.1,4,True,0,False,0.44
+C179,7,5G Wireless,5G Basic,85.41,2025-04-13,On Time,0,5,0.0,4,True,0,True,0.22
+C180,46,Internet,Home 500 Mbps,72.52,2025-04-10,Late,0,5,146.7,3,False,3,False,0.13
+C181,21,Sling TV,Orange + Sports,55.69,2025-04-30,Missed,0,5,34.8,1,True,0,False,0.56
+C182,54,Sling TV,Orange,65.73,2025-04-16,On Time,5,3,131.5,1,False,0,True,0.14
+C183,30,5G Wireless,5G Unlimited,119.02,2025-04-14,On Time,1,5,0.0,8,False,1,True,0.19
+C184,47,5G Wireless,5G Basic,71.3,2025-04-23,Late,0,3,0.0,5,True,1,False,0.28
+C185,21,Internet,Gigabit Fiber,37.81,2025-04-10,On Time,1,4,48.5,4,True,2,False,0.26
+C186,49,Sling TV,Blue + Sports,54.03,2025-04-21,On Time,5,5,1.7,6,True,0,True,0.17
+C187,20,Satellite TV,America's Top 120,44.37,2025-04-10,On Time,5,3,0.0,2,False,0,False,0.39
+C188,9,Sling TV,Blue,73.04,2025-04-17,Late,4,3,62.4,9,False,0,True,0.14
+C189,34,Sling TV,Orange,70.21,2025-04-09,On Time,4,1,9.3,9,True,0,True,0.47
+C190,55,Sling TV,Orange + Sports,76.83,2025-04-28,On Time,5,5,73.3,9,False,0,True,0.62
+C191,33,Internet,Home 100 Mbps,67.39,2025-04-13,On Time,3,3,108.5,7,False,0,True,0.31
+C192,28,Satellite TV,America's Top 200,61.01,2025-04-29,On Time,0,1,0.0,8,True,0,False,0.31
+C193,50,Internet,Home 100 Mbps,42.19,2025-04-11,Missed,5,4,56.2,7,False,3,False,0.13
+C194,43,Satellite TV,America's Everything Pack,108.71,2025-04-27,On Time,2,1,0.0,3,False,0,True,0.72
+C195,49,Sling TV,Orange,32.05,2025-04-22,On Time,5,5,63.6,7,True,0,True,0.12
+C196,10,Internet,Home 500 Mbps,54.81,2025-04-02,Late,0,1,121.4,7,True,1,True,0.29
+C197,39,Satellite TV,America's Top 200,33.02,2025-04-12,On Time,0,2,0.0,1,False,0,False,0.51
+C198,49,Sling TV,Blue,107.74,2025-04-30,On Time,2,2,122.4,10,False,0,False,0.16
+C199,57,Sling TV,Orange + Sports,42.89,2025-04-10,On Time,3,3,41.3,9,True,0,False,0.26
+C200,23,Internet,Home 100 Mbps,114.74,2025-04-10,On Time,4,3,104.4,7,True,2,False,0.14
+C201,16,Sling TV,Blue + Sports,106.44,2025-04-22,Late,1,4,137.2,9,False,0,False,0.39
+C202,16,Sling TV,Blue + Sports,52.95,2025-04-21,On Time,3,3,13.9,4,True,0,False,0.46
+C203,39,Internet,Gigabit Fiber,84.26,2025-04-04,On Time,4,5,32.6,4,False,2,True,0.13
+C204,48,Sling TV,Blue,40.56,2025-04-07,On Time,1,5,105.6,7,True,0,False,0.06
+C205,30,5G Wireless,5G Unlimited,78.03,2025-04-20,On Time,2,5,0.0,8,False,0,False,0.02
+C206,24,5G Wireless,5G Basic,58.16,2025-04-30,On Time,1,2,0.0,1,False,3,False,0.16
+C207,22,Sling TV,Blue,50.7,2025-04-13,Late,3,5,98.2,6,False,0,False,0.27
+C208,11,Internet,Home 500 Mbps,95.95,2025-04-20,On Time,5,5,73.2,9,True,0,True,0.53
+C209,27,Satellite TV,America's Top 200,42.37,2025-04-11,On Time,5,2,0.0,1,True,0,False,0.31
+C210,40,5G Wireless,5G Basic,87.4,2025-04-02,On Time,3,4,0.0,1,True,3,True,0.25
+C211,47,Satellite TV,America's Everything Pack,54.73,2025-04-22,On Time,5,4,0.0,3,True,0,True,0.4
+C212,13,Sling TV,Blue,85.78,2025-04-23,Late,2,4,11.9,7,False,0,True,0.37
+C213,44,Sling TV,Orange + Sports,104.53,2025-04-29,On Time,5,1,14.0,7,False,0,False,0.22
+C214,1,Satellite TV,America's Everything Pack,93.26,2025-04-29,On Time,3,3,0.0,10,True,0,True,0.09
+C215,58,Sling TV,Blue,108.13,2025-04-03,On Time,2,1,138.6,5,True,0,True,0.43
+C216,14,5G Wireless,5G Basic,82.83,2025-04-07,Late,3,1,0.0,5,True,1,False,0.31
+C217,49,5G Wireless,5G Unlimited,96.58,2025-04-06,Missed,5,1,0.0,9,False,0,True,0.09
+C218,54,Internet,Home 100 Mbps,36.84,2025-04-12,Late,4,4,145.3,6,True,2,False,0.32
+C219,23,Internet,Home 100 Mbps,79.77,2025-04-19,On Time,5,5,99.1,2,False,1,True,0.17
+C220,10,Satellite TV,America's Top 120,64.2,2025-04-06,On Time,5,4,0.0,6,False,0,True,0.52
+C221,20,Satellite TV,America's Top 200,70.03,2025-04-07,On Time,1,1,0.0,3,False,0,False,0.14
+C222,2,Internet,Home 100 Mbps,38.07,2025-04-14,On Time,4,3,129.6,1,False,3,False,0.44
+C223,58,Satellite TV,America's Everything Pack,80.36,2025-04-24,On Time,1,4,0.0,3,True,0,False,0.56
+C224,32,5G Wireless,5G Unlimited,43.13,2025-04-26,On Time,3,3,0.0,8,True,2,False,0.2
+C225,39,Sling TV,Blue + Sports,85.5,2025-04-17,On Time,2,1,142.3,6,False,0,False,0.27
+C226,28,Internet,Home 500 Mbps,103.39,2025-04-04,On Time,4,2,45.1,10,True,3,False,0.34
+C227,21,Sling TV,Blue + Sports,56.23,2025-04-09,On Time,4,2,48.9,5,False,0,False,0.31
+C228,13,Satellite TV,America's Everything Pack,83.3,2025-04-14,On Time,4,1,0.0,8,True,0,False,0.08
+C229,5,5G Wireless,5G Max,103.71,2025-04-06,Late,5,4,0.0,3,False,1,False,0.2
+C230,51,Sling TV,Blue + Sports,63.93,2025-04-17,Missed,3,5,60.1,9,False,0,True,0.47
+C231,58,5G Wireless,5G Max,103.11,2025-04-12,On Time,0,1,0.0,4,False,1,True,0.22
+C232,51,Internet,Home 500 Mbps,68.74,2025-05-01,On Time,1,5,112.0,9,True,3,False,0.56
+C233,50,Internet,Home 500 Mbps,91.16,2025-04-09,On Time,2,1,72.4,5,False,0,True,0.46
+C234,20,Sling TV,Orange + Sports,60.88,2025-04-06,On Time,3,3,71.4,8,False,0,False,0.23
+C235,3,Satellite TV,America's Top 120,102.92,2025-04-28,On Time,2,1,0.0,3,True,0,True,0.19
+C236,36,Sling TV,Orange + Sports,68.37,2025-04-17,On Time,3,2,28.0,7,False,0,True,0.11
+C237,38,Sling TV,Blue + Sports,68.66,2025-05-01,Late,1,3,112.8,2,True,0,True,0.12
+C238,13,5G Wireless,5G Unlimited,71.18,2025-04-23,On Time,3,5,0.0,6,False,3,True,0.22
+C239,55,5G Wireless,5G Unlimited,71.21,2025-04-26,Late,5,3,0.0,10,True,1,False,0.17
+C240,20,Satellite TV,America's Top 200,40.53,2025-04-20,On Time,4,4,0.0,7,True,0,False,0.24
+C241,32,Internet,Home 100 Mbps,87.2,2025-04-09,Missed,1,5,25.0,5,True,1,False,0.44
+C242,4,Internet,Gigabit Fiber,107.9,2025-04-01,On Time,1,2,122.3,9,False,3,False,0.31
+C243,54,Internet,Gigabit Fiber,69.95,2025-04-26,On Time,0,2,43.8,5,True,2,True,0.41
+C244,48,Internet,Gigabit Fiber,99.53,2025-04-16,On Time,0,5,17.1,9,False,0,False,0.24
+C245,7,Sling TV,Blue + Sports,96.24,2025-04-11,Late,2,1,67.5,6,True,0,False,0.31
+C246,14,Satellite TV,America's Top 200,102.96,2025-04-13,On Time,5,5,0.0,7,True,0,True,0.22
+C247,52,Sling TV,Blue,35.34,2025-04-20,On Time,4,5,25.3,5,False,0,False,0.23
+C248,49,Satellite TV,America's Top 200,100.71,2025-04-02,On Time,2,2,0.0,3,True,0,True,0.6
+C249,49,5G Wireless,5G Basic,105.92,2025-04-19,On Time,4,3,0.0,7,False,3,True,0.19
+C250,33,Satellite TV,America's Top 120,97.48,2025-04-09,Missed,2,4,0.0,8,False,0,True,0.33
+C251,30,Satellite TV,America's Everything Pack,87.14,2025-04-09,On Time,0,5,0.0,7,True,0,False,0.15
+C252,18,Sling TV,Blue + Sports,59.06,2025-04-22,On Time,4,2,84.9,8,False,0,True,0.59
+C253,41,Satellite TV,America's Top 200,100.55,2025-04-17,On Time,1,4,0.0,8,True,0,False,0.14
+C254,57,Sling TV,Blue,88.5,2025-04-26,Late,2,1,98.2,5,True,0,False,0.15
+C255,26,Sling TV,Orange,86.3,2025-04-08,On Time,1,4,98.3,2,True,0,True,0.47
+C256,9,Internet,Home 100 Mbps,83.43,2025-04-15,On Time,0,1,104.3,2,False,1,False,0.35
+C257,25,Satellite TV,America's Top 200,38.04,2025-04-06,On Time,2,3,0.0,5,True,0,False,0.22
+C258,5,Sling TV,Blue,77.75,2025-05-01,On Time,1,4,52.7,4,True,0,False,0.38
+C259,6,Internet,Home 100 Mbps,110.69,2025-04-27,Late,4,4,52.7,7,False,1,True,0.25
+C260,6,5G Wireless,5G Max,52.34,2025-04-12,On Time,4,3,0.0,1,False,1,True,0.19
+C261,42,Internet,Home 500 Mbps,34.91,2025-04-03,Late,1,4,57.9,4,False,0,True,0.22
+C262,9,5G Wireless,5G Unlimited,64.82,2025-04-05,On Time,2,5,0.0,3,False,0,True,0.55
+C263,17,Satellite TV,America's Top 200,49.42,2025-04-02,On Time,3,5,0.0,5,False,0,False,0.43
+C264,41,Internet,Home 100 Mbps,78.29,2025-04-12,On Time,0,3,11.9,4,True,2,False,0.34
+C265,45,Satellite TV,America's Top 120,69.37,2025-04-01,Late,0,2,0.0,2,False,0,True,0.28
+C266,39,Internet,Gigabit Fiber,34.95,2025-04-10,Late,5,2,17.9,3,True,1,False,0.2
+C267,34,5G Wireless,5G Max,100.47,2025-04-08,On Time,2,2,0.0,5,True,0,False,0.2
+C268,34,Internet,Home 500 Mbps,35.75,2025-04-09,Missed,5,1,74.4,9,False,0,False,0.42
+C269,11,Sling TV,Orange + Sports,52.96,2025-04-28,Late,5,1,34.3,9,True,0,True,0.09
+C270,3,Satellite TV,America's Top 200,72.46,2025-04-19,Missed,1,1,0.0,9,False,0,True,0.07
+C271,27,5G Wireless,5G Basic,112.43,2025-04-21,On Time,0,5,0.0,6,True,0,True,0.37
+C272,26,Sling TV,Orange,36.2,2025-04-17,Late,2,3,13.0,8,True,0,False,0.18
+C273,37,Sling TV,Orange + Sports,100.61,2025-04-08,On Time,3,3,88.8,8,True,0,True,0.47
+C274,60,Sling TV,Orange,66.9,2025-04-24,On Time,5,1,142.6,1,False,0,False,0.44
+C275,34,Satellite TV,America's Top 200,118.48,2025-04-18,On Time,0,2,0.0,5,True,0,True,0.27
+C276,45,Sling TV,Blue + Sports,110.6,2025-04-17,Missed,0,5,14.3,3,False,0,True,0.44
+C277,43,Satellite TV,America's Top 120,116.78,2025-04-24,On Time,2,4,0.0,6,False,0,False,0.45
+C278,5,5G Wireless,5G Basic,114.92,2025-04-27,Late,4,1,0.0,3,True,1,False,0.51
+C279,27,Internet,Home 500 Mbps,40.87,2025-04-20,Missed,1,4,46.2,5,True,0,True,0.2
+C280,45,5G Wireless,5G Max,84.3,2025-04-25,Late,2,2,0.0,2,True,2,False,0.06
+C281,20,Satellite TV,America's Everything Pack,53.42,2025-04-26,On Time,3,4,0.0,9,True,0,True,0.01
+C282,52,Internet,Home 100 Mbps,101.44,2025-04-28,On Time,1,2,29.7,7,False,0,False,0.44
+C283,5,Satellite TV,America's Top 200,47.8,2025-04-11,On Time,1,1,0.0,6,True,0,True,0.26
+C284,11,Internet,Home 100 Mbps,113.17,2025-04-18,Late,3,4,4.4,7,True,2,True,0.12
+C285,18,Sling TV,Orange + Sports,70.14,2025-04-27,On Time,4,5,36.9,5,False,0,False,0.29
+C286,6,Internet,Home 100 Mbps,55.18,2025-04-27,On Time,5,5,37.4,9,True,3,False,0.25
+C287,51,Internet,Gigabit Fiber,73.62,2025-04-02,On Time,2,4,40.6,1,False,1,True,0.27
+C288,52,5G Wireless,5G Basic,119.24,2025-04-15,On Time,4,2,0.0,3,True,1,True,0.23
+C289,53,5G Wireless,5G Max,101.21,2025-04-08,On Time,1,5,0.0,7,False,1,True,0.4
+C290,52,Sling TV,Orange + Sports,96.43,2025-04-20,Missed,0,3,142.1,10,True,0,True,0.12
+C291,20,Internet,Gigabit Fiber,45.8,2025-04-30,On Time,1,5,32.8,9,False,0,False,0.24
+C292,22,Sling TV,Blue,94.52,2025-04-02,Late,2,1,3.3,10,True,0,True,0.17
+C293,24,5G Wireless,5G Basic,93.41,2025-04-10,On Time,0,3,0.0,5,False,1,True,0.36
+C294,32,Internet,Gigabit Fiber,88.43,2025-04-26,Late,4,5,118.0,4,True,3,False,0.16
+C295,12,5G Wireless,5G Basic,95.59,2025-04-01,Late,4,4,0.0,10,True,1,False,0.1
+C296,60,Sling TV,Orange,74.66,2025-04-21,Late,1,3,147.4,3,True,0,False,0.33
+C297,17,Internet,Home 100 Mbps,48.87,2025-04-09,On Time,2,1,108.1,1,False,3,False,0.31
+C298,32,Sling TV,Blue + Sports,109.36,2025-04-20,On Time,0,4,118.3,10,True,0,True,0.08
+C299,52,Internet,Home 100 Mbps,106.12,2025-04-22,On Time,2,1,11.1,3,False,1,True,0.47
+C300,39,Satellite TV,America's Top 120,118.67,2025-04-03,On Time,0,4,0.0,3,False,0,True,0.32
+C301,22,Satellite TV,America's Top 200,48.5,2025-04-25,On Time,4,5,0.0,5,False,0,False,0.21
+C302,4,Sling TV,Orange,65.36,2025-04-14,Late,1,1,54.1,7,True,0,False,0.04
+C303,7,Internet,Home 100 Mbps,32.32,2025-04-26,On Time,0,4,126.6,5,False,3,False,0.42
+C304,42,5G Wireless,5G Basic,78.97,2025-04-26,On Time,3,3,0.0,3,False,0,False,0.31
+C305,17,Internet,Home 500 Mbps,50.36,2025-04-23,On Time,1,1,12.9,6,False,1,True,0.36
+C306,27,Internet,Gigabit Fiber,116.91,2025-04-10,Late,3,5,132.2,8,False,0,False,0.32
+C307,37,Satellite TV,America's Everything Pack,111.04,2025-04-06,On Time,4,2,0.0,2,False,0,True,0.06
+C308,52,Sling TV,Blue,47.35,2025-04-30,On Time,5,4,30.3,3,False,0,False,0.22
+C309,25,Satellite TV,America's Top 200,80.07,2025-04-14,On Time,2,5,0.0,8,True,0,False,0.42
+C310,10,Satellite TV,America's Top 120,43.34,2025-04-13,On Time,0,1,0.0,10,True,0,False,0.09
+C311,17,5G Wireless,5G Unlimited,64.47,2025-04-16,On Time,3,1,0.0,3,False,3,True,0.24
+C312,26,Internet,Home 100 Mbps,110.06,2025-04-21,On Time,0,4,138.1,6,True,2,False,0.11
+C313,54,5G Wireless,5G Unlimited,74.25,2025-04-09,On Time,1,2,0.0,5,False,2,False,0.39
+C314,42,Internet,Gigabit Fiber,38.04,2025-04-17,On Time,3,4,113.9,6,True,1,True,0.26
+C315,33,5G Wireless,5G Max,66.3,2025-04-07,Late,4,1,0.0,3,True,1,True,0.38
+C316,30,Sling TV,Orange,34.55,2025-04-20,Late,2,3,123.5,9,False,0,True,0.37
+C317,24,Satellite TV,America's Top 200,73.99,2025-04-17,On Time,3,5,0.0,9,False,0,False,0.58
+C318,48,Sling TV,Orange + Sports,104.78,2025-04-29,On Time,3,1,24.4,10,True,0,True,0.56
+C319,18,Sling TV,Blue,88.64,2025-04-15,On Time,5,1,71.1,3,True,0,True,0.09
+C320,39,Sling TV,Orange + Sports,102.46,2025-04-22,Late,5,3,63.6,7,False,0,False,0.34
+C321,30,5G Wireless,5G Basic,57.19,2025-04-15,Late,3,5,0.0,2,True,2,False,0.61
+C322,7,5G Wireless,5G Max,73.36,2025-04-21,Missed,5,3,0.0,5,False,2,True,0.31
+C323,58,Sling TV,Blue,35.11,2025-04-04,Late,4,4,99.1,3,True,0,False,0.65
+C324,59,5G Wireless,5G Unlimited,67.67,2025-04-19,Late,4,5,0.0,4,False,1,False,0.23
+C325,20,5G Wireless,5G Max,106.09,2025-04-05,On Time,4,2,0.0,5,True,3,True,0.45
+C326,52,5G Wireless,5G Max,80.31,2025-04-02,On Time,5,3,0.0,2,True,2,True,0.6
+C327,51,5G Wireless,5G Unlimited,109.82,2025-04-20,On Time,2,4,0.0,2,False,0,True,0.14
+C328,33,Internet,Home 100 Mbps,40.78,2025-04-10,On Time,2,4,8.1,3,True,1,False,0.24
+C329,58,Internet,Gigabit Fiber,111.6,2025-04-17,On Time,5,2,116.8,8,False,1,False,0.6
+C330,29,Satellite TV,America's Top 200,54.62,2025-04-07,Late,4,2,0.0,8,True,0,True,0.29
+C331,28,Internet,Gigabit Fiber,66.31,2025-04-01,On Time,0,1,80.1,6,True,2,True,0.4
+C332,1,Satellite TV,America's Everything Pack,86.4,2025-04-24,On Time,2,3,0.0,3,True,0,False,0.45
+C333,5,5G Wireless,5G Basic,104.15,2025-04-22,Missed,3,5,0.0,10,False,3,True,0.18
+C334,23,5G Wireless,5G Unlimited,97.51,2025-04-26,Missed,3,1,0.0,4,True,1,True,0.41
+C335,33,Satellite TV,America's Everything Pack,45.21,2025-04-20,Late,0,4,0.0,5,True,0,True,0.35
+C336,54,Satellite TV,America's Everything Pack,31.78,2025-04-09,On Time,3,4,0.0,2,False,0,False,0.18
+C337,45,Sling TV,Blue,91.72,2025-05-01,On Time,5,1,99.4,5,True,0,False,0.21
+C338,47,Satellite TV,America's Everything Pack,85.59,2025-04-22,On Time,0,4,0.0,4,True,0,False,0.61
+C339,46,Sling TV,Orange + Sports,66.88,2025-04-26,On Time,3,2,103.2,8,False,0,True,0.14
+C340,43,Satellite TV,America's Top 200,38.01,2025-04-28,Late,5,4,0.0,3,True,0,True,0.44
+C341,42,Satellite TV,America's Top 120,50.8,2025-04-22,On Time,0,1,0.0,3,True,0,False,0.31
+C342,21,5G Wireless,5G Max,68.34,2025-04-28,On Time,0,1,0.0,3,True,2,False,0.46
+C343,18,Internet,Gigabit Fiber,109.06,2025-04-29,On Time,2,2,17.1,7,False,2,False,0.43
+C344,42,Internet,Home 500 Mbps,109.75,2025-04-26,On Time,5,1,147.2,3,True,3,False,0.28
+C345,40,Internet,Home 100 Mbps,64.18,2025-04-20,On Time,5,2,72.5,8,True,3,False,0.19
+C346,17,Satellite TV,America's Top 200,88.95,2025-05-01,Late,5,5,0.0,10,True,0,False,0.56
+C347,43,Satellite TV,America's Top 120,95.4,2025-04-16,On Time,5,4,0.0,3,True,0,True,0.5
+C348,55,Sling TV,Blue + Sports,74.63,2025-04-26,On Time,3,3,36.1,5,True,0,True,0.32
+C349,53,Internet,Home 500 Mbps,51.15,2025-04-17,On Time,4,4,13.2,8,False,2,True,0.29
+C350,42,Internet,Gigabit Fiber,31.6,2025-04-19,On Time,4,5,0.0,2,False,1,False,0.13
+C351,53,5G Wireless,5G Unlimited,34.88,2025-04-24,Late,2,5,0.0,10,False,2,False,0.44
+C352,49,Satellite TV,America's Top 200,89.3,2025-05-01,On Time,5,3,0.0,9,False,0,True,0.58
+C353,32,Satellite TV,America's Top 200,42.64,2025-04-09,Late,3,1,0.0,5,True,0,True,0.12
+C354,14,Satellite TV,America's Top 120,71.13,2025-04-06,On Time,2,1,0.0,7,True,0,True,0.14
+C355,43,Internet,Home 500 Mbps,83.04,2025-04-15,On Time,3,1,79.6,1,False,3,True,0.19
+C356,7,Sling TV,Blue,64.87,2025-04-12,On Time,2,5,132.2,7,True,0,False,0.19
+C357,19,Internet,Home 500 Mbps,70.76,2025-04-27,On Time,4,5,44.8,9,False,1,True,0.28
+C358,44,Sling TV,Orange + Sports,61.08,2025-04-10,On Time,5,2,75.6,6,True,0,False,0.26
+C359,37,Internet,Gigabit Fiber,114.84,2025-04-09,On Time,5,5,42.9,7,True,0,True,0.12
+C360,4,Internet,Home 100 Mbps,90.32,2025-04-25,On Time,1,3,102.5,3,True,2,True,0.59
+C361,53,Satellite TV,America's Top 120,70.73,2025-04-12,Late,5,5,0.0,4,False,0,True,0.14
+C362,43,5G Wireless,5G Max,34.23,2025-04-19,On Time,5,3,0.0,9,True,0,False,0.27
+C363,54,Sling TV,Blue + Sports,50.3,2025-04-11,Late,5,3,113.3,9,True,0,True,0.17
+C364,12,5G Wireless,5G Unlimited,118.51,2025-04-29,On Time,1,5,0.0,2,False,0,False,0.51
+C365,17,5G Wireless,5G Max,41.71,2025-04-13,Late,0,3,0.0,8,True,0,True,0.22
+C366,4,5G Wireless,5G Max,99.63,2025-04-11,On Time,5,3,0.0,8,False,0,False,0.3
+C367,34,Sling TV,Blue,36.14,2025-04-15,On Time,4,5,60.5,6,True,0,True,0.6
+C368,24,5G Wireless,5G Unlimited,56.42,2025-04-01,Late,4,4,0.0,9,True,0,False,0.23
+C369,58,Internet,Home 100 Mbps,87.8,2025-04-02,On Time,0,3,57.2,2,False,2,False,0.33
+C370,53,Satellite TV,America's Everything Pack,99.34,2025-04-15,Late,3,4,0.0,1,False,0,True,0.16
+C371,6,5G Wireless,5G Max,115.34,2025-04-26,Missed,4,5,0.0,1,True,1,True,0.26
+C372,14,Internet,Home 100 Mbps,78.4,2025-04-09,Late,5,4,97.0,2,True,0,False,0.39
+C373,6,5G Wireless,5G Basic,36.59,2025-04-26,Late,4,1,0.0,10,True,2,False,0.12
+C374,41,Internet,Home 500 Mbps,66.4,2025-04-21,On Time,5,1,80.2,10,True,0,True,0.23
+C375,7,5G Wireless,5G Max,56.09,2025-04-10,On Time,0,3,0.0,8,False,3,True,0.34
+C376,35,Internet,Home 100 Mbps,49.79,2025-04-08,On Time,4,3,144.0,3,False,2,True,0.07
+C377,3,Sling TV,Orange,30.45,2025-04-12,On Time,4,1,45.7,6,True,0,False,0.38
+C378,12,Sling TV,Blue,49.87,2025-04-05,On Time,0,2,100.6,10,True,0,False,0.32
+C379,43,Satellite TV,America's Top 120,36.06,2025-04-28,On Time,4,4,0.0,6,False,0,True,0.2
+C380,19,Sling TV,Orange,85.76,2025-04-03,On Time,3,4,49.3,5,True,0,False,0.29
+C381,11,5G Wireless,5G Unlimited,30.43,2025-04-24,Late,5,4,0.0,5,False,1,False,0.6
+C382,29,Internet,Home 500 Mbps,62.29,2025-04-22,On Time,0,2,96.8,2,False,1,True,0.1
+C383,57,5G Wireless,5G Max,86.4,2025-04-08,On Time,0,5,0.0,1,False,1,True,0.28
+C384,58,5G Wireless,5G Max,119.89,2025-04-16,On Time,1,3,0.0,7,True,2,True,0.5
+C385,33,Internet,Gigabit Fiber,38.15,2025-04-20,On Time,5,2,127.2,10,True,1,False,0.16
+C386,37,Sling TV,Blue,115.38,2025-04-10,Late,1,4,140.9,1,True,0,False,0.21
+C387,17,Sling TV,Orange,63.25,2025-04-30,On Time,4,3,58.2,8,True,0,True,0.46
+C388,46,5G Wireless,5G Basic,117.16,2025-04-11,Late,5,3,0.0,10,True,3,False,0.28
+C389,42,5G Wireless,5G Max,110.84,2025-04-29,On Time,3,2,0.0,9,False,2,False,0.19
+C390,57,Internet,Home 500 Mbps,84.38,2025-04-15,Late,3,2,34.5,9,False,1,True,0.11
+C391,24,Sling TV,Blue,84.18,2025-04-05,On Time,1,4,121.7,2,False,0,False,0.42
+C392,38,Internet,Home 100 Mbps,44.51,2025-04-05,On Time,1,1,19.2,10,True,1,True,0.64
+C393,11,Sling TV,Orange,53.24,2025-04-26,On Time,3,5,145.4,1,False,0,True,0.31
+C394,39,Sling TV,Blue + Sports,119.35,2025-04-04,On Time,1,4,90.1,10,True,0,False,0.41
+C395,60,Sling TV,Orange + Sports,70.81,2025-04-13,On Time,3,4,19.8,1,True,0,False,0.2
+C396,12,Sling TV,Orange,72.83,2025-04-12,On Time,4,5,112.9,2,False,0,True,0.14
+C397,42,Satellite TV,America's Everything Pack,68.83,2025-04-18,On Time,0,5,0.0,7,True,0,False,0.1
+C398,38,Internet,Home 500 Mbps,102.42,2025-04-02,Late,5,5,14.7,3,False,3,True,0.37
+C399,39,Satellite TV,America's Top 120,108.91,2025-04-18,On Time,0,1,0.0,10,True,0,True,0.51
+C400,14,Internet,Gigabit Fiber,91.9,2025-04-21,On Time,0,2,63.9,10,False,2,False,0.24
+C401,18,5G Wireless,5G Max,119.26,2025-04-19,Late,3,5,0.0,9,False,1,False,0.41
+C402,20,Internet,Home 500 Mbps,81.99,2025-04-07,Late,5,2,128.2,2,True,3,True,0.26
+C403,33,Satellite TV,America's Top 200,66.05,2025-04-21,Late,4,1,0.0,3,False,0,True,0.38
+C404,31,Satellite TV,America's Top 200,113.33,2025-04-18,On Time,2,2,0.0,6,True,0,True,0.23
+C405,40,Internet,Home 500 Mbps,89.06,2025-04-22,Late,4,1,141.9,3,False,3,True,0.05
+C406,13,Sling TV,Orange + Sports,33.02,2025-04-12,On Time,5,2,92.3,1,False,0,True,0.16
+C407,6,Satellite TV,America's Top 200,119.71,2025-04-07,On Time,5,4,0.0,7,True,0,True,0.19
+C408,36,Satellite TV,America's Top 200,55.6,2025-04-05,On Time,4,3,0.0,6,False,0,True,0.26
+C409,60,Sling TV,Blue + Sports,66.36,2025-05-01,On Time,3,5,16.0,2,False,0,False,0.36
+C410,17,Satellite TV,America's Everything Pack,108.85,2025-04-05,Late,2,4,0.0,7,False,0,True,0.08
+C411,44,5G Wireless,5G Unlimited,71.46,2025-04-13,Late,3,1,0.0,5,True,3,True,0.11
+C412,27,Sling TV,Orange + Sports,115.99,2025-04-15,On Time,5,3,37.2,2,False,0,False,0.25
+C413,60,Satellite TV,America's Everything Pack,46.06,2025-04-21,On Time,4,3,0.0,3,True,0,False,0.55
+C414,48,Sling TV,Blue,51.79,2025-04-23,On Time,1,2,125.5,6,True,0,True,0.34
+C415,44,Satellite TV,America's Top 200,116.02,2025-04-16,On Time,4,1,0.0,8,False,0,False,0.11
+C416,56,Internet,Gigabit Fiber,54.73,2025-04-26,Missed,4,3,59.7,10,True,0,False,0.08
+C417,3,Internet,Gigabit Fiber,75.22,2025-04-19,Late,1,4,146.5,9,False,2,True,0.22
+C418,14,Satellite TV,America's Everything Pack,64.15,2025-04-28,On Time,4,3,0.0,3,False,0,True,0.24
+C419,40,5G Wireless,5G Unlimited,60.88,2025-04-26,On Time,1,4,0.0,6,False,3,False,0.47
+C420,37,Internet,Home 100 Mbps,41.8,2025-04-13,On Time,0,3,120.6,9,False,3,True,0.11
+C421,31,Sling TV,Blue,102.51,2025-04-26,On Time,1,5,80.1,6,False,0,False,0.35
+C422,55,5G Wireless,5G Max,81.11,2025-04-19,On Time,1,1,0.0,4,False,3,True,0.11
+C423,22,Internet,Gigabit Fiber,53.38,2025-04-20,On Time,2,3,3.0,2,False,1,True,0.52
+C424,21,5G Wireless,5G Unlimited,90.59,2025-04-16,Late,3,1,0.0,7,False,3,True,0.46
+C425,27,Sling TV,Orange + Sports,86.81,2025-04-13,On Time,0,1,24.3,4,False,0,False,0.45
+C426,18,5G Wireless,5G Max,84.48,2025-04-19,On Time,3,3,0.0,10,False,3,True,0.45
+C427,9,Sling TV,Orange,95.5,2025-04-10,On Time,5,1,31.6,7,True,0,True,0.21
+C428,36,Satellite TV,America's Top 120,34.84,2025-04-07,On Time,0,1,0.0,5,True,0,True,0.55
+C429,15,Internet,Home 500 Mbps,52.27,2025-04-22,On Time,1,2,79.0,3,True,0,False,0.24
+C430,30,5G Wireless,5G Unlimited,117.75,2025-04-14,Missed,4,4,0.0,3,True,3,False,0.35
+C431,31,5G Wireless,5G Unlimited,78.57,2025-04-06,On Time,2,3,0.0,7,False,1,False,0.56
+C432,34,Satellite TV,America's Top 200,103.38,2025-04-04,On Time,2,4,0.0,9,True,0,False,0.07
+C433,1,Internet,Home 500 Mbps,98.93,2025-04-06,On Time,1,1,82.2,4,False,3,False,0.48
+C434,46,Sling TV,Blue,96.34,2025-04-19,Late,1,3,11.9,4,False,0,False,0.36
+C435,13,5G Wireless,5G Unlimited,106.81,2025-04-26,On Time,0,4,0.0,10,False,2,False,0.4
+C436,2,Sling TV,Orange + Sports,43.69,2025-04-14,On Time,0,3,40.4,8,True,0,True,0.14
+C437,1,Satellite TV,America's Top 200,74.42,2025-04-21,On Time,3,3,0.0,8,True,0,False,0.15
+C438,4,Satellite TV,America's Top 200,53.99,2025-04-19,On Time,3,2,0.0,4,False,0,False,0.27
+C439,50,Satellite TV,America's Top 200,94.32,2025-04-19,Late,3,2,0.0,1,True,0,False,0.27
+C440,43,Satellite TV,America's Everything Pack,118.39,2025-04-16,On Time,2,3,0.0,3,True,0,True,0.2
+C441,41,5G Wireless,5G Unlimited,56.89,2025-04-20,Late,5,2,0.0,2,True,3,False,0.52
+C442,51,Satellite TV,America's Top 200,54.85,2025-04-28,On Time,1,1,0.0,1,False,0,True,0.01
+C443,16,5G Wireless,5G Basic,44.19,2025-04-29,On Time,2,1,0.0,1,False,1,True,0.23
+C444,15,Sling TV,Blue + Sports,58.51,2025-04-14,Late,2,4,110.0,1,False,0,False,0.09
+C445,58,Sling TV,Orange + Sports,33.55,2025-04-09,On Time,2,5,104.6,4,True,0,False,0.54
+C446,30,5G Wireless,5G Max,54.78,2025-04-05,On Time,4,2,0.0,2,True,3,False,0.34
+C447,24,5G Wireless,5G Max,70.87,2025-04-07,On Time,3,2,0.0,1,False,1,False,0.22
+C448,35,Satellite TV,America's Everything Pack,103.71,2025-04-25,On Time,3,5,0.0,3,False,0,False,0.12
+C449,21,Internet,Gigabit Fiber,39.94,2025-04-15,On Time,0,2,26.8,1,True,0,False,0.33
+C450,3,Sling TV,Orange,81.39,2025-04-05,On Time,3,5,93.6,10,False,0,True,0.1
+C451,39,5G Wireless,5G Basic,94.61,2025-05-01,Missed,1,4,0.0,2,False,0,False,0.34
+C452,51,Internet,Home 500 Mbps,93.76,2025-04-05,On Time,4,1,110.1,5,True,1,True,0.58
+C453,15,Satellite TV,America's Everything Pack,77.85,2025-04-25,On Time,5,2,0.0,10,True,0,False,0.55
+C454,37,Satellite TV,America's Everything Pack,62.22,2025-04-17,Late,3,1,0.0,3,True,0,False,0.14
+C455,11,5G Wireless,5G Max,78.05,2025-04-12,On Time,2,3,0.0,9,False,2,False,0.54
+C456,21,Internet,Gigabit Fiber,84.76,2025-04-13,On Time,3,5,138.9,5,False,3,False,0.05
+C457,47,Internet,Home 100 Mbps,33.12,2025-04-22,On Time,4,2,149.0,5,True,2,True,0.23
+C458,2,Sling TV,Orange + Sports,99.44,2025-04-01,On Time,2,5,76.7,10,True,0,True,0.15
+C459,23,Satellite TV,America's Top 120,44.05,2025-04-23,On Time,4,2,0.0,4,False,0,False,0.04
+C460,26,Satellite TV,America's Everything Pack,81.22,2025-04-25,Late,5,3,0.0,8,True,0,False,0.42
+C461,42,Satellite TV,America's Everything Pack,57.04,2025-04-08,Late,3,1,0.0,1,False,0,False,0.47
+C462,60,Internet,Home 500 Mbps,108.1,2025-04-04,Late,5,5,139.3,7,True,2,True,0.46
+C463,37,5G Wireless,5G Max,43.46,2025-04-15,On Time,1,1,0.0,7,False,0,True,0.29
+C464,51,Internet,Home 500 Mbps,65.49,2025-04-27,On Time,3,5,111.8,9,False,2,True,0.33
+C465,28,Internet,Gigabit Fiber,99.64,2025-04-27,Late,3,5,29.7,7,True,1,True,0.61
+C466,50,Satellite TV,America's Top 120,68.71,2025-04-10,Missed,0,1,0.0,7,False,0,False,0.23
+C467,21,5G Wireless,5G Basic,61.01,2025-04-11,On Time,2,2,0.0,6,False,1,False,0.33
+C468,13,Satellite TV,America's Top 200,91.68,2025-04-27,Late,0,1,0.0,1,True,0,True,0.19
+C469,22,5G Wireless,5G Basic,92.44,2025-04-28,On Time,3,1,0.0,6,True,1,True,0.48
+C470,31,5G Wireless,5G Max,86.07,2025-04-27,On Time,5,1,0.0,7,True,2,True,0.46
+C471,13,Satellite TV,America's Top 120,101.03,2025-04-12,On Time,3,1,0.0,2,False,0,False,0.34
+C472,2,5G Wireless,5G Basic,56.32,2025-04-03,On Time,1,4,0.0,9,True,2,False,0.29
+C473,13,Satellite TV,America's Top 200,75.06,2025-04-17,On Time,5,1,0.0,1,True,0,False,0.3
+C474,26,5G Wireless,5G Unlimited,97.0,2025-05-01,On Time,2,3,0.0,5,True,2,True,0.33
+C475,57,5G Wireless,5G Unlimited,120.0,2025-05-01,Missed,2,2,0.0,3,False,3,True,0.07
+C476,25,Satellite TV,America's Everything Pack,76.86,2025-04-10,On Time,5,2,0.0,7,True,0,True,0.33
+C477,59,Internet,Home 500 Mbps,84.48,2025-04-17,On Time,1,2,87.2,4,True,2,True,0.57
+C478,42,Internet,Home 100 Mbps,113.97,2025-04-02,On Time,0,5,79.9,2,True,2,True,0.17
+C479,57,Satellite TV,America's Top 120,117.56,2025-04-01,On Time,3,3,0.0,3,True,0,True,0.32
+C480,2,Sling TV,Blue,98.62,2025-04-12,On Time,4,5,91.9,10,True,0,True,0.26
+C481,6,Satellite TV,America's Top 120,91.93,2025-04-16,On Time,4,4,0.0,6,True,0,False,0.21
+C482,9,Internet,Home 500 Mbps,44.74,2025-04-24,On Time,0,3,142.5,4,True,1,True,0.45
+C483,56,Sling TV,Blue + Sports,85.54,2025-04-09,On Time,3,2,64.1,1,False,0,False,0.19
+C484,48,Internet,Gigabit Fiber,81.47,2025-04-14,On Time,5,1,78.1,8,False,0,True,0.42
+C485,3,Internet,Gigabit Fiber,80.19,2025-04-15,Late,0,2,43.7,7,False,2,False,0.31
+C486,19,Sling TV,Blue + Sports,85.18,2025-04-30,On Time,1,4,124.5,8,True,0,True,0.09
+C487,26,Sling TV,Blue,67.22,2025-04-17,On Time,3,5,134.5,4,False,0,True,0.18
+C488,45,5G Wireless,5G Unlimited,88.37,2025-04-09,Late,5,1,0.0,2,True,3,False,0.29
+C489,46,Satellite TV,America's Everything Pack,64.57,2025-04-06,Missed,4,2,0.0,7,False,0,True,0.19
+C490,37,Sling TV,Orange + Sports,108.42,2025-04-04,On Time,1,2,115.4,1,False,0,False,0.25
+C491,50,5G Wireless,5G Max,116.49,2025-04-22,On Time,0,2,0.0,4,True,2,True,0.26
+C492,55,Internet,Home 500 Mbps,74.88,2025-04-06,On Time,3,2,32.5,8,False,3,False,0.19
+C493,39,Satellite TV,America's Everything Pack,30.59,2025-04-03,On Time,4,5,0.0,4,True,0,True,0.12
+C494,42,Sling TV,Orange,61.41,2025-04-27,Late,5,5,125.7,5,False,0,True,0.36
+C495,27,Satellite TV,America's Top 200,119.44,2025-04-26,On Time,4,5,0.0,10,True,0,False,0.01
+C496,6,5G Wireless,5G Basic,99.17,2025-04-21,On Time,3,1,0.0,7,True,2,False,0.23
+C497,45,Sling TV,Orange,107.35,2025-04-21,On Time,4,2,104.4,10,True,0,True,0.37
+C498,47,Satellite TV,America's Top 120,91.98,2025-04-02,Late,5,3,0.0,7,False,0,False,0.47
+C499,40,5G Wireless,5G Basic,80.64,2025-04-15,Late,3,4,0.0,3,True,2,True,0.23
+C500,2,Satellite TV,America's Top 200,71.84,2025-04-06,On Time,1,5,0.0,7,False,0,True,0.6
