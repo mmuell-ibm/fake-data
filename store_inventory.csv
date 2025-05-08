@@ -1,0 +1,1201 @@
+product_id,product_name,department,brand,price,stock_quantity,units_sold,restock_date,location_aisle,revenue,cost_basis,profit_margin,store_id,report_week,forecast_30d,markdown_flag,average_customer_review
+1000,Cordless Drill,Tools,DEWALT,73.67,105,33,2025-05-14,Aisle 1,2431.11,44.2,0.4,Store-1,FW19,41,False,2.4
+1001,Hammer Drill,Tools,DEWALT,131.46,168,44,2025-05-09,Aisle 7,5784.24,78.88,0.4,Store-1,FW19,63,True,4.4
+1002,Tool Set,Tools,DEWALT,18.37,131,12,2025-05-10,Aisle 3,220.44,11.02,0.4,Store-1,FW19,34,False,2.4
+1003,Work Light,Tools,DEWALT,247.43,146,43,2025-05-13,Aisle 7,10639.49,148.46,0.4,Store-1,FW19,57,True,3.3
+1004,Cordless Drill,Tools,Milwaukee,93.85,87,40,2025-05-11,Aisle 22,3754.0,56.31,0.4,Store-1,FW19,59,False,2.4
+1005,Hammer Drill,Tools,Milwaukee,7.64,37,0,2025-05-10,Aisle 8,0.0,4.58,0.4,Store-1,FW19,28,True,2.0
+1006,Tool Set,Tools,Milwaukee,142.68,57,7,2025-05-21,Aisle 8,998.76,85.61,0.4,Store-1,FW19,22,True,5.0
+1007,Work Light,Tools,Milwaukee,212.71,128,22,2025-05-13,Aisle 7,4679.62,127.63,0.4,Store-1,FW19,38,True,1.8
+1008,Cordless Drill,Tools,Craftsman,86.37,67,48,2025-05-16,Aisle 21,4145.76,51.82,0.4,Store-1,FW19,59,False,3.3
+1009,Hammer Drill,Tools,Craftsman,119.07,1,49,2025-05-20,Aisle 29,5834.43,71.44,0.4,Store-1,FW19,56,False,3.1
+1010,Tool Set,Tools,Craftsman,45.65,153,17,2025-05-09,Aisle 25,776.05,27.39,0.4,Store-1,FW19,32,True,2.3
+1011,Work Light,Tools,Craftsman,100.27,26,44,2025-05-10,Aisle 8,4411.88,60.16,0.4,Store-1,FW19,68,True,3.5
+1012,LED Ceiling Light,Lighting,GE,128.22,128,13,2025-05-11,Aisle 25,1666.86,76.93,0.4,Store-1,FW19,16,True,2.3
+1013,Smart Bulb,Lighting,GE,215.19,183,44,2025-05-12,Aisle 25,9468.36,129.11,0.4,Store-1,FW19,48,False,1.7
+1014,Wall Sconce,Lighting,GE,135.47,165,31,2025-05-14,Aisle 20,4199.57,81.28,0.4,Store-1,FW19,44,False,1.7
+1015,Chandelier,Lighting,GE,200.95,113,18,2025-05-17,Aisle 18,3617.1,120.57,0.4,Store-1,FW19,44,False,2.1
+1016,LED Ceiling Light,Lighting,Philips,108.89,169,2,2025-05-17,Aisle 13,217.78,65.33,0.4,Store-1,FW19,15,False,4.5
+1017,Smart Bulb,Lighting,Philips,115.7,30,32,2025-05-20,Aisle 28,3702.4,69.42,0.4,Store-1,FW19,54,False,2.0
+1018,Wall Sconce,Lighting,Philips,10.15,125,48,2025-05-17,Aisle 1,487.2,6.09,0.4,Store-1,FW19,72,True,1.9
+1019,Chandelier,Lighting,Philips,141.32,25,6,2025-05-09,Aisle 14,847.92,84.79,0.4,Store-1,FW19,33,True,3.4
+1020,LED Ceiling Light,Lighting,Commercial Electric,5.73,8,15,2025-05-14,Aisle 6,85.95,3.44,0.4,Store-1,FW19,29,False,4.7
+1021,Smart Bulb,Lighting,Commercial Electric,90.7,143,43,2025-05-15,Aisle 20,3900.1,54.42,0.4,Store-1,FW19,49,True,1.7
+1022,Wall Sconce,Lighting,Commercial Electric,245.24,2,13,2025-05-19,Aisle 25,3188.12,147.14,0.4,Store-1,FW19,15,False,4.6
+1023,Chandelier,Lighting,Commercial Electric,63.66,11,0,2025-05-13,Aisle 17,0.0,38.2,0.4,Store-1,FW19,22,False,2.6
+1024,Garden Hose,Outdoors,Flexon,66.41,50,13,2025-05-15,Aisle 26,863.33,39.85,0.4,Store-1,FW19,39,True,2.4
+1025,Sprinkler,Outdoors,Flexon,32.22,172,4,2025-05-19,Aisle 10,128.88,19.33,0.4,Store-1,FW19,16,False,3.7
+1026,Outdoor Light,Outdoors,Flexon,108.42,6,24,2025-05-20,Aisle 22,2602.08,65.05,0.4,Store-1,FW19,47,False,2.4
+1027,Patio Heater,Outdoors,Flexon,92.1,122,37,2025-05-18,Aisle 10,3407.7,55.26,0.4,Store-1,FW19,56,True,4.9
+1028,Garden Hose,Outdoors,Rain Bird,216.09,118,43,2025-05-20,Aisle 24,9291.87,129.65,0.4,Store-1,FW19,48,False,4.8
+1029,Sprinkler,Outdoors,Rain Bird,211.85,74,6,2025-05-19,Aisle 6,1271.1,127.11,0.4,Store-1,FW19,32,True,4.1
+1030,Outdoor Light,Outdoors,Rain Bird,184.33,119,32,2025-05-20,Aisle 27,5898.56,110.6,0.4,Store-1,FW19,50,False,2.3
+1031,Patio Heater,Outdoors,Rain Bird,176.07,153,46,2025-05-11,Aisle 5,8099.22,105.64,0.4,Store-1,FW19,63,False,3.4
+1032,Garden Hose,Outdoors,Ortho,111.47,112,27,2025-05-21,Aisle 14,3009.69,66.88,0.4,Store-1,FW19,52,True,1.9
+1033,Sprinkler,Outdoors,Ortho,104.75,58,19,2025-05-19,Aisle 14,1990.25,62.85,0.4,Store-1,FW19,19,True,5.0
+1034,Outdoor Light,Outdoors,Ortho,57.51,69,42,2025-05-22,Aisle 29,2415.42,34.51,0.4,Store-1,FW19,49,True,2.6
+1035,Patio Heater,Outdoors,Ortho,16.3,175,18,2025-05-20,Aisle 30,293.4,9.78,0.4,Store-1,FW19,41,False,3.5
+1036,Interior Paint - Eggshell,Paint,Valspar,103.41,197,37,2025-05-20,Aisle 22,3826.17,62.05,0.4,Store-1,FW19,67,True,4.6
+1037,Exterior Paint - Satin,Paint,Valspar,234.07,198,20,2025-05-11,Aisle 14,4681.4,140.44,0.4,Store-1,FW19,31,True,4.6
+1038,Primer,Paint,Valspar,19.08,104,40,2025-05-14,Aisle 6,763.2,11.45,0.4,Store-1,FW19,46,True,4.5
+1039,Spray Paint,Paint,Valspar,8.87,28,22,2025-05-15,Aisle 15,195.14,5.32,0.4,Store-1,FW19,25,True,3.1
+1040,Interior Paint - Eggshell,Paint,HGTV Home,184.86,156,7,2025-05-09,Aisle 7,1294.02,110.92,0.4,Store-1,FW19,11,False,2.1
+1041,Exterior Paint - Satin,Paint,HGTV Home,121.46,199,1,2025-05-16,Aisle 20,121.46,72.88,0.4,Store-1,FW19,25,True,3.1
+1042,Primer,Paint,HGTV Home,134.54,48,1,2025-05-13,Aisle 4,134.54,80.72,0.4,Store-1,FW19,27,True,4.8
+1043,Spray Paint,Paint,HGTV Home,39.28,34,26,2025-05-13,Aisle 27,1021.28,23.57,0.4,Store-1,FW19,35,True,3.9
+1044,Interior Paint - Eggshell,Paint,Rust-Oleum,67.94,60,20,2025-05-13,Aisle 16,1358.8,40.76,0.4,Store-1,FW19,45,True,3.7
+1045,Exterior Paint - Satin,Paint,Rust-Oleum,212.66,69,26,2025-05-10,Aisle 15,5529.16,127.6,0.4,Store-1,FW19,30,False,2.3
+1046,Primer,Paint,Rust-Oleum,191.47,7,29,2025-05-17,Aisle 6,5552.63,114.88,0.4,Store-1,FW19,42,False,4.2
+1047,Spray Paint,Paint,Rust-Oleum,238.12,198,33,2025-05-22,Aisle 8,7857.96,142.87,0.4,Store-1,FW19,41,True,2.5
+1048,Smart Thermostat,Home Automation,Nest,17.13,143,0,2025-05-16,Aisle 16,0.0,10.28,0.4,Store-1,FW19,22,True,3.7
+1049,Security Camera,Home Automation,Nest,76.79,130,7,2025-05-09,Aisle 7,537.53,46.07,0.4,Store-1,FW19,33,False,3.1
+1050,Smart Lock,Home Automation,Nest,103.77,186,48,2025-05-21,Aisle 17,4980.96,62.26,0.4,Store-1,FW19,73,False,4.5
+1051,Doorbell Camera,Home Automation,Nest,191.13,103,19,2025-05-09,Aisle 14,3631.47,114.68,0.4,Store-1,FW19,39,True,4.2
+1052,Smart Thermostat,Home Automation,Ring,40.58,41,31,2025-05-18,Aisle 10,1257.98,24.35,0.4,Store-1,FW19,35,True,3.4
+1053,Security Camera,Home Automation,Ring,84.29,125,21,2025-05-16,Aisle 27,1770.09,50.57,0.4,Store-1,FW19,47,True,3.9
+1054,Smart Lock,Home Automation,Ring,65.44,16,35,2025-05-21,Aisle 16,2290.4,39.26,0.4,Store-1,FW19,60,True,4.7
+1055,Doorbell Camera,Home Automation,Ring,30.61,11,50,2025-05-22,Aisle 14,1530.5,18.37,0.4,Store-1,FW19,72,True,3.8
+1056,Smart Thermostat,Home Automation,Ecobee,171.4,16,50,2025-05-18,Aisle 30,8570.0,102.84,0.4,Store-1,FW19,64,True,2.9
+1057,Security Camera,Home Automation,Ecobee,220.89,146,1,2025-05-17,Aisle 29,220.89,132.53,0.4,Store-1,FW19,1,False,1.7
+1058,Smart Lock,Home Automation,Ecobee,194.28,190,44,2025-05-18,Aisle 23,8548.32,116.57,0.4,Store-1,FW19,60,True,4.1
+1059,Doorbell Camera,Home Automation,Ecobee,164.53,169,24,2025-05-16,Aisle 26,3948.72,98.72,0.4,Store-1,FW19,38,False,2.8
+1060,Vanity Top,Bath,Kohler,27.33,36,10,2025-05-19,Aisle 29,273.3,16.4,0.4,Store-1,FW19,12,True,1.5
+1061,Toilet,Bath,Kohler,160.89,152,10,2025-05-12,Aisle 20,1608.9,96.53,0.4,Store-1,FW19,31,False,2.1
+1062,Shower Head,Bath,Kohler,147.85,21,47,2025-05-15,Aisle 21,6948.95,88.71,0.4,Store-1,FW19,58,True,5.0
+1063,Faucet,Bath,Kohler,91.4,153,4,2025-05-17,Aisle 1,365.6,54.84,0.4,Store-1,FW19,16,False,1.8
+1064,Vanity Top,Bath,Moen,144.5,31,34,2025-05-11,Aisle 28,4913.0,86.7,0.4,Store-1,FW19,52,False,2.8
+1065,Toilet,Bath,Moen,42.01,1,25,2025-05-10,Aisle 4,1050.25,25.21,0.4,Store-1,FW19,44,False,3.0
+1066,Shower Head,Bath,Moen,212.36,130,33,2025-05-20,Aisle 14,7007.88,127.42,0.4,Store-1,FW19,45,True,3.6
+1067,Faucet,Bath,Moen,190.61,53,30,2025-05-11,Aisle 10,5718.3,114.37,0.4,Store-1,FW19,32,True,4.0
+1068,Vanity Top,Bath,Delta,159.38,80,37,2025-05-13,Aisle 7,5897.06,95.63,0.4,Store-1,FW19,45,True,1.9
+1069,Toilet,Bath,Delta,179.64,123,45,2025-05-15,Aisle 4,8083.8,107.78,0.4,Store-1,FW19,62,True,1.6
+1070,Shower Head,Bath,Delta,60.92,185,10,2025-05-20,Aisle 16,609.2,36.55,0.4,Store-1,FW19,14,True,3.0
+1071,Faucet,Bath,Delta,182.96,18,16,2025-05-09,Aisle 5,2927.36,109.78,0.4,Store-1,FW19,19,False,3.7
+1072,Wood Fence Panel,Building Materials,Severe Weather,226.37,148,40,2025-05-11,Outside Yard,9054.8,135.82,0.4,Store-1,FW19,58,False,3.7
+1073,Concrete Mix,Building Materials,Severe Weather,244.96,193,4,2025-05-18,Outside Yard,979.84,146.98,0.4,Store-1,FW19,25,True,1.6
+1074,Drywall Sheet,Building Materials,Severe Weather,52.47,5,15,2025-05-19,Outside Yard,787.05,31.48,0.4,Store-1,FW19,34,True,3.9
+1075,Lumber,Building Materials,Severe Weather,141.6,117,12,2025-05-14,Outside Yard,1699.2,84.96,0.4,Store-1,FW19,26,True,2.4
+1076,Wood Fence Panel,Building Materials,Top Choice,70.31,160,19,2025-05-19,Outside Yard,1335.89,42.19,0.4,Store-1,FW19,40,False,3.4
+1077,Concrete Mix,Building Materials,Top Choice,142.28,56,3,2025-05-15,Outside Yard,426.84,85.37,0.4,Store-1,FW19,24,False,3.7
+1078,Drywall Sheet,Building Materials,Top Choice,154.03,145,8,2025-05-21,Outside Yard,1232.24,92.42,0.4,Store-1,FW19,35,False,1.5
+1079,Lumber,Building Materials,Top Choice,147.77,153,40,2025-05-10,Outside Yard,5910.8,88.66,0.4,Store-1,FW19,58,True,4.8
+1080,Wood Fence Panel,Building Materials,TuffBlock,135.26,102,36,2025-05-09,Outside Yard,4869.36,81.16,0.4,Store-1,FW19,49,False,2.1
+1081,Concrete Mix,Building Materials,TuffBlock,219.71,116,19,2025-05-21,Outside Yard,4174.49,131.83,0.4,Store-1,FW19,47,False,2.5
+1082,Drywall Sheet,Building Materials,TuffBlock,220.99,167,3,2025-05-12,Outside Yard,662.97,132.59,0.4,Store-1,FW19,16,True,2.5
+1083,Lumber,Building Materials,TuffBlock,121.06,46,43,2025-05-21,Outside Yard,5205.58,72.64,0.4,Store-1,FW19,71,True,2.8
+1084,Floor Tile,Flooring,Style Selections,20.43,97,43,2025-05-21,Aisle 17,878.49,12.26,0.4,Store-1,FW19,58,True,1.8
+1085,Vinyl Plank,Flooring,Style Selections,200.58,4,39,2025-05-15,Aisle 9,7822.62,120.35,0.4,Store-1,FW19,46,False,2.7
+1086,Laminate Flooring,Flooring,Style Selections,111.76,67,44,2025-05-15,Aisle 5,4917.44,67.06,0.4,Store-1,FW19,56,False,2.3
+1087,Carpet Tile,Flooring,Style Selections,195.66,198,11,2025-05-22,Aisle 16,2152.26,117.4,0.4,Store-1,FW19,20,False,1.8
+1088,Floor Tile,Flooring,Pergo,248.61,138,16,2025-05-09,Aisle 28,3977.76,149.17,0.4,Store-1,FW19,30,False,4.8
+1089,Vinyl Plank,Flooring,Pergo,200.41,31,43,2025-05-14,Aisle 20,8617.63,120.25,0.4,Store-1,FW19,46,False,4.6
+1090,Laminate Flooring,Flooring,Pergo,76.55,153,6,2025-05-17,Aisle 9,459.3,45.93,0.4,Store-1,FW19,9,True,2.6
+1091,Carpet Tile,Flooring,Pergo,143.91,124,29,2025-05-14,Aisle 24,4173.39,86.35,0.4,Store-1,FW19,31,False,3.5
+1092,Floor Tile,Flooring,TrafficMaster,179.3,158,6,2025-05-10,Aisle 8,1075.8,107.58,0.4,Store-1,FW19,26,True,3.5
+1093,Vinyl Plank,Flooring,TrafficMaster,219.23,105,35,2025-05-20,Aisle 20,7673.05,131.54,0.4,Store-1,FW19,38,False,3.1
+1094,Laminate Flooring,Flooring,TrafficMaster,108.87,138,42,2025-05-17,Aisle 3,4572.54,65.32,0.4,Store-1,FW19,55,True,2.5
+1095,Carpet Tile,Flooring,TrafficMaster,232.36,149,47,2025-05-19,Aisle 19,10920.92,139.42,0.4,Store-1,FW19,67,False,4.5
+1096,Ceiling Fan,Fans,Honeywell,78.22,176,49,2025-05-17,Aisle 14,3832.78,46.93,0.4,Store-1,FW19,54,True,3.9
+1097,Tower Fan,Fans,Honeywell,101.61,168,7,2025-05-19,Aisle 15,711.27,60.97,0.4,Store-1,FW19,21,True,3.0
+1098,Pedestal Fan,Fans,Honeywell,94.25,159,32,2025-05-14,Aisle 30,3016.0,56.55,0.4,Store-1,FW19,39,False,2.3
+1099,Box Fan,Fans,Honeywell,110.24,159,21,2025-05-11,Aisle 16,2315.04,66.14,0.4,Store-1,FW19,35,True,2.5
+1100,Ceiling Fan,Fans,Harbor Breeze,50.29,172,16,2025-05-13,Aisle 21,804.64,30.17,0.4,Store-1,FW19,21,False,4.2
+1101,Tower Fan,Fans,Harbor Breeze,229.25,53,7,2025-05-09,Aisle 19,1604.75,137.55,0.4,Store-1,FW19,12,False,4.7
+1102,Pedestal Fan,Fans,Harbor Breeze,134.64,174,48,2025-05-21,Aisle 25,6462.72,80.78,0.4,Store-1,FW19,74,False,3.1
+1103,Box Fan,Fans,Harbor Breeze,182.59,31,15,2025-05-13,Aisle 16,2738.85,109.55,0.4,Store-1,FW19,37,True,2.8
+1104,Ceiling Fan,Fans,Hunter,233.66,94,32,2025-05-16,Aisle 24,7477.12,140.2,0.4,Store-1,FW19,45,False,1.8
+1105,Tower Fan,Fans,Hunter,207.77,122,4,2025-05-19,Aisle 12,831.08,124.66,0.4,Store-1,FW19,31,True,4.7
+1106,Pedestal Fan,Fans,Hunter,248.17,141,46,2025-05-15,Aisle 23,11415.82,148.9,0.4,Store-1,FW19,61,True,3.0
+1107,Box Fan,Fans,Hunter,86.85,37,47,2025-05-20,Aisle 11,4081.95,52.11,0.4,Store-1,FW19,65,True,4.4
+1108,Lawn Fertilizer,Garden,Scotts,194.68,91,38,2025-05-10,Aisle 14,7397.84,116.81,0.4,Store-1,FW19,53,False,1.5
+1109,Weed Killer,Garden,Scotts,242.36,133,23,2025-05-21,Aisle 11,5574.28,145.42,0.4,Store-1,FW19,33,True,3.5
+1110,Plant Food,Garden,Scotts,182.49,75,0,2025-05-15,Aisle 27,0.0,109.49,0.4,Store-1,FW19,22,True,2.1
+1111,Mulch Bag,Garden,Scotts,144.43,105,3,2025-05-19,Aisle 7,433.29,86.66,0.4,Store-1,FW19,3,False,2.2
+1112,Lawn Fertilizer,Garden,Miracle-Gro,53.02,44,26,2025-05-10,Aisle 18,1378.52,31.81,0.4,Store-1,FW19,43,False,3.1
+1113,Weed Killer,Garden,Miracle-Gro,100.47,47,33,2025-05-10,Aisle 30,3315.51,60.28,0.4,Store-1,FW19,33,False,4.9
+1114,Plant Food,Garden,Miracle-Gro,69.14,77,12,2025-05-14,Aisle 1,829.68,41.48,0.4,Store-1,FW19,26,False,2.7
+1115,Mulch Bag,Garden,Miracle-Gro,191.31,54,26,2025-05-20,Aisle 16,4974.06,114.79,0.4,Store-1,FW19,27,True,3.6
+1116,Lawn Fertilizer,Garden,Roundup,81.81,8,6,2025-05-17,Aisle 16,490.86,49.09,0.4,Store-1,FW19,23,False,3.9
+1117,Weed Killer,Garden,Roundup,118.5,0,45,2025-05-13,Aisle 5,5332.5,71.1,0.4,Store-1,FW19,66,False,2.7
+1118,Plant Food,Garden,Roundup,35.54,39,14,2025-05-12,Aisle 29,497.56,21.32,0.4,Store-1,FW19,42,False,4.1
+1119,Mulch Bag,Garden,Roundup,153.03,75,23,2025-05-22,Aisle 28,3519.69,91.82,0.4,Store-1,FW19,27,False,2.0
+1000,Cordless Drill,Tools,DEWALT,143.08,132,9,2025-05-09,Aisle 29,1287.72,85.85,0.4,Store-2,FW19,20,True,3.4
+1001,Hammer Drill,Tools,DEWALT,229.24,57,41,2025-05-13,Aisle 13,9398.84,137.54,0.4,Store-2,FW19,42,False,2.7
+1002,Tool Set,Tools,DEWALT,126.46,84,47,2025-05-10,Aisle 3,5943.62,75.88,0.4,Store-2,FW19,72,False,4.5
+1003,Work Light,Tools,DEWALT,218.09,176,21,2025-05-18,Aisle 26,4579.89,130.85,0.4,Store-2,FW19,40,False,3.3
+1004,Cordless Drill,Tools,Milwaukee,97.29,97,6,2025-05-12,Aisle 10,583.74,58.37,0.4,Store-2,FW19,19,False,3.6
+1005,Hammer Drill,Tools,Milwaukee,142.46,180,46,2025-05-22,Aisle 2,6553.16,85.48,0.4,Store-2,FW19,76,True,4.9
+1006,Tool Set,Tools,Milwaukee,163.85,129,20,2025-05-15,Aisle 5,3277.0,98.31,0.4,Store-2,FW19,26,True,4.1
+1007,Work Light,Tools,Milwaukee,227.85,148,29,2025-05-16,Aisle 4,6607.65,136.71,0.4,Store-2,FW19,39,False,4.6
+1008,Cordless Drill,Tools,Craftsman,157.73,168,5,2025-05-20,Aisle 4,788.65,94.64,0.4,Store-2,FW19,13,True,3.2
+1009,Hammer Drill,Tools,Craftsman,14.38,131,27,2025-05-15,Aisle 8,388.26,8.63,0.4,Store-2,FW19,42,True,3.4
+1010,Tool Set,Tools,Craftsman,218.45,163,39,2025-05-10,Aisle 20,8519.55,131.07,0.4,Store-2,FW19,64,True,2.7
+1011,Work Light,Tools,Craftsman,247.82,92,29,2025-05-19,Aisle 27,7186.78,148.69,0.4,Store-2,FW19,31,False,4.0
+1012,LED Ceiling Light,Lighting,GE,49.94,150,13,2025-05-21,Aisle 3,649.22,29.96,0.4,Store-2,FW19,19,False,3.4
+1013,Smart Bulb,Lighting,GE,53.09,23,17,2025-05-11,Aisle 21,902.53,31.85,0.4,Store-2,FW19,23,False,2.6
+1014,Wall Sconce,Lighting,GE,149.89,80,49,2025-05-18,Aisle 28,7344.61,89.93,0.4,Store-2,FW19,78,False,3.1
+1015,Chandelier,Lighting,GE,61.03,80,46,2025-05-18,Aisle 16,2807.38,36.62,0.4,Store-2,FW19,68,False,1.6
+1016,LED Ceiling Light,Lighting,Philips,131.91,163,16,2025-05-09,Aisle 1,2110.56,79.15,0.4,Store-2,FW19,45,True,4.4
+1017,Smart Bulb,Lighting,Philips,81.26,134,8,2025-05-16,Aisle 2,650.08,48.76,0.4,Store-2,FW19,20,True,5.0
+1018,Wall Sconce,Lighting,Philips,199.32,138,46,2025-05-20,Aisle 6,9168.72,119.59,0.4,Store-2,FW19,52,False,2.8
+1019,Chandelier,Lighting,Philips,92.12,197,25,2025-05-09,Aisle 22,2303.0,55.27,0.4,Store-2,FW19,53,False,3.5
+1020,LED Ceiling Light,Lighting,Commercial Electric,57.2,200,4,2025-05-15,Aisle 30,228.8,34.32,0.4,Store-2,FW19,8,True,3.9
+1021,Smart Bulb,Lighting,Commercial Electric,112.16,182,7,2025-05-17,Aisle 29,785.12,67.3,0.4,Store-2,FW19,22,True,2.6
+1022,Wall Sconce,Lighting,Commercial Electric,58.69,143,8,2025-05-18,Aisle 19,469.52,35.21,0.4,Store-2,FW19,13,True,2.2
+1023,Chandelier,Lighting,Commercial Electric,66.59,175,1,2025-05-16,Aisle 9,66.59,39.95,0.4,Store-2,FW19,9,True,4.4
+1024,Garden Hose,Outdoors,Flexon,134.16,167,30,2025-05-11,Aisle 6,4024.8,80.5,0.4,Store-2,FW19,38,True,4.5
+1025,Sprinkler,Outdoors,Flexon,112.75,176,7,2025-05-15,Aisle 21,789.25,67.65,0.4,Store-2,FW19,28,False,5.0
+1026,Outdoor Light,Outdoors,Flexon,69.58,133,24,2025-05-09,Aisle 19,1669.92,41.75,0.4,Store-2,FW19,38,True,4.0
+1027,Patio Heater,Outdoors,Flexon,217.09,45,30,2025-05-14,Aisle 3,6512.7,130.25,0.4,Store-2,FW19,48,False,2.2
+1028,Garden Hose,Outdoors,Rain Bird,57.28,118,15,2025-05-20,Aisle 24,859.2,34.37,0.4,Store-2,FW19,28,False,3.4
+1029,Sprinkler,Outdoors,Rain Bird,234.78,60,4,2025-05-14,Aisle 22,939.12,140.87,0.4,Store-2,FW19,33,False,1.6
+1030,Outdoor Light,Outdoors,Rain Bird,67.7,176,27,2025-05-12,Aisle 1,1827.9,40.62,0.4,Store-2,FW19,48,False,4.4
+1031,Patio Heater,Outdoors,Rain Bird,176.22,17,0,2025-05-18,Aisle 20,0.0,105.73,0.4,Store-2,FW19,10,True,2.4
+1032,Garden Hose,Outdoors,Ortho,113.21,15,37,2025-05-17,Aisle 30,4188.77,67.93,0.4,Store-2,FW19,50,False,2.8
+1033,Sprinkler,Outdoors,Ortho,193.42,158,17,2025-05-20,Aisle 4,3288.14,116.05,0.4,Store-2,FW19,26,False,3.2
+1034,Outdoor Light,Outdoors,Ortho,111.71,61,13,2025-05-12,Aisle 27,1452.23,67.03,0.4,Store-2,FW19,33,False,2.1
+1035,Patio Heater,Outdoors,Ortho,95.87,97,2,2025-05-10,Aisle 19,191.74,57.52,0.4,Store-2,FW19,23,False,4.7
+1036,Interior Paint - Eggshell,Paint,Valspar,126.09,19,25,2025-05-22,Aisle 18,3152.25,75.65,0.4,Store-2,FW19,43,True,3.6
+1037,Exterior Paint - Satin,Paint,Valspar,114.09,135,13,2025-05-11,Aisle 24,1483.17,68.45,0.4,Store-2,FW19,17,True,3.0
+1038,Primer,Paint,Valspar,247.65,124,29,2025-05-12,Aisle 18,7181.85,148.59,0.4,Store-2,FW19,51,False,4.7
+1039,Spray Paint,Paint,Valspar,197.96,23,15,2025-05-16,Aisle 9,2969.4,118.78,0.4,Store-2,FW19,24,False,2.3
+1040,Interior Paint - Eggshell,Paint,HGTV Home,159.86,51,18,2025-05-14,Aisle 23,2877.48,95.92,0.4,Store-2,FW19,39,False,3.1
+1041,Exterior Paint - Satin,Paint,HGTV Home,54.01,37,22,2025-05-18,Aisle 19,1188.22,32.41,0.4,Store-2,FW19,36,False,2.7
+1042,Primer,Paint,HGTV Home,199.41,29,33,2025-05-19,Aisle 27,6580.53,119.65,0.4,Store-2,FW19,45,False,3.4
+1043,Spray Paint,Paint,HGTV Home,110.76,104,17,2025-05-12,Aisle 1,1882.92,66.46,0.4,Store-2,FW19,38,True,2.4
+1044,Interior Paint - Eggshell,Paint,Rust-Oleum,181.75,95,50,2025-05-14,Aisle 7,9087.5,109.05,0.4,Store-2,FW19,54,False,3.9
+1045,Exterior Paint - Satin,Paint,Rust-Oleum,101.59,172,16,2025-05-15,Aisle 6,1625.44,60.95,0.4,Store-2,FW19,36,False,3.4
+1046,Primer,Paint,Rust-Oleum,175.93,128,37,2025-05-09,Aisle 4,6509.41,105.56,0.4,Store-2,FW19,47,True,1.5
+1047,Spray Paint,Paint,Rust-Oleum,152.84,166,33,2025-05-10,Aisle 7,5043.72,91.7,0.4,Store-2,FW19,62,True,3.4
+1048,Smart Thermostat,Home Automation,Nest,25.03,46,27,2025-05-20,Aisle 11,675.81,15.02,0.4,Store-2,FW19,36,True,3.1
+1049,Security Camera,Home Automation,Nest,137.17,21,8,2025-05-19,Aisle 25,1097.36,82.3,0.4,Store-2,FW19,13,False,4.1
+1050,Smart Lock,Home Automation,Nest,113.44,44,30,2025-05-13,Aisle 10,3403.2,68.06,0.4,Store-2,FW19,54,True,2.7
+1051,Doorbell Camera,Home Automation,Nest,67.93,115,26,2025-05-15,Aisle 13,1766.18,40.76,0.4,Store-2,FW19,52,False,3.2
+1052,Smart Thermostat,Home Automation,Ring,103.14,147,3,2025-05-14,Aisle 15,309.42,61.88,0.4,Store-2,FW19,14,True,3.4
+1053,Security Camera,Home Automation,Ring,73.86,37,41,2025-05-22,Aisle 13,3028.26,44.32,0.4,Store-2,FW19,42,True,2.9
+1054,Smart Lock,Home Automation,Ring,26.57,109,9,2025-05-20,Aisle 2,239.13,15.94,0.4,Store-2,FW19,19,False,5.0
+1055,Doorbell Camera,Home Automation,Ring,46.06,75,8,2025-05-09,Aisle 24,368.48,27.64,0.4,Store-2,FW19,20,True,3.4
+1056,Smart Thermostat,Home Automation,Ecobee,77.25,114,4,2025-05-14,Aisle 13,309.0,46.35,0.4,Store-2,FW19,4,True,3.1
+1057,Security Camera,Home Automation,Ecobee,74.33,46,26,2025-05-22,Aisle 11,1932.58,44.6,0.4,Store-2,FW19,50,False,2.9
+1058,Smart Lock,Home Automation,Ecobee,99.72,46,8,2025-05-21,Aisle 23,797.76,59.83,0.4,Store-2,FW19,30,False,4.6
+1059,Doorbell Camera,Home Automation,Ecobee,92.18,198,46,2025-05-09,Aisle 29,4240.28,55.31,0.4,Store-2,FW19,70,False,2.4
+1060,Vanity Top,Bath,Kohler,59.85,36,43,2025-05-11,Aisle 13,2573.55,35.91,0.4,Store-2,FW19,60,True,1.8
+1061,Toilet,Bath,Kohler,175.97,9,40,2025-05-11,Aisle 15,7038.8,105.58,0.4,Store-2,FW19,60,False,2.8
+1062,Shower Head,Bath,Kohler,51.47,175,2,2025-05-20,Aisle 8,102.94,30.88,0.4,Store-2,FW19,15,False,2.9
+1063,Faucet,Bath,Kohler,241.5,61,0,2025-05-22,Aisle 21,0.0,144.9,0.4,Store-2,FW19,14,False,2.0
+1064,Vanity Top,Bath,Moen,194.13,183,30,2025-05-12,Aisle 25,5823.9,116.48,0.4,Store-2,FW19,45,True,4.0
+1065,Toilet,Bath,Moen,227.51,59,36,2025-05-16,Aisle 4,8190.36,136.51,0.4,Store-2,FW19,53,False,1.7
+1066,Shower Head,Bath,Moen,112.23,63,29,2025-05-12,Aisle 15,3254.67,67.34,0.4,Store-2,FW19,51,True,4.7
+1067,Faucet,Bath,Moen,187.13,152,43,2025-05-13,Aisle 11,8046.59,112.28,0.4,Store-2,FW19,50,True,2.0
+1068,Vanity Top,Bath,Delta,224.78,52,13,2025-05-21,Aisle 26,2922.14,134.87,0.4,Store-2,FW19,16,True,3.5
+1069,Toilet,Bath,Delta,100.11,115,41,2025-05-16,Aisle 2,4104.51,60.07,0.4,Store-2,FW19,58,False,4.3
+1070,Shower Head,Bath,Delta,28.24,63,16,2025-05-13,Aisle 24,451.84,16.94,0.4,Store-2,FW19,30,False,3.7
+1071,Faucet,Bath,Delta,128.67,78,25,2025-05-17,Aisle 21,3216.75,77.2,0.4,Store-2,FW19,42,False,3.6
+1072,Wood Fence Panel,Building Materials,Severe Weather,106.61,120,50,2025-05-15,Outside Yard,5330.5,63.97,0.4,Store-2,FW19,62,False,1.7
+1073,Concrete Mix,Building Materials,Severe Weather,133.0,137,10,2025-05-10,Outside Yard,1330.0,79.8,0.4,Store-2,FW19,18,False,3.6
+1074,Drywall Sheet,Building Materials,Severe Weather,39.89,115,25,2025-05-22,Outside Yard,997.25,23.93,0.4,Store-2,FW19,33,False,1.7
+1075,Lumber,Building Materials,Severe Weather,190.88,139,47,2025-05-13,Outside Yard,8971.36,114.53,0.4,Store-2,FW19,51,False,4.5
+1076,Wood Fence Panel,Building Materials,Top Choice,238.22,78,50,2025-05-13,Outside Yard,11911.0,142.93,0.4,Store-2,FW19,62,False,5.0
+1077,Concrete Mix,Building Materials,Top Choice,197.46,94,30,2025-05-13,Outside Yard,5923.8,118.48,0.4,Store-2,FW19,57,True,2.2
+1078,Drywall Sheet,Building Materials,Top Choice,113.66,66,23,2025-05-13,Outside Yard,2614.18,68.2,0.4,Store-2,FW19,40,True,2.2
+1079,Lumber,Building Materials,Top Choice,133.45,132,6,2025-05-15,Outside Yard,800.7,80.07,0.4,Store-2,FW19,14,True,1.6
+1080,Wood Fence Panel,Building Materials,TuffBlock,142.01,131,13,2025-05-20,Outside Yard,1846.13,85.21,0.4,Store-2,FW19,23,True,3.6
+1081,Concrete Mix,Building Materials,TuffBlock,20.16,186,10,2025-05-20,Outside Yard,201.6,12.1,0.4,Store-2,FW19,30,True,3.4
+1082,Drywall Sheet,Building Materials,TuffBlock,43.16,9,3,2025-05-10,Outside Yard,129.48,25.9,0.4,Store-2,FW19,32,False,2.2
+1083,Lumber,Building Materials,TuffBlock,159.72,77,8,2025-05-12,Outside Yard,1277.76,95.83,0.4,Store-2,FW19,16,False,4.8
+1084,Floor Tile,Flooring,Style Selections,181.62,143,31,2025-05-16,Aisle 18,5630.22,108.97,0.4,Store-2,FW19,44,False,3.9
+1085,Vinyl Plank,Flooring,Style Selections,248.68,2,37,2025-05-15,Aisle 19,9201.16,149.21,0.4,Store-2,FW19,45,True,1.9
+1086,Laminate Flooring,Flooring,Style Selections,179.68,179,4,2025-05-21,Aisle 11,718.72,107.81,0.4,Store-2,FW19,20,True,3.7
+1087,Carpet Tile,Flooring,Style Selections,220.8,193,28,2025-05-21,Aisle 10,6182.4,132.48,0.4,Store-2,FW19,33,False,2.1
+1088,Floor Tile,Flooring,Pergo,63.47,26,39,2025-05-12,Aisle 9,2475.33,38.08,0.4,Store-2,FW19,69,True,4.1
+1089,Vinyl Plank,Flooring,Pergo,217.68,96,21,2025-05-11,Aisle 19,4571.28,130.61,0.4,Store-2,FW19,48,False,2.3
+1090,Laminate Flooring,Flooring,Pergo,7.24,107,16,2025-05-18,Aisle 22,115.84,4.34,0.4,Store-2,FW19,21,True,2.3
+1091,Carpet Tile,Flooring,Pergo,186.83,77,0,2025-05-11,Aisle 9,0.0,112.1,0.4,Store-2,FW19,24,True,1.6
+1092,Floor Tile,Flooring,TrafficMaster,67.18,9,36,2025-05-15,Aisle 30,2418.48,40.31,0.4,Store-2,FW19,59,True,3.5
+1093,Vinyl Plank,Flooring,TrafficMaster,157.47,36,48,2025-05-09,Aisle 24,7558.56,94.48,0.4,Store-2,FW19,68,True,2.8
+1094,Laminate Flooring,Flooring,TrafficMaster,6.52,27,49,2025-05-10,Aisle 2,319.48,3.91,0.4,Store-2,FW19,73,True,2.7
+1095,Carpet Tile,Flooring,TrafficMaster,84.61,50,19,2025-05-18,Aisle 23,1607.59,50.77,0.4,Store-2,FW19,48,False,4.3
+1096,Ceiling Fan,Fans,Honeywell,178.14,166,13,2025-05-14,Aisle 14,2315.82,106.88,0.4,Store-2,FW19,41,True,3.9
+1097,Tower Fan,Fans,Honeywell,219.78,188,32,2025-05-13,Aisle 21,7032.96,131.87,0.4,Store-2,FW19,57,False,2.3
+1098,Pedestal Fan,Fans,Honeywell,115.53,195,17,2025-05-21,Aisle 27,1964.01,69.32,0.4,Store-2,FW19,25,False,3.5
+1099,Box Fan,Fans,Honeywell,104.64,147,16,2025-05-15,Aisle 17,1674.24,62.78,0.4,Store-2,FW19,39,False,1.6
+1100,Ceiling Fan,Fans,Harbor Breeze,43.17,128,16,2025-05-19,Aisle 19,690.72,25.9,0.4,Store-2,FW19,23,True,3.8
+1101,Tower Fan,Fans,Harbor Breeze,212.72,39,0,2025-05-10,Aisle 22,0.0,127.63,0.4,Store-2,FW19,29,False,2.0
+1102,Pedestal Fan,Fans,Harbor Breeze,205.09,164,31,2025-05-11,Aisle 5,6357.79,123.05,0.4,Store-2,FW19,40,False,4.0
+1103,Box Fan,Fans,Harbor Breeze,72.34,31,47,2025-05-15,Aisle 26,3399.98,43.4,0.4,Store-2,FW19,73,True,2.1
+1104,Ceiling Fan,Fans,Hunter,218.42,156,3,2025-05-16,Aisle 11,655.26,131.05,0.4,Store-2,FW19,16,True,4.4
+1105,Tower Fan,Fans,Hunter,109.32,18,16,2025-05-19,Aisle 1,1749.12,65.59,0.4,Store-2,FW19,37,True,3.2
+1106,Pedestal Fan,Fans,Hunter,40.91,71,15,2025-05-20,Aisle 18,613.65,24.55,0.4,Store-2,FW19,38,True,2.6
+1107,Box Fan,Fans,Hunter,199.88,10,16,2025-05-19,Aisle 16,3198.08,119.93,0.4,Store-2,FW19,26,True,2.4
+1108,Lawn Fertilizer,Garden,Scotts,67.3,93,8,2025-05-13,Aisle 6,538.4,40.38,0.4,Store-2,FW19,34,False,4.3
+1109,Weed Killer,Garden,Scotts,163.84,52,40,2025-05-16,Aisle 30,6553.6,98.3,0.4,Store-2,FW19,54,False,2.6
+1110,Plant Food,Garden,Scotts,83.11,145,0,2025-05-18,Aisle 29,0.0,49.87,0.4,Store-2,FW19,17,True,4.1
+1111,Mulch Bag,Garden,Scotts,50.15,120,33,2025-05-14,Aisle 30,1654.95,30.09,0.4,Store-2,FW19,50,False,4.5
+1112,Lawn Fertilizer,Garden,Miracle-Gro,29.48,14,21,2025-05-13,Aisle 29,619.08,17.69,0.4,Store-2,FW19,35,True,1.9
+1113,Weed Killer,Garden,Miracle-Gro,139.74,75,37,2025-05-11,Aisle 17,5170.38,83.84,0.4,Store-2,FW19,63,False,3.1
+1114,Plant Food,Garden,Miracle-Gro,172.76,99,11,2025-05-20,Aisle 18,1900.36,103.66,0.4,Store-2,FW19,31,True,4.3
+1115,Mulch Bag,Garden,Miracle-Gro,35.99,170,34,2025-05-11,Aisle 7,1223.66,21.59,0.4,Store-2,FW19,57,False,4.8
+1116,Lawn Fertilizer,Garden,Roundup,64.87,135,33,2025-05-21,Aisle 17,2140.71,38.92,0.4,Store-2,FW19,51,True,1.8
+1117,Weed Killer,Garden,Roundup,50.02,96,10,2025-05-22,Aisle 26,500.2,30.01,0.4,Store-2,FW19,32,False,4.6
+1118,Plant Food,Garden,Roundup,10.6,3,13,2025-05-11,Aisle 12,137.8,6.36,0.4,Store-2,FW19,25,True,4.9
+1119,Mulch Bag,Garden,Roundup,149.21,11,22,2025-05-20,Aisle 17,3282.62,89.53,0.4,Store-2,FW19,37,True,4.1
+1000,Cordless Drill,Tools,DEWALT,159.23,124,24,2025-05-15,Aisle 24,3821.52,95.54,0.4,Store-3,FW19,39,False,3.7
+1001,Hammer Drill,Tools,DEWALT,143.18,18,6,2025-05-13,Aisle 1,859.08,85.91,0.4,Store-3,FW19,8,False,4.7
+1002,Tool Set,Tools,DEWALT,174.09,21,35,2025-05-15,Aisle 2,6093.15,104.45,0.4,Store-3,FW19,53,True,1.6
+1003,Work Light,Tools,DEWALT,175.4,158,33,2025-05-16,Aisle 21,5788.2,105.24,0.4,Store-3,FW19,60,False,2.5
+1004,Cordless Drill,Tools,Milwaukee,136.15,9,19,2025-05-17,Aisle 6,2586.85,81.69,0.4,Store-3,FW19,28,True,3.3
+1005,Hammer Drill,Tools,Milwaukee,79.66,149,12,2025-05-19,Aisle 29,955.92,47.8,0.4,Store-3,FW19,28,False,3.7
+1006,Tool Set,Tools,Milwaukee,208.29,15,14,2025-05-19,Aisle 27,2916.06,124.97,0.4,Store-3,FW19,41,False,4.6
+1007,Work Light,Tools,Milwaukee,154.45,152,0,2025-05-11,Aisle 19,0.0,92.67,0.4,Store-3,FW19,21,False,1.6
+1008,Cordless Drill,Tools,Craftsman,201.39,97,5,2025-05-10,Aisle 11,1006.95,120.83,0.4,Store-3,FW19,35,False,4.1
+1009,Hammer Drill,Tools,Craftsman,82.55,180,43,2025-05-11,Aisle 7,3549.65,49.53,0.4,Store-3,FW19,73,True,2.7
+1010,Tool Set,Tools,Craftsman,82.72,181,37,2025-05-19,Aisle 25,3060.64,49.63,0.4,Store-3,FW19,65,True,4.2
+1011,Work Light,Tools,Craftsman,37.64,151,41,2025-05-12,Aisle 24,1543.24,22.58,0.4,Store-3,FW19,67,False,3.2
+1012,LED Ceiling Light,Lighting,GE,186.47,8,21,2025-05-19,Aisle 8,3915.87,111.88,0.4,Store-3,FW19,49,False,2.4
+1013,Smart Bulb,Lighting,GE,225.58,52,7,2025-05-17,Aisle 19,1579.06,135.35,0.4,Store-3,FW19,28,True,3.9
+1014,Wall Sconce,Lighting,GE,210.89,115,18,2025-05-19,Aisle 15,3796.02,126.53,0.4,Store-3,FW19,35,True,2.0
+1015,Chandelier,Lighting,GE,198.44,25,27,2025-05-14,Aisle 26,5357.88,119.06,0.4,Store-3,FW19,32,True,2.9
+1016,LED Ceiling Light,Lighting,Philips,57.22,66,46,2025-05-18,Aisle 10,2632.12,34.33,0.4,Store-3,FW19,55,True,3.4
+1017,Smart Bulb,Lighting,Philips,93.55,1,41,2025-05-10,Aisle 28,3835.55,56.13,0.4,Store-3,FW19,46,True,4.6
+1018,Wall Sconce,Lighting,Philips,192.51,156,21,2025-05-18,Aisle 3,4042.71,115.51,0.4,Store-3,FW19,42,True,2.7
+1019,Chandelier,Lighting,Philips,145.9,174,19,2025-05-10,Aisle 1,2772.1,87.54,0.4,Store-3,FW19,38,True,3.3
+1020,LED Ceiling Light,Lighting,Commercial Electric,170.56,11,42,2025-05-21,Aisle 2,7163.52,102.34,0.4,Store-3,FW19,58,False,3.0
+1021,Smart Bulb,Lighting,Commercial Electric,231.44,2,20,2025-05-20,Aisle 18,4628.8,138.86,0.4,Store-3,FW19,24,True,3.8
+1022,Wall Sconce,Lighting,Commercial Electric,34.75,122,26,2025-05-15,Aisle 6,903.5,20.85,0.4,Store-3,FW19,29,False,3.1
+1023,Chandelier,Lighting,Commercial Electric,5.71,62,26,2025-05-09,Aisle 25,148.46,3.43,0.4,Store-3,FW19,38,False,2.0
+1024,Garden Hose,Outdoors,Flexon,115.38,42,44,2025-05-11,Aisle 21,5076.72,69.23,0.4,Store-3,FW19,54,False,2.1
+1025,Sprinkler,Outdoors,Flexon,203.36,14,47,2025-05-17,Aisle 19,9557.92,122.02,0.4,Store-3,FW19,58,True,2.6
+1026,Outdoor Light,Outdoors,Flexon,55.97,108,18,2025-05-11,Aisle 4,1007.46,33.58,0.4,Store-3,FW19,43,False,1.6
+1027,Patio Heater,Outdoors,Flexon,130.84,135,1,2025-05-20,Aisle 16,130.84,78.5,0.4,Store-3,FW19,23,True,2.2
+1028,Garden Hose,Outdoors,Rain Bird,60.5,151,40,2025-05-14,Aisle 14,2420.0,36.3,0.4,Store-3,FW19,48,True,4.1
+1029,Sprinkler,Outdoors,Rain Bird,194.36,85,48,2025-05-18,Aisle 12,9329.28,116.62,0.4,Store-3,FW19,70,True,3.6
+1030,Outdoor Light,Outdoors,Rain Bird,192.03,114,13,2025-05-12,Aisle 27,2496.39,115.22,0.4,Store-3,FW19,39,True,1.9
+1031,Patio Heater,Outdoors,Rain Bird,16.36,127,29,2025-05-15,Aisle 2,474.44,9.82,0.4,Store-3,FW19,59,False,1.5
+1032,Garden Hose,Outdoors,Ortho,9.81,70,2,2025-05-14,Aisle 14,19.62,5.89,0.4,Store-3,FW19,13,False,2.9
+1033,Sprinkler,Outdoors,Ortho,30.43,162,42,2025-05-20,Aisle 5,1278.06,18.26,0.4,Store-3,FW19,70,True,3.6
+1034,Outdoor Light,Outdoors,Ortho,65.71,0,46,2025-05-11,Aisle 28,3022.66,39.43,0.4,Store-3,FW19,68,True,4.8
+1035,Patio Heater,Outdoors,Ortho,165.57,30,4,2025-05-11,Aisle 28,662.28,99.34,0.4,Store-3,FW19,31,True,2.8
+1036,Interior Paint - Eggshell,Paint,Valspar,93.44,12,38,2025-05-15,Aisle 30,3550.72,56.06,0.4,Store-3,FW19,40,False,2.8
+1037,Exterior Paint - Satin,Paint,Valspar,201.85,159,25,2025-05-20,Aisle 3,5046.25,121.11,0.4,Store-3,FW19,40,True,3.3
+1038,Primer,Paint,Valspar,109.05,193,38,2025-05-09,Aisle 24,4143.9,65.43,0.4,Store-3,FW19,44,False,3.2
+1039,Spray Paint,Paint,Valspar,38.23,89,33,2025-05-17,Aisle 21,1261.59,22.94,0.4,Store-3,FW19,44,True,3.3
+1040,Interior Paint - Eggshell,Paint,HGTV Home,243.09,25,0,2025-05-21,Aisle 17,0.0,145.85,0.4,Store-3,FW19,30,False,3.6
+1041,Exterior Paint - Satin,Paint,HGTV Home,162.7,190,2,2025-05-13,Aisle 20,325.4,97.62,0.4,Store-3,FW19,28,True,3.6
+1042,Primer,Paint,HGTV Home,112.73,73,39,2025-05-17,Aisle 4,4396.47,67.64,0.4,Store-3,FW19,69,False,4.8
+1043,Spray Paint,Paint,HGTV Home,69.58,138,40,2025-05-14,Aisle 25,2783.2,41.75,0.4,Store-3,FW19,62,True,3.7
+1044,Interior Paint - Eggshell,Paint,Rust-Oleum,196.33,126,21,2025-05-13,Aisle 21,4122.93,117.8,0.4,Store-3,FW19,26,True,2.5
+1045,Exterior Paint - Satin,Paint,Rust-Oleum,241.55,192,30,2025-05-20,Aisle 29,7246.5,144.93,0.4,Store-3,FW19,32,False,3.3
+1046,Primer,Paint,Rust-Oleum,52.08,177,6,2025-05-11,Aisle 29,312.48,31.25,0.4,Store-3,FW19,27,True,3.6
+1047,Spray Paint,Paint,Rust-Oleum,46.01,75,13,2025-05-20,Aisle 8,598.13,27.61,0.4,Store-3,FW19,31,True,1.9
+1048,Smart Thermostat,Home Automation,Nest,167.1,91,8,2025-05-09,Aisle 28,1336.8,100.26,0.4,Store-3,FW19,11,False,4.9
+1049,Security Camera,Home Automation,Nest,223.62,147,42,2025-05-15,Aisle 29,9392.04,134.17,0.4,Store-3,FW19,55,True,2.9
+1050,Smart Lock,Home Automation,Nest,114.78,137,40,2025-05-13,Aisle 3,4591.2,68.87,0.4,Store-3,FW19,63,False,1.8
+1051,Doorbell Camera,Home Automation,Nest,20.95,11,50,2025-05-22,Aisle 8,1047.5,12.57,0.4,Store-3,FW19,62,False,4.1
+1052,Smart Thermostat,Home Automation,Ring,197.31,118,45,2025-05-17,Aisle 6,8878.95,118.39,0.4,Store-3,FW19,60,False,3.8
+1053,Security Camera,Home Automation,Ring,16.51,48,40,2025-05-22,Aisle 1,660.4,9.91,0.4,Store-3,FW19,53,True,3.7
+1054,Smart Lock,Home Automation,Ring,151.24,56,18,2025-05-14,Aisle 20,2722.32,90.74,0.4,Store-3,FW19,23,True,4.9
+1055,Doorbell Camera,Home Automation,Ring,181.34,195,31,2025-05-22,Aisle 2,5621.54,108.8,0.4,Store-3,FW19,43,True,1.8
+1056,Smart Thermostat,Home Automation,Ecobee,233.12,137,37,2025-05-10,Aisle 11,8625.44,139.87,0.4,Store-3,FW19,42,False,1.9
+1057,Security Camera,Home Automation,Ecobee,165.76,107,42,2025-05-20,Aisle 18,6961.92,99.46,0.4,Store-3,FW19,50,True,2.4
+1058,Smart Lock,Home Automation,Ecobee,247.93,4,43,2025-05-12,Aisle 20,10660.99,148.76,0.4,Store-3,FW19,46,False,3.9
+1059,Doorbell Camera,Home Automation,Ecobee,185.0,174,5,2025-05-22,Aisle 21,925.0,111.0,0.4,Store-3,FW19,25,False,3.1
+1060,Vanity Top,Bath,Kohler,149.07,141,30,2025-05-18,Aisle 22,4472.1,89.44,0.4,Store-3,FW19,31,False,2.1
+1061,Toilet,Bath,Kohler,81.21,88,22,2025-05-09,Aisle 18,1786.62,48.73,0.4,Store-3,FW19,30,True,3.0
+1062,Shower Head,Bath,Kohler,181.17,26,46,2025-05-17,Aisle 23,8333.82,108.7,0.4,Store-3,FW19,58,True,4.8
+1063,Faucet,Bath,Kohler,158.75,58,6,2025-05-18,Aisle 12,952.5,95.25,0.4,Store-3,FW19,23,True,2.3
+1064,Vanity Top,Bath,Moen,168.2,95,16,2025-05-12,Aisle 14,2691.2,100.92,0.4,Store-3,FW19,30,False,4.2
+1065,Toilet,Bath,Moen,171.98,61,38,2025-05-18,Aisle 6,6535.24,103.19,0.4,Store-3,FW19,60,True,3.9
+1066,Shower Head,Bath,Moen,182.52,104,11,2025-05-18,Aisle 1,2007.72,109.51,0.4,Store-3,FW19,12,True,4.2
+1067,Faucet,Bath,Moen,159.95,129,50,2025-05-16,Aisle 22,7997.5,95.97,0.4,Store-3,FW19,79,False,4.6
+1068,Vanity Top,Bath,Delta,237.39,121,45,2025-05-11,Aisle 27,10682.55,142.43,0.4,Store-3,FW19,54,True,3.6
+1069,Toilet,Bath,Delta,144.31,134,2,2025-05-13,Aisle 1,288.62,86.59,0.4,Store-3,FW19,25,True,4.1
+1070,Shower Head,Bath,Delta,200.45,91,48,2025-05-11,Aisle 30,9621.6,120.27,0.4,Store-3,FW19,58,False,3.6
+1071,Faucet,Bath,Delta,165.49,91,8,2025-05-20,Aisle 17,1323.92,99.29,0.4,Store-3,FW19,28,True,3.2
+1072,Wood Fence Panel,Building Materials,Severe Weather,92.39,73,31,2025-05-13,Outside Yard,2864.09,55.43,0.4,Store-3,FW19,46,False,2.1
+1073,Concrete Mix,Building Materials,Severe Weather,183.46,63,41,2025-05-21,Outside Yard,7521.86,110.08,0.4,Store-3,FW19,46,False,4.6
+1074,Drywall Sheet,Building Materials,Severe Weather,111.3,165,33,2025-05-11,Outside Yard,3672.9,66.78,0.4,Store-3,FW19,50,True,4.5
+1075,Lumber,Building Materials,Severe Weather,128.73,89,27,2025-05-18,Outside Yard,3475.71,77.24,0.4,Store-3,FW19,56,True,3.7
+1076,Wood Fence Panel,Building Materials,Top Choice,21.92,88,45,2025-05-15,Outside Yard,986.4,13.15,0.4,Store-3,FW19,70,True,4.8
+1077,Concrete Mix,Building Materials,Top Choice,185.98,85,42,2025-05-17,Outside Yard,7811.16,111.59,0.4,Store-3,FW19,42,True,2.7
+1078,Drywall Sheet,Building Materials,Top Choice,142.36,186,21,2025-05-11,Outside Yard,2989.56,85.42,0.4,Store-3,FW19,26,False,3.6
+1079,Lumber,Building Materials,Top Choice,139.0,19,37,2025-05-21,Outside Yard,5143.0,83.4,0.4,Store-3,FW19,51,True,3.1
+1080,Wood Fence Panel,Building Materials,TuffBlock,221.09,90,0,2025-05-15,Outside Yard,0.0,132.65,0.4,Store-3,FW19,21,False,3.6
+1081,Concrete Mix,Building Materials,TuffBlock,245.52,6,32,2025-05-14,Outside Yard,7856.64,147.31,0.4,Store-3,FW19,62,True,4.2
+1082,Drywall Sheet,Building Materials,TuffBlock,111.32,81,0,2025-05-17,Outside Yard,0.0,66.79,0.4,Store-3,FW19,12,True,4.3
+1083,Lumber,Building Materials,TuffBlock,122.6,19,32,2025-05-17,Outside Yard,3923.2,73.56,0.4,Store-3,FW19,61,False,4.7
+1084,Floor Tile,Flooring,Style Selections,191.29,121,40,2025-05-14,Aisle 14,7651.6,114.77,0.4,Store-3,FW19,62,True,4.4
+1085,Vinyl Plank,Flooring,Style Selections,43.34,170,20,2025-05-14,Aisle 9,866.8,26.0,0.4,Store-3,FW19,39,True,3.8
+1086,Laminate Flooring,Flooring,Style Selections,21.7,173,14,2025-05-20,Aisle 30,303.8,13.02,0.4,Store-3,FW19,29,False,2.8
+1087,Carpet Tile,Flooring,Style Selections,111.59,173,38,2025-05-20,Aisle 24,4240.42,66.95,0.4,Store-3,FW19,56,True,3.7
+1088,Floor Tile,Flooring,Pergo,26.94,168,45,2025-05-22,Aisle 9,1212.3,16.16,0.4,Store-3,FW19,50,True,2.9
+1089,Vinyl Plank,Flooring,Pergo,236.32,143,32,2025-05-11,Aisle 26,7562.24,141.79,0.4,Store-3,FW19,49,False,4.6
+1090,Laminate Flooring,Flooring,Pergo,176.08,127,25,2025-05-09,Aisle 17,4402.0,105.65,0.4,Store-3,FW19,30,False,2.7
+1091,Carpet Tile,Flooring,Pergo,73.29,200,8,2025-05-21,Aisle 28,586.32,43.97,0.4,Store-3,FW19,20,False,3.4
+1092,Floor Tile,Flooring,TrafficMaster,53.41,164,14,2025-05-13,Aisle 24,747.74,32.05,0.4,Store-3,FW19,38,False,3.1
+1093,Vinyl Plank,Flooring,TrafficMaster,116.75,126,28,2025-05-15,Aisle 21,3269.0,70.05,0.4,Store-3,FW19,31,True,1.7
+1094,Laminate Flooring,Flooring,TrafficMaster,210.01,119,20,2025-05-20,Aisle 4,4200.2,126.01,0.4,Store-3,FW19,38,False,4.4
+1095,Carpet Tile,Flooring,TrafficMaster,151.47,96,48,2025-05-10,Aisle 11,7270.56,90.88,0.4,Store-3,FW19,50,False,2.0
+1096,Ceiling Fan,Fans,Honeywell,27.35,189,32,2025-05-22,Aisle 5,875.2,16.41,0.4,Store-3,FW19,44,True,3.4
+1097,Tower Fan,Fans,Honeywell,137.24,150,35,2025-05-19,Aisle 3,4803.4,82.34,0.4,Store-3,FW19,59,True,3.3
+1098,Pedestal Fan,Fans,Honeywell,239.53,84,49,2025-05-21,Aisle 12,11736.97,143.72,0.4,Store-3,FW19,73,True,3.8
+1099,Box Fan,Fans,Honeywell,157.66,63,28,2025-05-09,Aisle 16,4414.48,94.6,0.4,Store-3,FW19,34,False,2.2
+1100,Ceiling Fan,Fans,Harbor Breeze,224.17,194,15,2025-05-14,Aisle 8,3362.55,134.5,0.4,Store-3,FW19,27,False,1.7
+1101,Tower Fan,Fans,Harbor Breeze,166.76,12,11,2025-05-18,Aisle 28,1834.36,100.06,0.4,Store-3,FW19,32,False,3.4
+1102,Pedestal Fan,Fans,Harbor Breeze,135.77,135,35,2025-05-21,Aisle 30,4751.95,81.46,0.4,Store-3,FW19,40,True,4.0
+1103,Box Fan,Fans,Harbor Breeze,77.64,37,41,2025-05-21,Aisle 12,3183.24,46.58,0.4,Store-3,FW19,44,False,3.5
+1104,Ceiling Fan,Fans,Hunter,59.91,178,7,2025-05-09,Aisle 11,419.37,35.95,0.4,Store-3,FW19,8,True,3.1
+1105,Tower Fan,Fans,Hunter,215.05,110,35,2025-05-12,Aisle 10,7526.75,129.03,0.4,Store-3,FW19,37,True,3.4
+1106,Pedestal Fan,Fans,Hunter,101.66,165,4,2025-05-13,Aisle 30,406.64,61.0,0.4,Store-3,FW19,26,True,4.7
+1107,Box Fan,Fans,Hunter,231.0,89,12,2025-05-19,Aisle 16,2772.0,138.6,0.4,Store-3,FW19,29,True,4.4
+1108,Lawn Fertilizer,Garden,Scotts,93.49,77,12,2025-05-09,Aisle 21,1121.88,56.09,0.4,Store-3,FW19,38,False,4.9
+1109,Weed Killer,Garden,Scotts,241.33,114,38,2025-05-16,Aisle 27,9170.54,144.8,0.4,Store-3,FW19,56,False,2.4
+1110,Plant Food,Garden,Scotts,136.19,47,1,2025-05-13,Aisle 17,136.19,81.71,0.4,Store-3,FW19,9,False,3.7
+1111,Mulch Bag,Garden,Scotts,221.19,59,45,2025-05-18,Aisle 28,9953.55,132.71,0.4,Store-3,FW19,67,True,4.5
+1112,Lawn Fertilizer,Garden,Miracle-Gro,200.06,115,28,2025-05-18,Aisle 26,5601.68,120.04,0.4,Store-3,FW19,39,True,4.5
+1113,Weed Killer,Garden,Miracle-Gro,244.64,141,28,2025-05-16,Aisle 24,6849.92,146.78,0.4,Store-3,FW19,44,False,3.3
+1114,Plant Food,Garden,Miracle-Gro,51.41,182,2,2025-05-12,Aisle 11,102.82,30.85,0.4,Store-3,FW19,6,False,3.2
+1115,Mulch Bag,Garden,Miracle-Gro,41.17,76,1,2025-05-22,Aisle 15,41.17,24.7,0.4,Store-3,FW19,16,True,2.4
+1116,Lawn Fertilizer,Garden,Roundup,156.27,112,46,2025-05-15,Aisle 19,7188.42,93.76,0.4,Store-3,FW19,52,False,4.7
+1117,Weed Killer,Garden,Roundup,24.69,188,43,2025-05-10,Aisle 17,1061.67,14.81,0.4,Store-3,FW19,49,False,4.5
+1118,Plant Food,Garden,Roundup,17.94,176,8,2025-05-16,Aisle 3,143.52,10.76,0.4,Store-3,FW19,10,True,4.5
+1119,Mulch Bag,Garden,Roundup,135.16,57,47,2025-05-21,Aisle 29,6352.52,81.1,0.4,Store-3,FW19,55,False,4.3
+1000,Cordless Drill,Tools,DEWALT,132.92,162,34,2025-05-15,Aisle 11,4519.28,79.75,0.4,Store-4,FW19,46,True,2.1
+1001,Hammer Drill,Tools,DEWALT,21.03,68,43,2025-05-10,Aisle 19,904.29,12.62,0.4,Store-4,FW19,56,False,4.2
+1002,Tool Set,Tools,DEWALT,47.98,114,35,2025-05-11,Aisle 27,1679.3,28.79,0.4,Store-4,FW19,42,True,3.4
+1003,Work Light,Tools,DEWALT,107.83,12,16,2025-05-20,Aisle 1,1725.28,64.7,0.4,Store-4,FW19,26,False,1.8
+1004,Cordless Drill,Tools,Milwaukee,200.35,53,10,2025-05-18,Aisle 9,2003.5,120.21,0.4,Store-4,FW19,36,False,1.8
+1005,Hammer Drill,Tools,Milwaukee,188.02,74,20,2025-05-19,Aisle 24,3760.4,112.81,0.4,Store-4,FW19,31,False,2.0
+1006,Tool Set,Tools,Milwaukee,32.53,119,37,2025-05-21,Aisle 1,1203.61,19.52,0.4,Store-4,FW19,46,True,2.4
+1007,Work Light,Tools,Milwaukee,234.29,23,14,2025-05-21,Aisle 3,3280.06,140.57,0.4,Store-4,FW19,43,True,4.3
+1008,Cordless Drill,Tools,Craftsman,229.58,187,39,2025-05-13,Aisle 11,8953.62,137.75,0.4,Store-4,FW19,56,True,1.7
+1009,Hammer Drill,Tools,Craftsman,67.17,5,42,2025-05-12,Aisle 5,2821.14,40.3,0.4,Store-4,FW19,58,True,2.0
+1010,Tool Set,Tools,Craftsman,66.29,133,12,2025-05-20,Aisle 8,795.48,39.77,0.4,Store-4,FW19,14,True,3.1
+1011,Work Light,Tools,Craftsman,218.58,25,49,2025-05-18,Aisle 24,10710.42,131.15,0.4,Store-4,FW19,74,False,4.5
+1012,LED Ceiling Light,Lighting,GE,128.35,73,47,2025-05-19,Aisle 5,6032.45,77.01,0.4,Store-4,FW19,52,True,3.3
+1013,Smart Bulb,Lighting,GE,191.12,132,45,2025-05-14,Aisle 18,8600.4,114.67,0.4,Store-4,FW19,50,False,4.2
+1014,Wall Sconce,Lighting,GE,80.72,47,44,2025-05-19,Aisle 2,3551.68,48.43,0.4,Store-4,FW19,65,True,2.3
+1015,Chandelier,Lighting,GE,230.68,173,6,2025-05-14,Aisle 3,1384.08,138.41,0.4,Store-4,FW19,20,True,4.9
+1016,LED Ceiling Light,Lighting,Philips,188.3,47,6,2025-05-16,Aisle 21,1129.8,112.98,0.4,Store-4,FW19,25,False,4.1
+1017,Smart Bulb,Lighting,Philips,78.12,112,10,2025-05-16,Aisle 7,781.2,46.87,0.4,Store-4,FW19,14,False,1.8
+1018,Wall Sconce,Lighting,Philips,84.31,160,23,2025-05-13,Aisle 28,1939.13,50.59,0.4,Store-4,FW19,36,True,3.4
+1019,Chandelier,Lighting,Philips,183.73,193,49,2025-05-10,Aisle 24,9002.77,110.24,0.4,Store-4,FW19,63,True,3.7
+1020,LED Ceiling Light,Lighting,Commercial Electric,225.17,122,47,2025-05-14,Aisle 10,10582.99,135.1,0.4,Store-4,FW19,61,True,2.4
+1021,Smart Bulb,Lighting,Commercial Electric,198.35,132,35,2025-05-15,Aisle 3,6942.25,119.01,0.4,Store-4,FW19,61,True,2.7
+1022,Wall Sconce,Lighting,Commercial Electric,5.18,135,15,2025-05-19,Aisle 29,77.7,3.11,0.4,Store-4,FW19,18,True,4.7
+1023,Chandelier,Lighting,Commercial Electric,18.2,32,11,2025-05-14,Aisle 16,200.2,10.92,0.4,Store-4,FW19,27,True,2.9
+1024,Garden Hose,Outdoors,Flexon,128.0,136,12,2025-05-13,Aisle 12,1536.0,76.8,0.4,Store-4,FW19,24,False,3.0
+1025,Sprinkler,Outdoors,Flexon,135.14,140,6,2025-05-18,Aisle 1,810.84,81.08,0.4,Store-4,FW19,20,False,4.1
+1026,Outdoor Light,Outdoors,Flexon,143.07,113,0,2025-05-22,Aisle 18,0.0,85.84,0.4,Store-4,FW19,23,True,4.5
+1027,Patio Heater,Outdoors,Flexon,235.08,65,45,2025-05-13,Aisle 11,10578.6,141.05,0.4,Store-4,FW19,58,True,3.1
+1028,Garden Hose,Outdoors,Rain Bird,171.83,177,2,2025-05-16,Aisle 9,343.66,103.1,0.4,Store-4,FW19,5,False,4.3
+1029,Sprinkler,Outdoors,Rain Bird,37.35,45,32,2025-05-10,Aisle 5,1195.2,22.41,0.4,Store-4,FW19,55,False,4.7
+1030,Outdoor Light,Outdoors,Rain Bird,50.16,20,25,2025-05-15,Aisle 24,1254.0,30.1,0.4,Store-4,FW19,48,True,2.3
+1031,Patio Heater,Outdoors,Rain Bird,210.84,123,29,2025-05-12,Aisle 9,6114.36,126.5,0.4,Store-4,FW19,56,False,1.6
+1032,Garden Hose,Outdoors,Ortho,61.08,57,24,2025-05-12,Aisle 11,1465.92,36.65,0.4,Store-4,FW19,43,False,4.5
+1033,Sprinkler,Outdoors,Ortho,84.82,198,40,2025-05-13,Aisle 22,3392.8,50.89,0.4,Store-4,FW19,45,True,3.5
+1034,Outdoor Light,Outdoors,Ortho,249.04,99,3,2025-05-22,Aisle 10,747.12,149.42,0.4,Store-4,FW19,17,True,2.5
+1035,Patio Heater,Outdoors,Ortho,176.68,138,27,2025-05-22,Aisle 13,4770.36,106.01,0.4,Store-4,FW19,47,False,2.5
+1036,Interior Paint - Eggshell,Paint,Valspar,240.85,3,15,2025-05-21,Aisle 27,3612.75,144.51,0.4,Store-4,FW19,34,False,2.1
+1037,Exterior Paint - Satin,Paint,Valspar,69.15,14,7,2025-05-10,Aisle 19,484.05,41.49,0.4,Store-4,FW19,30,False,2.0
+1038,Primer,Paint,Valspar,150.77,19,35,2025-05-22,Aisle 7,5276.95,90.46,0.4,Store-4,FW19,65,True,3.0
+1039,Spray Paint,Paint,Valspar,111.69,161,41,2025-05-22,Aisle 25,4579.29,67.01,0.4,Store-4,FW19,47,False,4.7
+1040,Interior Paint - Eggshell,Paint,HGTV Home,90.31,79,21,2025-05-19,Aisle 13,1896.51,54.19,0.4,Store-4,FW19,39,True,4.9
+1041,Exterior Paint - Satin,Paint,HGTV Home,222.23,136,50,2025-05-18,Aisle 30,11111.5,133.34,0.4,Store-4,FW19,66,True,2.4
+1042,Primer,Paint,HGTV Home,35.28,191,38,2025-05-11,Aisle 26,1340.64,21.17,0.4,Store-4,FW19,49,True,1.8
+1043,Spray Paint,Paint,HGTV Home,23.03,39,2,2025-05-18,Aisle 3,46.06,13.82,0.4,Store-4,FW19,22,True,4.4
+1044,Interior Paint - Eggshell,Paint,Rust-Oleum,169.21,14,6,2025-05-10,Aisle 6,1015.26,101.53,0.4,Store-4,FW19,25,True,4.2
+1045,Exterior Paint - Satin,Paint,Rust-Oleum,108.22,99,35,2025-05-18,Aisle 27,3787.7,64.93,0.4,Store-4,FW19,44,True,4.2
+1046,Primer,Paint,Rust-Oleum,59.54,50,17,2025-05-21,Aisle 28,1012.18,35.72,0.4,Store-4,FW19,40,False,4.5
+1047,Spray Paint,Paint,Rust-Oleum,165.19,193,3,2025-05-15,Aisle 30,495.57,99.11,0.4,Store-4,FW19,27,False,1.9
+1048,Smart Thermostat,Home Automation,Nest,114.39,81,40,2025-05-15,Aisle 7,4575.6,68.63,0.4,Store-4,FW19,70,False,2.5
+1049,Security Camera,Home Automation,Nest,28.12,72,34,2025-05-18,Aisle 25,956.08,16.87,0.4,Store-4,FW19,51,True,3.8
+1050,Smart Lock,Home Automation,Nest,182.24,50,6,2025-05-12,Aisle 22,1093.44,109.34,0.4,Store-4,FW19,35,True,3.8
+1051,Doorbell Camera,Home Automation,Nest,129.27,110,6,2025-05-17,Aisle 16,775.62,77.56,0.4,Store-4,FW19,12,False,2.7
+1052,Smart Thermostat,Home Automation,Ring,18.92,54,42,2025-05-22,Aisle 30,794.64,11.35,0.4,Store-4,FW19,65,True,3.2
+1053,Security Camera,Home Automation,Ring,167.53,58,10,2025-05-12,Aisle 6,1675.3,100.52,0.4,Store-4,FW19,11,False,2.4
+1054,Smart Lock,Home Automation,Ring,205.22,67,20,2025-05-18,Aisle 30,4104.4,123.13,0.4,Store-4,FW19,28,False,4.1
+1055,Doorbell Camera,Home Automation,Ring,243.13,143,30,2025-05-17,Aisle 2,7293.9,145.88,0.4,Store-4,FW19,60,False,2.1
+1056,Smart Thermostat,Home Automation,Ecobee,161.51,45,28,2025-05-19,Aisle 14,4522.28,96.91,0.4,Store-4,FW19,41,True,1.6
+1057,Security Camera,Home Automation,Ecobee,142.4,99,3,2025-05-14,Aisle 12,427.2,85.44,0.4,Store-4,FW19,27,False,2.8
+1058,Smart Lock,Home Automation,Ecobee,131.88,169,47,2025-05-14,Aisle 30,6198.36,79.13,0.4,Store-4,FW19,73,False,2.6
+1059,Doorbell Camera,Home Automation,Ecobee,205.23,130,34,2025-05-17,Aisle 19,6977.82,123.14,0.4,Store-4,FW19,37,False,2.2
+1060,Vanity Top,Bath,Kohler,226.62,185,15,2025-05-09,Aisle 30,3399.3,135.97,0.4,Store-4,FW19,22,True,2.4
+1061,Toilet,Bath,Kohler,95.75,105,47,2025-05-13,Aisle 19,4500.25,57.45,0.4,Store-4,FW19,60,False,4.3
+1062,Shower Head,Bath,Kohler,102.9,165,45,2025-05-22,Aisle 22,4630.5,61.74,0.4,Store-4,FW19,59,False,4.6
+1063,Faucet,Bath,Kohler,230.67,187,35,2025-05-21,Aisle 29,8073.45,138.4,0.4,Store-4,FW19,48,True,2.2
+1064,Vanity Top,Bath,Moen,69.04,41,34,2025-05-15,Aisle 11,2347.36,41.42,0.4,Store-4,FW19,59,False,2.3
+1065,Toilet,Bath,Moen,204.66,119,40,2025-05-20,Aisle 25,8186.4,122.8,0.4,Store-4,FW19,66,False,4.0
+1066,Shower Head,Bath,Moen,216.71,30,30,2025-05-12,Aisle 21,6501.3,130.03,0.4,Store-4,FW19,45,False,4.5
+1067,Faucet,Bath,Moen,68.46,24,7,2025-05-19,Aisle 15,479.22,41.08,0.4,Store-4,FW19,23,False,2.8
+1068,Vanity Top,Bath,Delta,36.54,75,10,2025-05-22,Aisle 5,365.4,21.92,0.4,Store-4,FW19,21,False,1.9
+1069,Toilet,Bath,Delta,75.7,124,12,2025-05-11,Aisle 25,908.4,45.42,0.4,Store-4,FW19,40,True,2.0
+1070,Shower Head,Bath,Delta,8.77,172,7,2025-05-16,Aisle 18,61.39,5.26,0.4,Store-4,FW19,31,True,3.7
+1071,Faucet,Bath,Delta,147.14,131,14,2025-05-17,Aisle 1,2059.96,88.28,0.4,Store-4,FW19,26,False,3.9
+1072,Wood Fence Panel,Building Materials,Severe Weather,176.35,131,26,2025-05-21,Outside Yard,4585.1,105.81,0.4,Store-4,FW19,35,False,4.0
+1073,Concrete Mix,Building Materials,Severe Weather,98.28,16,32,2025-05-16,Outside Yard,3144.96,58.97,0.4,Store-4,FW19,41,True,1.9
+1074,Drywall Sheet,Building Materials,Severe Weather,43.78,141,23,2025-05-14,Outside Yard,1006.94,26.27,0.4,Store-4,FW19,29,True,4.4
+1075,Lumber,Building Materials,Severe Weather,179.52,121,50,2025-05-11,Outside Yard,8976.0,107.71,0.4,Store-4,FW19,55,False,3.0
+1076,Wood Fence Panel,Building Materials,Top Choice,49.29,121,20,2025-05-19,Outside Yard,985.8,29.57,0.4,Store-4,FW19,48,False,3.0
+1077,Concrete Mix,Building Materials,Top Choice,40.68,169,20,2025-05-20,Outside Yard,813.6,24.41,0.4,Store-4,FW19,22,True,4.6
+1078,Drywall Sheet,Building Materials,Top Choice,68.68,114,22,2025-05-16,Outside Yard,1510.96,41.21,0.4,Store-4,FW19,40,True,4.4
+1079,Lumber,Building Materials,Top Choice,235.53,171,18,2025-05-19,Outside Yard,4239.54,141.32,0.4,Store-4,FW19,28,False,2.4
+1080,Wood Fence Panel,Building Materials,TuffBlock,171.9,55,23,2025-05-21,Outside Yard,3953.7,103.14,0.4,Store-4,FW19,25,False,2.7
+1081,Concrete Mix,Building Materials,TuffBlock,120.02,1,48,2025-05-17,Outside Yard,5760.96,72.01,0.4,Store-4,FW19,70,True,3.3
+1082,Drywall Sheet,Building Materials,TuffBlock,184.42,68,50,2025-05-16,Outside Yard,9221.0,110.65,0.4,Store-4,FW19,72,False,1.5
+1083,Lumber,Building Materials,TuffBlock,215.24,140,8,2025-05-17,Outside Yard,1721.92,129.14,0.4,Store-4,FW19,24,True,4.7
+1084,Floor Tile,Flooring,Style Selections,206.64,85,39,2025-05-22,Aisle 22,8058.96,123.98,0.4,Store-4,FW19,68,True,2.2
+1085,Vinyl Plank,Flooring,Style Selections,116.21,188,35,2025-05-12,Aisle 16,4067.35,69.73,0.4,Store-4,FW19,40,True,2.7
+1086,Laminate Flooring,Flooring,Style Selections,52.55,196,6,2025-05-11,Aisle 28,315.3,31.53,0.4,Store-4,FW19,12,False,4.0
+1087,Carpet Tile,Flooring,Style Selections,232.9,159,33,2025-05-15,Aisle 2,7685.7,139.74,0.4,Store-4,FW19,37,False,4.1
+1088,Floor Tile,Flooring,Pergo,46.98,65,32,2025-05-16,Aisle 13,1503.36,28.19,0.4,Store-4,FW19,59,True,1.6
+1089,Vinyl Plank,Flooring,Pergo,79.91,148,12,2025-05-21,Aisle 29,958.92,47.95,0.4,Store-4,FW19,31,True,1.7
+1090,Laminate Flooring,Flooring,Pergo,30.08,3,6,2025-05-21,Aisle 18,180.48,18.05,0.4,Store-4,FW19,12,False,3.2
+1091,Carpet Tile,Flooring,Pergo,55.56,188,49,2025-05-11,Aisle 10,2722.44,33.34,0.4,Store-4,FW19,52,False,3.4
+1092,Floor Tile,Flooring,TrafficMaster,130.25,97,36,2025-05-15,Aisle 9,4689.0,78.15,0.4,Store-4,FW19,43,False,2.1
+1093,Vinyl Plank,Flooring,TrafficMaster,100.53,87,16,2025-05-15,Aisle 10,1608.48,60.32,0.4,Store-4,FW19,19,True,1.7
+1094,Laminate Flooring,Flooring,TrafficMaster,163.79,68,50,2025-05-15,Aisle 13,8189.5,98.27,0.4,Store-4,FW19,51,False,3.4
+1095,Carpet Tile,Flooring,TrafficMaster,60.2,162,20,2025-05-14,Aisle 11,1204.0,36.12,0.4,Store-4,FW19,21,True,3.0
+1096,Ceiling Fan,Fans,Honeywell,122.26,64,7,2025-05-15,Aisle 27,855.82,73.36,0.4,Store-4,FW19,23,True,4.6
+1097,Tower Fan,Fans,Honeywell,33.34,70,28,2025-05-22,Aisle 8,933.52,20.0,0.4,Store-4,FW19,44,False,2.7
+1098,Pedestal Fan,Fans,Honeywell,83.71,12,6,2025-05-18,Aisle 30,502.26,50.23,0.4,Store-4,FW19,8,True,3.8
+1099,Box Fan,Fans,Honeywell,119.55,98,41,2025-05-21,Aisle 11,4901.55,71.73,0.4,Store-4,FW19,59,True,4.0
+1100,Ceiling Fan,Fans,Harbor Breeze,227.64,37,33,2025-05-20,Aisle 13,7512.12,136.58,0.4,Store-4,FW19,36,False,3.9
+1101,Tower Fan,Fans,Harbor Breeze,84.01,104,6,2025-05-12,Aisle 19,504.06,50.41,0.4,Store-4,FW19,35,False,4.5
+1102,Pedestal Fan,Fans,Harbor Breeze,53.69,190,21,2025-05-15,Aisle 4,1127.49,32.21,0.4,Store-4,FW19,36,True,1.6
+1103,Box Fan,Fans,Harbor Breeze,71.8,90,49,2025-05-14,Aisle 19,3518.2,43.08,0.4,Store-4,FW19,73,False,2.6
+1104,Ceiling Fan,Fans,Hunter,149.33,68,46,2025-05-20,Aisle 5,6869.18,89.6,0.4,Store-4,FW19,75,True,2.0
+1105,Tower Fan,Fans,Hunter,32.29,10,34,2025-05-18,Aisle 12,1097.86,19.37,0.4,Store-4,FW19,62,False,4.7
+1106,Pedestal Fan,Fans,Hunter,232.51,186,15,2025-05-13,Aisle 18,3487.65,139.51,0.4,Store-4,FW19,25,False,3.9
+1107,Box Fan,Fans,Hunter,72.29,143,15,2025-05-19,Aisle 26,1084.35,43.37,0.4,Store-4,FW19,27,True,1.9
+1108,Lawn Fertilizer,Garden,Scotts,50.41,158,14,2025-05-19,Aisle 30,705.74,30.25,0.4,Store-4,FW19,38,True,1.9
+1109,Weed Killer,Garden,Scotts,192.8,3,16,2025-05-13,Aisle 20,3084.8,115.68,0.4,Store-4,FW19,17,False,3.8
+1110,Plant Food,Garden,Scotts,99.77,25,10,2025-05-21,Aisle 30,997.7,59.86,0.4,Store-4,FW19,24,False,3.8
+1111,Mulch Bag,Garden,Scotts,184.53,168,40,2025-05-22,Aisle 24,7381.2,110.72,0.4,Store-4,FW19,62,False,2.9
+1112,Lawn Fertilizer,Garden,Miracle-Gro,205.84,40,25,2025-05-15,Aisle 29,5146.0,123.5,0.4,Store-4,FW19,52,True,2.4
+1113,Weed Killer,Garden,Miracle-Gro,25.07,118,17,2025-05-21,Aisle 29,426.19,15.04,0.4,Store-4,FW19,43,False,4.0
+1114,Plant Food,Garden,Miracle-Gro,175.3,57,44,2025-05-15,Aisle 21,7713.2,105.18,0.4,Store-4,FW19,57,False,3.9
+1115,Mulch Bag,Garden,Miracle-Gro,47.49,128,19,2025-05-21,Aisle 8,902.31,28.49,0.4,Store-4,FW19,20,False,4.2
+1116,Lawn Fertilizer,Garden,Roundup,132.06,29,34,2025-05-22,Aisle 15,4490.04,79.24,0.4,Store-4,FW19,62,True,2.0
+1117,Weed Killer,Garden,Roundup,118.39,103,50,2025-05-12,Aisle 10,5919.5,71.03,0.4,Store-4,FW19,60,True,2.3
+1118,Plant Food,Garden,Roundup,137.26,7,35,2025-05-09,Aisle 6,4804.1,82.36,0.4,Store-4,FW19,49,False,3.9
+1119,Mulch Bag,Garden,Roundup,39.76,100,11,2025-05-09,Aisle 24,437.36,23.86,0.4,Store-4,FW19,14,True,3.3
+1000,Cordless Drill,Tools,DEWALT,124.74,68,40,2025-05-10,Aisle 16,4989.6,74.84,0.4,Store-5,FW19,42,True,4.5
+1001,Hammer Drill,Tools,DEWALT,244.94,121,41,2025-05-12,Aisle 26,10042.54,146.96,0.4,Store-5,FW19,48,True,2.8
+1002,Tool Set,Tools,DEWALT,100.65,66,42,2025-05-14,Aisle 2,4227.3,60.39,0.4,Store-5,FW19,59,True,3.2
+1003,Work Light,Tools,DEWALT,215.96,65,27,2025-05-22,Aisle 16,5830.92,129.58,0.4,Store-5,FW19,45,False,4.3
+1004,Cordless Drill,Tools,Milwaukee,143.8,30,49,2025-05-22,Aisle 27,7046.2,86.28,0.4,Store-5,FW19,79,True,2.9
+1005,Hammer Drill,Tools,Milwaukee,16.49,84,10,2025-05-17,Aisle 13,164.9,9.89,0.4,Store-5,FW19,34,True,3.5
+1006,Tool Set,Tools,Milwaukee,28.44,112,22,2025-05-13,Aisle 1,625.68,17.06,0.4,Store-5,FW19,25,False,3.3
+1007,Work Light,Tools,Milwaukee,81.46,66,39,2025-05-21,Aisle 24,3176.94,48.88,0.4,Store-5,FW19,56,True,1.7
+1008,Cordless Drill,Tools,Craftsman,154.73,32,12,2025-05-12,Aisle 23,1856.76,92.84,0.4,Store-5,FW19,23,False,1.6
+1009,Hammer Drill,Tools,Craftsman,138.29,107,28,2025-05-21,Aisle 3,3872.12,82.97,0.4,Store-5,FW19,48,True,4.1
+1010,Tool Set,Tools,Craftsman,200.29,157,20,2025-05-22,Aisle 3,4005.8,120.17,0.4,Store-5,FW19,49,False,2.7
+1011,Work Light,Tools,Craftsman,125.89,7,28,2025-05-16,Aisle 14,3524.92,75.53,0.4,Store-5,FW19,34,False,2.0
+1012,LED Ceiling Light,Lighting,GE,82.19,136,1,2025-05-17,Aisle 29,82.19,49.31,0.4,Store-5,FW19,30,False,3.3
+1013,Smart Bulb,Lighting,GE,105.2,160,43,2025-05-13,Aisle 2,4523.6,63.12,0.4,Store-5,FW19,47,True,3.4
+1014,Wall Sconce,Lighting,GE,22.15,61,22,2025-05-18,Aisle 13,487.3,13.29,0.4,Store-5,FW19,32,True,4.1
+1015,Chandelier,Lighting,GE,199.69,6,8,2025-05-15,Aisle 27,1597.52,119.81,0.4,Store-5,FW19,9,False,2.7
+1016,LED Ceiling Light,Lighting,Philips,179.95,129,19,2025-05-21,Aisle 2,3419.05,107.97,0.4,Store-5,FW19,24,False,1.6
+1017,Smart Bulb,Lighting,Philips,194.06,131,2,2025-05-18,Aisle 7,388.12,116.44,0.4,Store-5,FW19,18,True,3.8
+1018,Wall Sconce,Lighting,Philips,192.25,163,31,2025-05-12,Aisle 6,5959.75,115.35,0.4,Store-5,FW19,57,False,2.3
+1019,Chandelier,Lighting,Philips,164.48,193,31,2025-05-11,Aisle 12,5098.88,98.69,0.4,Store-5,FW19,50,False,3.7
+1020,LED Ceiling Light,Lighting,Commercial Electric,171.98,112,19,2025-05-09,Aisle 24,3267.62,103.19,0.4,Store-5,FW19,39,True,3.6
+1021,Smart Bulb,Lighting,Commercial Electric,236.27,106,12,2025-05-10,Aisle 2,2835.24,141.76,0.4,Store-5,FW19,41,True,2.7
+1022,Wall Sconce,Lighting,Commercial Electric,211.16,100,30,2025-05-19,Aisle 27,6334.8,126.7,0.4,Store-5,FW19,51,False,2.9
+1023,Chandelier,Lighting,Commercial Electric,224.53,38,38,2025-05-14,Aisle 9,8532.14,134.72,0.4,Store-5,FW19,45,True,1.9
+1024,Garden Hose,Outdoors,Flexon,190.38,81,35,2025-05-15,Aisle 17,6663.3,114.23,0.4,Store-5,FW19,50,False,3.0
+1025,Sprinkler,Outdoors,Flexon,107.61,22,24,2025-05-14,Aisle 18,2582.64,64.57,0.4,Store-5,FW19,44,True,1.8
+1026,Outdoor Light,Outdoors,Flexon,74.96,28,0,2025-05-14,Aisle 6,0.0,44.98,0.4,Store-5,FW19,11,True,4.4
+1027,Patio Heater,Outdoors,Flexon,134.72,148,14,2025-05-15,Aisle 25,1886.08,80.83,0.4,Store-5,FW19,42,True,2.0
+1028,Garden Hose,Outdoors,Rain Bird,167.8,11,26,2025-05-12,Aisle 6,4362.8,100.68,0.4,Store-5,FW19,27,False,3.4
+1029,Sprinkler,Outdoors,Rain Bird,167.52,111,43,2025-05-09,Aisle 11,7203.36,100.51,0.4,Store-5,FW19,49,True,3.7
+1030,Outdoor Light,Outdoors,Rain Bird,183.44,112,30,2025-05-13,Aisle 30,5503.2,110.06,0.4,Store-5,FW19,46,False,4.4
+1031,Patio Heater,Outdoors,Rain Bird,213.39,33,3,2025-05-22,Aisle 7,640.17,128.03,0.4,Store-5,FW19,23,True,2.9
+1032,Garden Hose,Outdoors,Ortho,64.24,190,23,2025-05-11,Aisle 16,1477.52,38.54,0.4,Store-5,FW19,46,True,2.5
+1033,Sprinkler,Outdoors,Ortho,97.37,42,36,2025-05-20,Aisle 10,3505.32,58.42,0.4,Store-5,FW19,60,False,3.9
+1034,Outdoor Light,Outdoors,Ortho,29.14,189,50,2025-05-09,Aisle 15,1457.0,17.48,0.4,Store-5,FW19,68,False,3.1
+1035,Patio Heater,Outdoors,Ortho,199.99,145,23,2025-05-21,Aisle 10,4599.77,119.99,0.4,Store-5,FW19,24,True,1.8
+1036,Interior Paint - Eggshell,Paint,Valspar,112.39,189,24,2025-05-17,Aisle 11,2697.36,67.43,0.4,Store-5,FW19,43,False,2.5
+1037,Exterior Paint - Satin,Paint,Valspar,46.53,142,49,2025-05-11,Aisle 25,2279.97,27.92,0.4,Store-5,FW19,76,True,2.5
+1038,Primer,Paint,Valspar,162.01,75,7,2025-05-09,Aisle 18,1134.07,97.21,0.4,Store-5,FW19,29,False,3.9
+1039,Spray Paint,Paint,Valspar,18.03,132,35,2025-05-21,Aisle 26,631.05,10.82,0.4,Store-5,FW19,55,False,4.4
+1040,Interior Paint - Eggshell,Paint,HGTV Home,234.79,185,47,2025-05-11,Aisle 20,11035.13,140.87,0.4,Store-5,FW19,70,False,1.7
+1041,Exterior Paint - Satin,Paint,HGTV Home,68.79,108,36,2025-05-11,Aisle 28,2476.44,41.27,0.4,Store-5,FW19,65,True,2.3
+1042,Primer,Paint,HGTV Home,134.03,9,39,2025-05-15,Aisle 25,5227.17,80.42,0.4,Store-5,FW19,50,True,2.5
+1043,Spray Paint,Paint,HGTV Home,233.03,21,21,2025-05-22,Aisle 15,4893.63,139.82,0.4,Store-5,FW19,47,False,1.6
+1044,Interior Paint - Eggshell,Paint,Rust-Oleum,202.15,192,41,2025-05-13,Aisle 13,8288.15,121.29,0.4,Store-5,FW19,43,False,4.1
+1045,Exterior Paint - Satin,Paint,Rust-Oleum,5.72,110,27,2025-05-14,Aisle 7,154.44,3.43,0.4,Store-5,FW19,44,True,2.3
+1046,Primer,Paint,Rust-Oleum,13.42,9,16,2025-05-10,Aisle 24,214.72,8.05,0.4,Store-5,FW19,32,False,3.3
+1047,Spray Paint,Paint,Rust-Oleum,47.52,198,9,2025-05-22,Aisle 24,427.68,28.51,0.4,Store-5,FW19,13,True,4.5
+1048,Smart Thermostat,Home Automation,Nest,246.25,21,5,2025-05-09,Aisle 3,1231.25,147.75,0.4,Store-5,FW19,7,True,2.5
+1049,Security Camera,Home Automation,Nest,204.55,193,12,2025-05-11,Aisle 4,2454.6,122.73,0.4,Store-5,FW19,41,False,1.5
+1050,Smart Lock,Home Automation,Nest,229.16,163,41,2025-05-12,Aisle 29,9395.56,137.5,0.4,Store-5,FW19,69,True,2.9
+1051,Doorbell Camera,Home Automation,Nest,149.13,196,19,2025-05-10,Aisle 29,2833.47,89.48,0.4,Store-5,FW19,48,False,1.5
+1052,Smart Thermostat,Home Automation,Ring,108.1,155,10,2025-05-21,Aisle 7,1081.0,64.86,0.4,Store-5,FW19,37,False,4.9
+1053,Security Camera,Home Automation,Ring,117.02,13,20,2025-05-20,Aisle 7,2340.4,70.21,0.4,Store-5,FW19,45,True,2.6
+1054,Smart Lock,Home Automation,Ring,32.49,113,48,2025-05-09,Aisle 12,1559.52,19.49,0.4,Store-5,FW19,57,True,2.2
+1055,Doorbell Camera,Home Automation,Ring,7.28,17,33,2025-05-10,Aisle 23,240.24,4.37,0.4,Store-5,FW19,34,True,2.0
+1056,Smart Thermostat,Home Automation,Ecobee,248.48,57,5,2025-05-14,Aisle 6,1242.4,149.09,0.4,Store-5,FW19,13,False,2.4
+1057,Security Camera,Home Automation,Ecobee,162.98,38,32,2025-05-20,Aisle 10,5215.36,97.79,0.4,Store-5,FW19,55,True,4.2
+1058,Smart Lock,Home Automation,Ecobee,47.38,69,17,2025-05-09,Aisle 30,805.46,28.43,0.4,Store-5,FW19,39,True,1.9
+1059,Doorbell Camera,Home Automation,Ecobee,98.05,31,29,2025-05-13,Aisle 14,2843.45,58.83,0.4,Store-5,FW19,56,True,3.2
+1060,Vanity Top,Bath,Kohler,231.86,55,7,2025-05-10,Aisle 30,1623.02,139.12,0.4,Store-5,FW19,12,False,4.8
+1061,Toilet,Bath,Kohler,246.71,200,15,2025-05-22,Aisle 14,3700.65,148.03,0.4,Store-5,FW19,38,True,3.7
+1062,Shower Head,Bath,Kohler,172.68,53,46,2025-05-18,Aisle 22,7943.28,103.61,0.4,Store-5,FW19,55,True,2.7
+1063,Faucet,Bath,Kohler,117.06,80,33,2025-05-22,Aisle 10,3862.98,70.24,0.4,Store-5,FW19,63,True,2.7
+1064,Vanity Top,Bath,Moen,26.45,142,42,2025-05-09,Aisle 5,1110.9,15.87,0.4,Store-5,FW19,61,True,3.4
+1065,Toilet,Bath,Moen,209.12,39,18,2025-05-13,Aisle 26,3764.16,125.47,0.4,Store-5,FW19,29,False,1.6
+1066,Shower Head,Bath,Moen,122.45,160,0,2025-05-09,Aisle 9,0.0,73.47,0.4,Store-5,FW19,4,True,3.9
+1067,Faucet,Bath,Moen,82.9,180,43,2025-05-12,Aisle 30,3564.7,49.74,0.4,Store-5,FW19,60,True,4.2
+1068,Vanity Top,Bath,Delta,65.83,156,2,2025-05-14,Aisle 9,131.66,39.5,0.4,Store-5,FW19,27,False,2.5
+1069,Toilet,Bath,Delta,182.1,98,18,2025-05-19,Aisle 19,3277.8,109.26,0.4,Store-5,FW19,34,False,1.8
+1070,Shower Head,Bath,Delta,123.96,62,12,2025-05-15,Aisle 18,1487.52,74.38,0.4,Store-5,FW19,31,True,5.0
+1071,Faucet,Bath,Delta,215.93,26,0,2025-05-15,Aisle 16,0.0,129.56,0.4,Store-5,FW19,17,True,3.8
+1072,Wood Fence Panel,Building Materials,Severe Weather,134.71,83,34,2025-05-10,Outside Yard,4580.14,80.83,0.4,Store-5,FW19,53,False,1.9
+1073,Concrete Mix,Building Materials,Severe Weather,203.95,75,25,2025-05-15,Outside Yard,5098.75,122.37,0.4,Store-5,FW19,27,True,4.0
+1074,Drywall Sheet,Building Materials,Severe Weather,238.26,122,34,2025-05-13,Outside Yard,8100.84,142.96,0.4,Store-5,FW19,36,False,3.8
+1075,Lumber,Building Materials,Severe Weather,244.36,144,43,2025-05-19,Outside Yard,10507.48,146.62,0.4,Store-5,FW19,52,True,1.7
+1076,Wood Fence Panel,Building Materials,Top Choice,166.64,157,2,2025-05-21,Outside Yard,333.28,99.98,0.4,Store-5,FW19,28,False,2.3
+1077,Concrete Mix,Building Materials,Top Choice,39.55,13,19,2025-05-19,Outside Yard,751.45,23.73,0.4,Store-5,FW19,38,False,3.7
+1078,Drywall Sheet,Building Materials,Top Choice,17.06,53,1,2025-05-10,Outside Yard,17.06,10.24,0.4,Store-5,FW19,1,False,4.2
+1079,Lumber,Building Materials,Top Choice,8.32,164,3,2025-05-20,Outside Yard,24.96,4.99,0.4,Store-5,FW19,19,True,3.8
+1080,Wood Fence Panel,Building Materials,TuffBlock,246.93,130,18,2025-05-19,Outside Yard,4444.74,148.16,0.4,Store-5,FW19,23,True,2.5
+1081,Concrete Mix,Building Materials,TuffBlock,12.44,158,3,2025-05-21,Outside Yard,37.32,7.46,0.4,Store-5,FW19,25,False,3.8
+1082,Drywall Sheet,Building Materials,TuffBlock,30.92,174,20,2025-05-20,Outside Yard,618.4,18.55,0.4,Store-5,FW19,48,False,2.0
+1083,Lumber,Building Materials,TuffBlock,167.06,20,50,2025-05-19,Outside Yard,8353.0,100.24,0.4,Store-5,FW19,55,False,4.9
+1084,Floor Tile,Flooring,Style Selections,140.71,20,34,2025-05-17,Aisle 16,4784.14,84.43,0.4,Store-5,FW19,34,True,2.5
+1085,Vinyl Plank,Flooring,Style Selections,181.75,188,34,2025-05-10,Aisle 16,6179.5,109.05,0.4,Store-5,FW19,36,False,3.0
+1086,Laminate Flooring,Flooring,Style Selections,124.25,133,11,2025-05-10,Aisle 8,1366.75,74.55,0.4,Store-5,FW19,18,False,4.1
+1087,Carpet Tile,Flooring,Style Selections,84.84,93,49,2025-05-20,Aisle 25,4157.16,50.9,0.4,Store-5,FW19,61,True,4.6
+1088,Floor Tile,Flooring,Pergo,164.07,96,26,2025-05-19,Aisle 16,4265.82,98.44,0.4,Store-5,FW19,46,False,5.0
+1089,Vinyl Plank,Flooring,Pergo,54.37,158,20,2025-05-13,Aisle 1,1087.4,32.62,0.4,Store-5,FW19,22,False,4.2
+1090,Laminate Flooring,Flooring,Pergo,101.6,15,36,2025-05-19,Aisle 30,3657.6,60.96,0.4,Store-5,FW19,58,False,4.4
+1091,Carpet Tile,Flooring,Pergo,155.51,88,45,2025-05-09,Aisle 17,6997.95,93.31,0.4,Store-5,FW19,47,True,2.0
+1092,Floor Tile,Flooring,TrafficMaster,75.27,188,39,2025-05-10,Aisle 8,2935.53,45.16,0.4,Store-5,FW19,69,False,4.3
+1093,Vinyl Plank,Flooring,TrafficMaster,220.27,54,6,2025-05-14,Aisle 23,1321.62,132.16,0.4,Store-5,FW19,31,False,4.2
+1094,Laminate Flooring,Flooring,TrafficMaster,102.66,184,18,2025-05-22,Aisle 29,1847.88,61.6,0.4,Store-5,FW19,36,True,3.5
+1095,Carpet Tile,Flooring,TrafficMaster,212.47,127,46,2025-05-14,Aisle 23,9773.62,127.48,0.4,Store-5,FW19,50,False,4.9
+1096,Ceiling Fan,Fans,Honeywell,157.26,116,22,2025-05-17,Aisle 21,3459.72,94.36,0.4,Store-5,FW19,28,False,3.7
+1097,Tower Fan,Fans,Honeywell,124.79,149,1,2025-05-16,Aisle 3,124.79,74.87,0.4,Store-5,FW19,9,True,4.1
+1098,Pedestal Fan,Fans,Honeywell,110.55,197,2,2025-05-10,Aisle 16,221.1,66.33,0.4,Store-5,FW19,32,True,4.7
+1099,Box Fan,Fans,Honeywell,107.96,192,33,2025-05-18,Aisle 26,3562.68,64.78,0.4,Store-5,FW19,47,True,3.2
+1100,Ceiling Fan,Fans,Harbor Breeze,133.46,166,20,2025-05-20,Aisle 30,2669.2,80.08,0.4,Store-5,FW19,31,False,1.8
+1101,Tower Fan,Fans,Harbor Breeze,47.77,67,17,2025-05-14,Aisle 27,812.09,28.66,0.4,Store-5,FW19,25,True,2.4
+1102,Pedestal Fan,Fans,Harbor Breeze,55.63,187,33,2025-05-18,Aisle 28,1835.79,33.38,0.4,Store-5,FW19,33,True,4.8
+1103,Box Fan,Fans,Harbor Breeze,240.26,33,42,2025-05-22,Aisle 24,10090.92,144.16,0.4,Store-5,FW19,59,True,3.6
+1104,Ceiling Fan,Fans,Hunter,91.92,148,39,2025-05-16,Aisle 12,3584.88,55.15,0.4,Store-5,FW19,39,False,4.3
+1105,Tower Fan,Fans,Hunter,72.06,189,12,2025-05-14,Aisle 18,864.72,43.24,0.4,Store-5,FW19,29,False,2.0
+1106,Pedestal Fan,Fans,Hunter,227.1,50,0,2025-05-19,Aisle 8,0.0,136.26,0.4,Store-5,FW19,13,True,2.3
+1107,Box Fan,Fans,Hunter,71.31,67,34,2025-05-20,Aisle 25,2424.54,42.79,0.4,Store-5,FW19,34,True,4.7
+1108,Lawn Fertilizer,Garden,Scotts,181.79,12,19,2025-05-16,Aisle 22,3454.01,109.07,0.4,Store-5,FW19,19,False,2.1
+1109,Weed Killer,Garden,Scotts,172.78,53,22,2025-05-20,Aisle 2,3801.16,103.67,0.4,Store-5,FW19,49,True,2.1
+1110,Plant Food,Garden,Scotts,228.1,3,40,2025-05-15,Aisle 4,9124.0,136.86,0.4,Store-5,FW19,40,False,3.4
+1111,Mulch Bag,Garden,Scotts,103.27,194,16,2025-05-10,Aisle 8,1652.32,61.96,0.4,Store-5,FW19,46,True,2.4
+1112,Lawn Fertilizer,Garden,Miracle-Gro,156.0,192,50,2025-05-21,Aisle 6,7800.0,93.6,0.4,Store-5,FW19,50,True,5.0
+1113,Weed Killer,Garden,Miracle-Gro,192.99,156,40,2025-05-21,Aisle 9,7719.6,115.79,0.4,Store-5,FW19,44,True,2.2
+1114,Plant Food,Garden,Miracle-Gro,123.82,142,33,2025-05-12,Aisle 15,4086.06,74.29,0.4,Store-5,FW19,40,False,1.6
+1115,Mulch Bag,Garden,Miracle-Gro,220.14,118,16,2025-05-13,Aisle 9,3522.24,132.08,0.4,Store-5,FW19,31,True,1.6
+1116,Lawn Fertilizer,Garden,Roundup,167.31,4,29,2025-05-09,Aisle 4,4851.99,100.39,0.4,Store-5,FW19,29,False,4.8
+1117,Weed Killer,Garden,Roundup,46.6,134,42,2025-05-19,Aisle 21,1957.2,27.96,0.4,Store-5,FW19,47,True,4.2
+1118,Plant Food,Garden,Roundup,157.74,170,5,2025-05-18,Aisle 20,788.7,94.64,0.4,Store-5,FW19,13,True,4.3
+1119,Mulch Bag,Garden,Roundup,154.08,78,43,2025-05-16,Aisle 1,6625.44,92.45,0.4,Store-5,FW19,44,True,4.4
+1000,Cordless Drill,Tools,DEWALT,67.88,169,37,2025-05-14,Aisle 26,2511.56,40.73,0.4,Store-6,FW19,47,True,4.6
+1001,Hammer Drill,Tools,DEWALT,145.29,165,38,2025-05-14,Aisle 12,5521.02,87.17,0.4,Store-6,FW19,58,True,3.4
+1002,Tool Set,Tools,DEWALT,235.5,154,26,2025-05-10,Aisle 12,6123.0,141.3,0.4,Store-6,FW19,45,True,3.3
+1003,Work Light,Tools,DEWALT,181.88,189,19,2025-05-12,Aisle 25,3455.72,109.13,0.4,Store-6,FW19,48,True,3.4
+1004,Cordless Drill,Tools,Milwaukee,156.9,66,17,2025-05-11,Aisle 22,2667.3,94.14,0.4,Store-6,FW19,46,True,4.0
+1005,Hammer Drill,Tools,Milwaukee,249.35,32,31,2025-05-12,Aisle 25,7729.85,149.61,0.4,Store-6,FW19,61,True,3.1
+1006,Tool Set,Tools,Milwaukee,105.7,125,16,2025-05-17,Aisle 26,1691.2,63.42,0.4,Store-6,FW19,22,False,2.5
+1007,Work Light,Tools,Milwaukee,227.28,21,16,2025-05-11,Aisle 27,3636.48,136.37,0.4,Store-6,FW19,16,False,3.2
+1008,Cordless Drill,Tools,Craftsman,166.36,67,38,2025-05-18,Aisle 28,6321.68,99.82,0.4,Store-6,FW19,58,False,3.7
+1009,Hammer Drill,Tools,Craftsman,207.41,18,10,2025-05-15,Aisle 23,2074.1,124.45,0.4,Store-6,FW19,29,True,2.7
+1010,Tool Set,Tools,Craftsman,118.75,48,41,2025-05-12,Aisle 5,4868.75,71.25,0.4,Store-6,FW19,63,True,4.9
+1011,Work Light,Tools,Craftsman,99.52,175,40,2025-05-20,Aisle 11,3980.8,59.71,0.4,Store-6,FW19,67,True,4.3
+1012,LED Ceiling Light,Lighting,GE,85.66,198,30,2025-05-20,Aisle 19,2569.8,51.4,0.4,Store-6,FW19,31,True,1.7
+1013,Smart Bulb,Lighting,GE,170.71,181,42,2025-05-19,Aisle 27,7169.82,102.43,0.4,Store-6,FW19,61,False,4.1
+1014,Wall Sconce,Lighting,GE,121.59,55,43,2025-05-20,Aisle 22,5228.37,72.95,0.4,Store-6,FW19,64,False,2.2
+1015,Chandelier,Lighting,GE,244.6,99,48,2025-05-16,Aisle 14,11740.8,146.76,0.4,Store-6,FW19,74,False,1.6
+1016,LED Ceiling Light,Lighting,Philips,143.42,160,22,2025-05-13,Aisle 22,3155.24,86.05,0.4,Store-6,FW19,39,False,4.5
+1017,Smart Bulb,Lighting,Philips,247.68,56,40,2025-05-13,Aisle 4,9907.2,148.61,0.4,Store-6,FW19,40,True,4.2
+1018,Wall Sconce,Lighting,Philips,140.51,16,48,2025-05-12,Aisle 17,6744.48,84.31,0.4,Store-6,FW19,67,False,3.7
+1019,Chandelier,Lighting,Philips,37.84,103,44,2025-05-16,Aisle 27,1664.96,22.7,0.4,Store-6,FW19,61,True,2.1
+1020,LED Ceiling Light,Lighting,Commercial Electric,30.57,76,23,2025-05-13,Aisle 29,703.11,18.34,0.4,Store-6,FW19,50,False,2.3
+1021,Smart Bulb,Lighting,Commercial Electric,115.49,104,0,2025-05-11,Aisle 10,0.0,69.29,0.4,Store-6,FW19,8,True,3.8
+1022,Wall Sconce,Lighting,Commercial Electric,187.15,61,17,2025-05-17,Aisle 30,3181.55,112.29,0.4,Store-6,FW19,28,False,3.2
+1023,Chandelier,Lighting,Commercial Electric,223.24,103,26,2025-05-19,Aisle 15,5804.24,133.94,0.4,Store-6,FW19,44,True,4.4
+1024,Garden Hose,Outdoors,Flexon,54.4,47,34,2025-05-09,Aisle 14,1849.6,32.64,0.4,Store-6,FW19,34,False,2.9
+1025,Sprinkler,Outdoors,Flexon,97.13,128,27,2025-05-17,Aisle 9,2622.51,58.28,0.4,Store-6,FW19,29,True,2.6
+1026,Outdoor Light,Outdoors,Flexon,128.86,28,4,2025-05-18,Aisle 28,515.44,77.32,0.4,Store-6,FW19,30,True,4.6
+1027,Patio Heater,Outdoors,Flexon,208.05,88,35,2025-05-16,Aisle 13,7281.75,124.83,0.4,Store-6,FW19,47,False,4.1
+1028,Garden Hose,Outdoors,Rain Bird,83.44,199,47,2025-05-15,Aisle 26,3921.68,50.06,0.4,Store-6,FW19,48,False,1.9
+1029,Sprinkler,Outdoors,Rain Bird,92.95,100,6,2025-05-14,Aisle 28,557.7,55.77,0.4,Store-6,FW19,36,False,2.7
+1030,Outdoor Light,Outdoors,Rain Bird,128.81,76,0,2025-05-09,Aisle 15,0.0,77.29,0.4,Store-6,FW19,5,False,4.1
+1031,Patio Heater,Outdoors,Rain Bird,193.55,12,7,2025-05-09,Aisle 9,1354.85,116.13,0.4,Store-6,FW19,13,True,4.7
+1032,Garden Hose,Outdoors,Ortho,69.17,59,20,2025-05-16,Aisle 24,1383.4,41.5,0.4,Store-6,FW19,40,True,2.8
+1033,Sprinkler,Outdoors,Ortho,225.43,46,17,2025-05-20,Aisle 24,3832.31,135.26,0.4,Store-6,FW19,20,True,3.5
+1034,Outdoor Light,Outdoors,Ortho,148.99,139,9,2025-05-11,Aisle 3,1340.91,89.39,0.4,Store-6,FW19,26,False,4.8
+1035,Patio Heater,Outdoors,Ortho,29.07,14,41,2025-05-18,Aisle 2,1191.87,17.44,0.4,Store-6,FW19,66,True,3.8
+1036,Interior Paint - Eggshell,Paint,Valspar,50.03,160,5,2025-05-17,Aisle 27,250.15,30.02,0.4,Store-6,FW19,33,True,3.8
+1037,Exterior Paint - Satin,Paint,Valspar,23.5,193,37,2025-05-22,Aisle 13,869.5,14.1,0.4,Store-6,FW19,39,True,2.2
+1038,Primer,Paint,Valspar,16.06,28,46,2025-05-11,Aisle 4,738.76,9.64,0.4,Store-6,FW19,71,False,4.7
+1039,Spray Paint,Paint,Valspar,47.28,25,11,2025-05-10,Aisle 8,520.08,28.37,0.4,Store-6,FW19,12,False,1.9
+1040,Interior Paint - Eggshell,Paint,HGTV Home,210.41,75,9,2025-05-17,Aisle 27,1893.69,126.25,0.4,Store-6,FW19,11,True,4.8
+1041,Exterior Paint - Satin,Paint,HGTV Home,249.73,35,41,2025-05-14,Aisle 17,10238.93,149.84,0.4,Store-6,FW19,70,False,5.0
+1042,Primer,Paint,HGTV Home,133.28,148,20,2025-05-18,Aisle 5,2665.6,79.97,0.4,Store-6,FW19,32,True,2.7
+1043,Spray Paint,Paint,HGTV Home,172.49,181,48,2025-05-14,Aisle 10,8279.52,103.49,0.4,Store-6,FW19,78,True,4.2
+1044,Interior Paint - Eggshell,Paint,Rust-Oleum,68.5,46,12,2025-05-19,Aisle 19,822.0,41.1,0.4,Store-6,FW19,38,False,3.1
+1045,Exterior Paint - Satin,Paint,Rust-Oleum,214.68,57,43,2025-05-10,Aisle 10,9231.24,128.81,0.4,Store-6,FW19,43,False,2.0
+1046,Primer,Paint,Rust-Oleum,77.56,191,23,2025-05-22,Aisle 11,1783.88,46.54,0.4,Store-6,FW19,44,False,4.8
+1047,Spray Paint,Paint,Rust-Oleum,122.74,129,36,2025-05-11,Aisle 5,4418.64,73.64,0.4,Store-6,FW19,65,True,5.0
+1048,Smart Thermostat,Home Automation,Nest,97.9,153,25,2025-05-18,Aisle 25,2447.5,58.74,0.4,Store-6,FW19,34,True,4.6
+1049,Security Camera,Home Automation,Nest,105.29,161,23,2025-05-12,Aisle 15,2421.67,63.17,0.4,Store-6,FW19,40,True,4.3
+1050,Smart Lock,Home Automation,Nest,248.68,139,6,2025-05-19,Aisle 1,1492.08,149.21,0.4,Store-6,FW19,34,True,3.5
+1051,Doorbell Camera,Home Automation,Nest,88.28,83,27,2025-05-11,Aisle 2,2383.56,52.97,0.4,Store-6,FW19,35,False,4.3
+1052,Smart Thermostat,Home Automation,Ring,192.56,125,26,2025-05-12,Aisle 10,5006.56,115.54,0.4,Store-6,FW19,31,False,4.2
+1053,Security Camera,Home Automation,Ring,116.86,48,46,2025-05-22,Aisle 30,5375.56,70.12,0.4,Store-6,FW19,46,False,2.2
+1054,Smart Lock,Home Automation,Ring,52.23,2,40,2025-05-22,Aisle 17,2089.2,31.34,0.4,Store-6,FW19,55,False,3.3
+1055,Doorbell Camera,Home Automation,Ring,72.83,140,7,2025-05-11,Aisle 12,509.81,43.7,0.4,Store-6,FW19,20,False,2.0
+1056,Smart Thermostat,Home Automation,Ecobee,80.28,71,2,2025-05-20,Aisle 5,160.56,48.17,0.4,Store-6,FW19,22,True,4.6
+1057,Security Camera,Home Automation,Ecobee,71.91,97,10,2025-05-22,Aisle 27,719.1,43.15,0.4,Store-6,FW19,17,True,3.2
+1058,Smart Lock,Home Automation,Ecobee,91.31,94,0,2025-05-20,Aisle 19,0.0,54.79,0.4,Store-6,FW19,19,False,3.8
+1059,Doorbell Camera,Home Automation,Ecobee,14.66,53,18,2025-05-16,Aisle 7,263.88,8.8,0.4,Store-6,FW19,45,True,4.4
+1060,Vanity Top,Bath,Kohler,137.92,172,49,2025-05-10,Aisle 27,6758.08,82.75,0.4,Store-6,FW19,64,False,2.1
+1061,Toilet,Bath,Kohler,69.58,125,14,2025-05-14,Aisle 28,974.12,41.75,0.4,Store-6,FW19,19,False,4.1
+1062,Shower Head,Bath,Kohler,99.34,135,28,2025-05-10,Aisle 23,2781.52,59.6,0.4,Store-6,FW19,53,False,2.9
+1063,Faucet,Bath,Kohler,18.12,116,32,2025-05-21,Aisle 20,579.84,10.87,0.4,Store-6,FW19,53,True,3.7
+1064,Vanity Top,Bath,Moen,181.41,65,3,2025-05-19,Aisle 2,544.23,108.85,0.4,Store-6,FW19,15,True,3.1
+1065,Toilet,Bath,Moen,186.47,55,0,2025-05-16,Aisle 2,0.0,111.88,0.4,Store-6,FW19,3,True,1.5
+1066,Shower Head,Bath,Moen,241.75,115,20,2025-05-14,Aisle 17,4835.0,145.05,0.4,Store-6,FW19,48,True,3.2
+1067,Faucet,Bath,Moen,116.22,149,25,2025-05-22,Aisle 26,2905.5,69.73,0.4,Store-6,FW19,54,False,3.9
+1068,Vanity Top,Bath,Delta,49.78,36,41,2025-05-20,Aisle 20,2040.98,29.87,0.4,Store-6,FW19,68,True,2.6
+1069,Toilet,Bath,Delta,59.09,42,38,2025-05-13,Aisle 22,2245.42,35.45,0.4,Store-6,FW19,51,True,4.0
+1070,Shower Head,Bath,Delta,30.21,28,6,2025-05-10,Aisle 14,181.26,18.13,0.4,Store-6,FW19,18,True,3.8
+1071,Faucet,Bath,Delta,91.19,48,49,2025-05-16,Aisle 1,4468.31,54.71,0.4,Store-6,FW19,55,True,2.9
+1072,Wood Fence Panel,Building Materials,Severe Weather,147.01,57,31,2025-05-18,Outside Yard,4557.31,88.21,0.4,Store-6,FW19,47,False,4.4
+1073,Concrete Mix,Building Materials,Severe Weather,55.1,31,25,2025-05-18,Outside Yard,1377.5,33.06,0.4,Store-6,FW19,43,False,2.8
+1074,Drywall Sheet,Building Materials,Severe Weather,144.06,154,34,2025-05-13,Outside Yard,4898.04,86.44,0.4,Store-6,FW19,49,True,3.3
+1075,Lumber,Building Materials,Severe Weather,19.41,145,29,2025-05-17,Outside Yard,562.89,11.65,0.4,Store-6,FW19,51,False,3.9
+1076,Wood Fence Panel,Building Materials,Top Choice,165.3,157,48,2025-05-16,Outside Yard,7934.4,99.18,0.4,Store-6,FW19,62,True,3.8
+1077,Concrete Mix,Building Materials,Top Choice,193.52,147,15,2025-05-16,Outside Yard,2902.8,116.11,0.4,Store-6,FW19,16,True,3.1
+1078,Drywall Sheet,Building Materials,Top Choice,26.91,198,24,2025-05-16,Outside Yard,645.84,16.15,0.4,Store-6,FW19,44,True,2.2
+1079,Lumber,Building Materials,Top Choice,109.29,20,47,2025-05-09,Outside Yard,5136.63,65.57,0.4,Store-6,FW19,56,False,2.6
+1080,Wood Fence Panel,Building Materials,TuffBlock,53.61,177,37,2025-05-21,Outside Yard,1983.57,32.17,0.4,Store-6,FW19,66,False,3.6
+1081,Concrete Mix,Building Materials,TuffBlock,236.61,66,45,2025-05-15,Outside Yard,10647.45,141.97,0.4,Store-6,FW19,47,True,2.3
+1082,Drywall Sheet,Building Materials,TuffBlock,196.39,34,8,2025-05-20,Outside Yard,1571.12,117.83,0.4,Store-6,FW19,20,True,3.8
+1083,Lumber,Building Materials,TuffBlock,137.94,59,10,2025-05-19,Outside Yard,1379.4,82.76,0.4,Store-6,FW19,40,True,2.3
+1084,Floor Tile,Flooring,Style Selections,96.79,106,31,2025-05-19,Aisle 7,3000.49,58.07,0.4,Store-6,FW19,53,False,2.8
+1085,Vinyl Plank,Flooring,Style Selections,40.06,68,29,2025-05-21,Aisle 21,1161.74,24.04,0.4,Store-6,FW19,43,False,4.5
+1086,Laminate Flooring,Flooring,Style Selections,66.21,65,17,2025-05-09,Aisle 22,1125.57,39.73,0.4,Store-6,FW19,42,True,4.3
+1087,Carpet Tile,Flooring,Style Selections,177.16,44,43,2025-05-21,Aisle 5,7617.88,106.3,0.4,Store-6,FW19,71,False,2.9
+1088,Floor Tile,Flooring,Pergo,17.12,111,4,2025-05-21,Aisle 13,68.48,10.27,0.4,Store-6,FW19,5,False,4.3
+1089,Vinyl Plank,Flooring,Pergo,113.66,198,10,2025-05-09,Aisle 10,1136.6,68.2,0.4,Store-6,FW19,14,False,3.7
+1090,Laminate Flooring,Flooring,Pergo,189.72,186,5,2025-05-20,Aisle 24,948.6,113.83,0.4,Store-6,FW19,25,True,1.7
+1091,Carpet Tile,Flooring,Pergo,245.29,162,18,2025-05-14,Aisle 2,4415.22,147.17,0.4,Store-6,FW19,26,True,2.3
+1092,Floor Tile,Flooring,TrafficMaster,63.13,14,49,2025-05-21,Aisle 19,3093.37,37.88,0.4,Store-6,FW19,52,False,3.4
+1093,Vinyl Plank,Flooring,TrafficMaster,180.64,98,25,2025-05-10,Aisle 1,4516.0,108.38,0.4,Store-6,FW19,39,True,4.1
+1094,Laminate Flooring,Flooring,TrafficMaster,21.39,58,7,2025-05-16,Aisle 19,149.73,12.83,0.4,Store-6,FW19,26,False,2.2
+1095,Carpet Tile,Flooring,TrafficMaster,118.44,68,9,2025-05-17,Aisle 24,1065.96,71.06,0.4,Store-6,FW19,10,True,3.8
+1096,Ceiling Fan,Fans,Honeywell,9.85,67,11,2025-05-20,Aisle 24,108.35,5.91,0.4,Store-6,FW19,26,True,2.8
+1097,Tower Fan,Fans,Honeywell,208.62,108,18,2025-05-22,Aisle 1,3755.16,125.17,0.4,Store-6,FW19,39,False,2.5
+1098,Pedestal Fan,Fans,Honeywell,157.94,153,21,2025-05-15,Aisle 9,3316.74,94.76,0.4,Store-6,FW19,30,False,2.3
+1099,Box Fan,Fans,Honeywell,162.67,36,8,2025-05-09,Aisle 10,1301.36,97.6,0.4,Store-6,FW19,15,False,4.7
+1100,Ceiling Fan,Fans,Harbor Breeze,95.88,90,31,2025-05-09,Aisle 17,2972.28,57.53,0.4,Store-6,FW19,60,True,3.7
+1101,Tower Fan,Fans,Harbor Breeze,160.6,41,15,2025-05-09,Aisle 30,2409.0,96.36,0.4,Store-6,FW19,29,True,3.7
+1102,Pedestal Fan,Fans,Harbor Breeze,30.38,78,20,2025-05-18,Aisle 16,607.6,18.23,0.4,Store-6,FW19,33,False,3.3
+1103,Box Fan,Fans,Harbor Breeze,60.59,105,21,2025-05-14,Aisle 2,1272.39,36.35,0.4,Store-6,FW19,35,False,2.2
+1104,Ceiling Fan,Fans,Hunter,22.99,97,43,2025-05-18,Aisle 9,988.57,13.79,0.4,Store-6,FW19,53,False,3.8
+1105,Tower Fan,Fans,Hunter,214.74,147,42,2025-05-14,Aisle 1,9019.08,128.84,0.4,Store-6,FW19,57,True,2.4
+1106,Pedestal Fan,Fans,Hunter,165.74,81,34,2025-05-09,Aisle 28,5635.16,99.44,0.4,Store-6,FW19,39,False,4.2
+1107,Box Fan,Fans,Hunter,61.74,194,7,2025-05-10,Aisle 12,432.18,37.04,0.4,Store-6,FW19,22,True,5.0
+1108,Lawn Fertilizer,Garden,Scotts,170.23,191,46,2025-05-20,Aisle 6,7830.58,102.14,0.4,Store-6,FW19,61,False,1.9
+1109,Weed Killer,Garden,Scotts,135.53,199,37,2025-05-19,Aisle 27,5014.61,81.32,0.4,Store-6,FW19,51,False,3.6
+1110,Plant Food,Garden,Scotts,239.0,134,8,2025-05-13,Aisle 27,1912.0,143.4,0.4,Store-6,FW19,12,False,2.4
+1111,Mulch Bag,Garden,Scotts,27.31,106,41,2025-05-19,Aisle 19,1119.71,16.39,0.4,Store-6,FW19,53,False,2.6
+1112,Lawn Fertilizer,Garden,Miracle-Gro,51.94,160,49,2025-05-20,Aisle 6,2545.06,31.16,0.4,Store-6,FW19,69,False,3.9
+1113,Weed Killer,Garden,Miracle-Gro,29.15,180,48,2025-05-14,Aisle 17,1399.2,17.49,0.4,Store-6,FW19,65,True,2.4
+1114,Plant Food,Garden,Miracle-Gro,81.7,61,9,2025-05-21,Aisle 30,735.3,49.02,0.4,Store-6,FW19,18,False,3.6
+1115,Mulch Bag,Garden,Miracle-Gro,21.28,87,15,2025-05-21,Aisle 11,319.2,12.77,0.4,Store-6,FW19,34,True,1.6
+1116,Lawn Fertilizer,Garden,Roundup,13.07,64,0,2025-05-13,Aisle 23,0.0,7.84,0.4,Store-6,FW19,0,False,3.7
+1117,Weed Killer,Garden,Roundup,107.11,164,41,2025-05-18,Aisle 13,4391.51,64.27,0.4,Store-6,FW19,48,False,2.4
+1118,Plant Food,Garden,Roundup,204.74,86,4,2025-05-18,Aisle 4,818.96,122.84,0.4,Store-6,FW19,5,True,1.9
+1119,Mulch Bag,Garden,Roundup,8.04,109,11,2025-05-18,Aisle 12,88.44,4.82,0.4,Store-6,FW19,25,True,1.6
+1000,Cordless Drill,Tools,DEWALT,212.73,52,20,2025-05-09,Aisle 25,4254.6,127.64,0.4,Store-7,FW19,41,False,3.2
+1001,Hammer Drill,Tools,DEWALT,6.16,197,48,2025-05-13,Aisle 13,295.68,3.7,0.4,Store-7,FW19,74,True,3.5
+1002,Tool Set,Tools,DEWALT,229.86,53,43,2025-05-20,Aisle 17,9883.98,137.92,0.4,Store-7,FW19,54,False,2.6
+1003,Work Light,Tools,DEWALT,41.15,163,2,2025-05-15,Aisle 30,82.3,24.69,0.4,Store-7,FW19,8,True,4.9
+1004,Cordless Drill,Tools,Milwaukee,210.6,137,37,2025-05-10,Aisle 23,7792.2,126.36,0.4,Store-7,FW19,42,False,4.2
+1005,Hammer Drill,Tools,Milwaukee,32.45,89,15,2025-05-09,Aisle 18,486.75,19.47,0.4,Store-7,FW19,41,True,4.7
+1006,Tool Set,Tools,Milwaukee,110.79,42,11,2025-05-19,Aisle 24,1218.69,66.47,0.4,Store-7,FW19,23,True,3.0
+1007,Work Light,Tools,Milwaukee,63.76,59,27,2025-05-12,Aisle 15,1721.52,38.26,0.4,Store-7,FW19,35,True,3.4
+1008,Cordless Drill,Tools,Craftsman,98.0,37,31,2025-05-11,Aisle 19,3038.0,58.8,0.4,Store-7,FW19,33,False,3.7
+1009,Hammer Drill,Tools,Craftsman,158.93,148,44,2025-05-20,Aisle 22,6992.92,95.36,0.4,Store-7,FW19,44,True,3.0
+1010,Tool Set,Tools,Craftsman,59.37,137,3,2025-05-14,Aisle 8,178.11,35.62,0.4,Store-7,FW19,18,False,3.3
+1011,Work Light,Tools,Craftsman,75.82,37,47,2025-05-09,Aisle 26,3563.54,45.49,0.4,Store-7,FW19,70,True,2.7
+1012,LED Ceiling Light,Lighting,GE,165.04,192,8,2025-05-14,Aisle 13,1320.32,99.02,0.4,Store-7,FW19,37,False,4.7
+1013,Smart Bulb,Lighting,GE,104.24,145,47,2025-05-13,Aisle 24,4899.28,62.54,0.4,Store-7,FW19,64,True,2.2
+1014,Wall Sconce,Lighting,GE,241.98,103,33,2025-05-13,Aisle 17,7985.34,145.19,0.4,Store-7,FW19,41,True,3.5
+1015,Chandelier,Lighting,GE,24.49,4,47,2025-05-22,Aisle 17,1151.03,14.69,0.4,Store-7,FW19,74,False,4.4
+1016,LED Ceiling Light,Lighting,Philips,199.06,145,47,2025-05-17,Aisle 6,9355.82,119.44,0.4,Store-7,FW19,73,False,4.4
+1017,Smart Bulb,Lighting,Philips,11.34,186,25,2025-05-15,Aisle 2,283.5,6.8,0.4,Store-7,FW19,27,True,4.7
+1018,Wall Sconce,Lighting,Philips,145.33,81,40,2025-05-21,Aisle 8,5813.2,87.2,0.4,Store-7,FW19,63,False,1.7
+1019,Chandelier,Lighting,Philips,94.93,61,48,2025-05-17,Aisle 14,4556.64,56.96,0.4,Store-7,FW19,77,False,4.5
+1020,LED Ceiling Light,Lighting,Commercial Electric,57.69,112,2,2025-05-11,Aisle 3,115.38,34.61,0.4,Store-7,FW19,16,True,4.4
+1021,Smart Bulb,Lighting,Commercial Electric,209.3,199,26,2025-05-17,Aisle 8,5441.8,125.58,0.4,Store-7,FW19,55,True,2.3
+1022,Wall Sconce,Lighting,Commercial Electric,29.41,47,24,2025-05-22,Aisle 14,705.84,17.65,0.4,Store-7,FW19,46,True,1.9
+1023,Chandelier,Lighting,Commercial Electric,154.47,177,50,2025-05-10,Aisle 7,7723.5,92.68,0.4,Store-7,FW19,80,False,4.4
+1024,Garden Hose,Outdoors,Flexon,249.92,109,23,2025-05-14,Aisle 13,5748.16,149.95,0.4,Store-7,FW19,23,True,4.0
+1025,Sprinkler,Outdoors,Flexon,191.29,157,11,2025-05-12,Aisle 2,2104.19,114.77,0.4,Store-7,FW19,19,True,1.8
+1026,Outdoor Light,Outdoors,Flexon,120.81,2,22,2025-05-11,Aisle 10,2657.82,72.49,0.4,Store-7,FW19,23,False,4.9
+1027,Patio Heater,Outdoors,Flexon,103.69,85,44,2025-05-10,Aisle 14,4562.36,62.21,0.4,Store-7,FW19,67,False,3.1
+1028,Garden Hose,Outdoors,Rain Bird,226.12,164,27,2025-05-22,Aisle 18,6105.24,135.67,0.4,Store-7,FW19,41,True,4.7
+1029,Sprinkler,Outdoors,Rain Bird,154.64,90,38,2025-05-21,Aisle 11,5876.32,92.78,0.4,Store-7,FW19,58,True,2.3
+1030,Outdoor Light,Outdoors,Rain Bird,128.52,102,24,2025-05-09,Aisle 19,3084.48,77.11,0.4,Store-7,FW19,28,False,4.9
+1031,Patio Heater,Outdoors,Rain Bird,86.28,21,35,2025-05-18,Aisle 7,3019.8,51.77,0.4,Store-7,FW19,41,True,3.0
+1032,Garden Hose,Outdoors,Ortho,72.74,56,17,2025-05-13,Aisle 3,1236.58,43.64,0.4,Store-7,FW19,39,False,2.2
+1033,Sprinkler,Outdoors,Ortho,8.71,197,19,2025-05-20,Aisle 14,165.49,5.23,0.4,Store-7,FW19,36,True,2.5
+1034,Outdoor Light,Outdoors,Ortho,26.37,195,33,2025-05-10,Aisle 22,870.21,15.82,0.4,Store-7,FW19,41,True,4.7
+1035,Patio Heater,Outdoors,Ortho,235.34,77,7,2025-05-12,Aisle 23,1647.38,141.2,0.4,Store-7,FW19,35,False,4.5
+1036,Interior Paint - Eggshell,Paint,Valspar,137.68,112,1,2025-05-21,Aisle 19,137.68,82.61,0.4,Store-7,FW19,17,False,2.4
+1037,Exterior Paint - Satin,Paint,Valspar,53.65,1,6,2025-05-09,Aisle 17,321.9,32.19,0.4,Store-7,FW19,6,True,4.3
+1038,Primer,Paint,Valspar,233.28,140,35,2025-05-19,Aisle 26,8164.8,139.97,0.4,Store-7,FW19,40,False,2.3
+1039,Spray Paint,Paint,Valspar,241.16,174,44,2025-05-16,Aisle 25,10611.04,144.7,0.4,Store-7,FW19,61,False,4.7
+1040,Interior Paint - Eggshell,Paint,HGTV Home,211.84,12,6,2025-05-10,Aisle 5,1271.04,127.1,0.4,Store-7,FW19,24,True,2.7
+1041,Exterior Paint - Satin,Paint,HGTV Home,235.67,69,9,2025-05-16,Aisle 20,2121.03,141.4,0.4,Store-7,FW19,23,True,5.0
+1042,Primer,Paint,HGTV Home,29.99,44,47,2025-05-10,Aisle 16,1409.53,17.99,0.4,Store-7,FW19,72,False,4.7
+1043,Spray Paint,Paint,HGTV Home,99.85,144,0,2025-05-19,Aisle 3,0.0,59.91,0.4,Store-7,FW19,6,False,1.9
+1044,Interior Paint - Eggshell,Paint,Rust-Oleum,207.96,97,21,2025-05-19,Aisle 4,4367.16,124.78,0.4,Store-7,FW19,35,True,3.1
+1045,Exterior Paint - Satin,Paint,Rust-Oleum,59.36,193,23,2025-05-09,Aisle 28,1365.28,35.62,0.4,Store-7,FW19,26,False,2.8
+1046,Primer,Paint,Rust-Oleum,7.68,191,1,2025-05-20,Aisle 10,7.68,4.61,0.4,Store-7,FW19,22,False,4.8
+1047,Spray Paint,Paint,Rust-Oleum,27.76,185,5,2025-05-14,Aisle 24,138.8,16.66,0.4,Store-7,FW19,33,True,3.3
+1048,Smart Thermostat,Home Automation,Nest,119.84,127,18,2025-05-21,Aisle 18,2157.12,71.9,0.4,Store-7,FW19,46,False,4.5
+1049,Security Camera,Home Automation,Nest,110.31,182,32,2025-05-12,Aisle 9,3529.92,66.19,0.4,Store-7,FW19,48,False,2.9
+1050,Smart Lock,Home Automation,Nest,122.72,13,49,2025-05-20,Aisle 6,6013.28,73.63,0.4,Store-7,FW19,52,False,4.0
+1051,Doorbell Camera,Home Automation,Nest,41.1,3,30,2025-05-19,Aisle 20,1233.0,24.66,0.4,Store-7,FW19,31,True,2.7
+1052,Smart Thermostat,Home Automation,Ring,129.58,196,20,2025-05-22,Aisle 2,2591.6,77.75,0.4,Store-7,FW19,32,False,3.2
+1053,Security Camera,Home Automation,Ring,34.7,113,21,2025-05-19,Aisle 2,728.7,20.82,0.4,Store-7,FW19,26,True,2.4
+1054,Smart Lock,Home Automation,Ring,218.47,134,1,2025-05-20,Aisle 11,218.47,131.08,0.4,Store-7,FW19,29,True,3.1
+1055,Doorbell Camera,Home Automation,Ring,65.01,188,50,2025-05-15,Aisle 20,3250.5,39.01,0.4,Store-7,FW19,69,False,3.5
+1056,Smart Thermostat,Home Automation,Ecobee,148.49,0,41,2025-05-11,Aisle 19,6088.09,89.09,0.4,Store-7,FW19,45,True,3.9
+1057,Security Camera,Home Automation,Ecobee,104.88,75,50,2025-05-14,Aisle 9,5244.0,62.93,0.4,Store-7,FW19,57,False,4.9
+1058,Smart Lock,Home Automation,Ecobee,39.31,44,26,2025-05-18,Aisle 29,1022.06,23.59,0.4,Store-7,FW19,31,False,2.3
+1059,Doorbell Camera,Home Automation,Ecobee,33.4,121,28,2025-05-18,Aisle 22,935.2,20.04,0.4,Store-7,FW19,57,True,3.9
+1060,Vanity Top,Bath,Kohler,107.8,117,49,2025-05-10,Aisle 11,5282.2,64.68,0.4,Store-7,FW19,55,True,3.3
+1061,Toilet,Bath,Kohler,133.42,16,17,2025-05-21,Aisle 5,2268.14,80.05,0.4,Store-7,FW19,39,True,1.7
+1062,Shower Head,Bath,Kohler,185.55,135,21,2025-05-15,Aisle 29,3896.55,111.33,0.4,Store-7,FW19,28,False,2.1
+1063,Faucet,Bath,Kohler,25.71,106,36,2025-05-17,Aisle 20,925.56,15.43,0.4,Store-7,FW19,41,True,3.6
+1064,Vanity Top,Bath,Moen,155.88,24,42,2025-05-11,Aisle 2,6546.96,93.53,0.4,Store-7,FW19,46,False,4.7
+1065,Toilet,Bath,Moen,104.18,46,13,2025-05-18,Aisle 24,1354.34,62.51,0.4,Store-7,FW19,26,True,3.0
+1066,Shower Head,Bath,Moen,166.8,102,24,2025-05-14,Aisle 12,4003.2,100.08,0.4,Store-7,FW19,43,True,3.8
+1067,Faucet,Bath,Moen,164.81,138,15,2025-05-13,Aisle 30,2472.15,98.89,0.4,Store-7,FW19,19,False,3.3
+1068,Vanity Top,Bath,Delta,196.71,139,1,2025-05-13,Aisle 20,196.71,118.03,0.4,Store-7,FW19,19,False,3.9
+1069,Toilet,Bath,Delta,174.9,119,45,2025-05-17,Aisle 4,7870.5,104.94,0.4,Store-7,FW19,67,False,2.4
+1070,Shower Head,Bath,Delta,229.45,31,35,2025-05-19,Aisle 21,8030.75,137.67,0.4,Store-7,FW19,55,False,4.6
+1071,Faucet,Bath,Delta,45.8,148,6,2025-05-15,Aisle 17,274.8,27.48,0.4,Store-7,FW19,18,True,4.1
+1072,Wood Fence Panel,Building Materials,Severe Weather,105.55,41,30,2025-05-13,Outside Yard,3166.5,63.33,0.4,Store-7,FW19,51,True,3.6
+1073,Concrete Mix,Building Materials,Severe Weather,101.06,14,42,2025-05-14,Outside Yard,4244.52,60.64,0.4,Store-7,FW19,64,False,2.8
+1074,Drywall Sheet,Building Materials,Severe Weather,236.91,12,33,2025-05-21,Outside Yard,7818.03,142.15,0.4,Store-7,FW19,41,False,1.6
+1075,Lumber,Building Materials,Severe Weather,170.79,169,6,2025-05-12,Outside Yard,1024.74,102.47,0.4,Store-7,FW19,23,True,1.5
+1076,Wood Fence Panel,Building Materials,Top Choice,101.97,148,23,2025-05-20,Outside Yard,2345.31,61.18,0.4,Store-7,FW19,51,False,4.7
+1077,Concrete Mix,Building Materials,Top Choice,209.29,116,14,2025-05-15,Outside Yard,2930.06,125.57,0.4,Store-7,FW19,43,True,4.6
+1078,Drywall Sheet,Building Materials,Top Choice,33.95,147,43,2025-05-20,Outside Yard,1459.85,20.37,0.4,Store-7,FW19,59,False,4.1
+1079,Lumber,Building Materials,Top Choice,125.89,7,19,2025-05-14,Outside Yard,2391.91,75.53,0.4,Store-7,FW19,23,True,1.9
+1080,Wood Fence Panel,Building Materials,TuffBlock,76.88,147,48,2025-05-11,Outside Yard,3690.24,46.13,0.4,Store-7,FW19,71,False,3.9
+1081,Concrete Mix,Building Materials,TuffBlock,62.81,97,28,2025-05-13,Outside Yard,1758.68,37.69,0.4,Store-7,FW19,31,False,1.7
+1082,Drywall Sheet,Building Materials,TuffBlock,50.76,190,10,2025-05-20,Outside Yard,507.6,30.46,0.4,Store-7,FW19,12,False,2.9
+1083,Lumber,Building Materials,TuffBlock,208.8,1,38,2025-05-20,Outside Yard,7934.4,125.28,0.4,Store-7,FW19,47,False,2.3
+1084,Floor Tile,Flooring,Style Selections,161.58,137,28,2025-05-12,Aisle 22,4524.24,96.95,0.4,Store-7,FW19,54,False,3.1
+1085,Vinyl Plank,Flooring,Style Selections,160.34,86,13,2025-05-22,Aisle 29,2084.42,96.2,0.4,Store-7,FW19,20,False,1.6
+1086,Laminate Flooring,Flooring,Style Selections,226.74,76,3,2025-05-09,Aisle 18,680.22,136.04,0.4,Store-7,FW19,26,False,1.9
+1087,Carpet Tile,Flooring,Style Selections,21.41,30,40,2025-05-11,Aisle 14,856.4,12.85,0.4,Store-7,FW19,50,False,2.0
+1088,Floor Tile,Flooring,Pergo,150.94,197,41,2025-05-11,Aisle 5,6188.54,90.56,0.4,Store-7,FW19,58,True,2.6
+1089,Vinyl Plank,Flooring,Pergo,33.53,11,10,2025-05-12,Aisle 8,335.3,20.12,0.4,Store-7,FW19,33,False,3.7
+1090,Laminate Flooring,Flooring,Pergo,222.57,85,28,2025-05-22,Aisle 12,6231.96,133.54,0.4,Store-7,FW19,49,True,3.8
+1091,Carpet Tile,Flooring,Pergo,147.06,91,35,2025-05-13,Aisle 13,5147.1,88.24,0.4,Store-7,FW19,42,False,3.0
+1092,Floor Tile,Flooring,TrafficMaster,127.02,13,4,2025-05-10,Aisle 1,508.08,76.21,0.4,Store-7,FW19,20,False,3.4
+1093,Vinyl Plank,Flooring,TrafficMaster,46.9,0,31,2025-05-17,Aisle 25,1453.9,28.14,0.4,Store-7,FW19,35,True,2.3
+1094,Laminate Flooring,Flooring,TrafficMaster,229.33,156,30,2025-05-22,Aisle 28,6879.9,137.6,0.4,Store-7,FW19,33,True,2.5
+1095,Carpet Tile,Flooring,TrafficMaster,111.97,154,26,2025-05-12,Aisle 25,2911.22,67.18,0.4,Store-7,FW19,30,True,1.8
+1096,Ceiling Fan,Fans,Honeywell,100.15,13,45,2025-05-14,Aisle 10,4506.75,60.09,0.4,Store-7,FW19,72,True,3.4
+1097,Tower Fan,Fans,Honeywell,208.74,168,15,2025-05-17,Aisle 30,3131.1,125.24,0.4,Store-7,FW19,42,False,2.3
+1098,Pedestal Fan,Fans,Honeywell,52.63,81,25,2025-05-22,Aisle 17,1315.75,31.58,0.4,Store-7,FW19,39,False,5.0
+1099,Box Fan,Fans,Honeywell,105.77,97,15,2025-05-13,Aisle 3,1586.55,63.46,0.4,Store-7,FW19,29,False,2.4
+1100,Ceiling Fan,Fans,Harbor Breeze,38.78,195,34,2025-05-11,Aisle 10,1318.52,23.27,0.4,Store-7,FW19,56,True,2.2
+1101,Tower Fan,Fans,Harbor Breeze,136.68,136,45,2025-05-17,Aisle 24,6150.6,82.01,0.4,Store-7,FW19,51,True,2.7
+1102,Pedestal Fan,Fans,Harbor Breeze,106.17,141,7,2025-05-20,Aisle 24,743.19,63.7,0.4,Store-7,FW19,7,True,2.5
+1103,Box Fan,Fans,Harbor Breeze,40.3,103,16,2025-05-16,Aisle 2,644.8,24.18,0.4,Store-7,FW19,36,True,3.6
+1104,Ceiling Fan,Fans,Hunter,33.5,197,47,2025-05-18,Aisle 3,1574.5,20.1,0.4,Store-7,FW19,65,False,2.4
+1105,Tower Fan,Fans,Hunter,33.28,150,6,2025-05-14,Aisle 26,199.68,19.97,0.4,Store-7,FW19,13,False,2.0
+1106,Pedestal Fan,Fans,Hunter,234.18,80,13,2025-05-20,Aisle 30,3044.34,140.51,0.4,Store-7,FW19,14,True,3.9
+1107,Box Fan,Fans,Hunter,32.1,24,28,2025-05-13,Aisle 8,898.8,19.26,0.4,Store-7,FW19,51,False,5.0
+1108,Lawn Fertilizer,Garden,Scotts,176.65,128,28,2025-05-22,Aisle 20,4946.2,105.99,0.4,Store-7,FW19,47,True,4.0
+1109,Weed Killer,Garden,Scotts,133.58,174,12,2025-05-10,Aisle 17,1602.96,80.15,0.4,Store-7,FW19,39,False,4.8
+1110,Plant Food,Garden,Scotts,160.25,188,13,2025-05-18,Aisle 21,2083.25,96.15,0.4,Store-7,FW19,28,True,1.6
+1111,Mulch Bag,Garden,Scotts,63.31,8,3,2025-05-20,Aisle 1,189.93,37.99,0.4,Store-7,FW19,18,True,2.1
+1112,Lawn Fertilizer,Garden,Miracle-Gro,158.56,153,17,2025-05-15,Aisle 2,2695.52,95.14,0.4,Store-7,FW19,21,True,3.7
+1113,Weed Killer,Garden,Miracle-Gro,193.61,119,4,2025-05-12,Aisle 3,774.44,116.17,0.4,Store-7,FW19,7,True,2.1
+1114,Plant Food,Garden,Miracle-Gro,200.94,36,5,2025-05-14,Aisle 15,1004.7,120.56,0.4,Store-7,FW19,18,True,2.0
+1115,Mulch Bag,Garden,Miracle-Gro,200.84,96,45,2025-05-16,Aisle 10,9037.8,120.5,0.4,Store-7,FW19,73,False,2.3
+1116,Lawn Fertilizer,Garden,Roundup,244.84,83,50,2025-05-22,Aisle 1,12242.0,146.9,0.4,Store-7,FW19,75,False,3.2
+1117,Weed Killer,Garden,Roundup,56.99,178,0,2025-05-10,Aisle 12,0.0,34.19,0.4,Store-7,FW19,12,False,4.6
+1118,Plant Food,Garden,Roundup,125.02,63,50,2025-05-17,Aisle 16,6251.0,75.01,0.4,Store-7,FW19,77,False,3.3
+1119,Mulch Bag,Garden,Roundup,205.95,41,48,2025-05-11,Aisle 7,9885.6,123.57,0.4,Store-7,FW19,73,True,4.3
+1000,Cordless Drill,Tools,DEWALT,169.82,179,27,2025-05-11,Aisle 5,4585.14,101.89,0.4,Store-8,FW19,34,True,4.7
+1001,Hammer Drill,Tools,DEWALT,131.84,124,12,2025-05-15,Aisle 27,1582.08,79.1,0.4,Store-8,FW19,25,True,4.9
+1002,Tool Set,Tools,DEWALT,128.41,109,40,2025-05-15,Aisle 10,5136.4,77.05,0.4,Store-8,FW19,65,True,2.0
+1003,Work Light,Tools,DEWALT,230.39,24,2,2025-05-18,Aisle 3,460.78,138.23,0.4,Store-8,FW19,26,True,3.6
+1004,Cordless Drill,Tools,Milwaukee,86.43,41,42,2025-05-19,Aisle 25,3630.06,51.86,0.4,Store-8,FW19,66,True,3.8
+1005,Hammer Drill,Tools,Milwaukee,47.38,121,37,2025-05-21,Aisle 10,1753.06,28.43,0.4,Store-8,FW19,44,False,3.1
+1006,Tool Set,Tools,Milwaukee,63.94,78,32,2025-05-18,Aisle 28,2046.08,38.36,0.4,Store-8,FW19,52,True,4.0
+1007,Work Light,Tools,Milwaukee,161.21,22,33,2025-05-15,Aisle 24,5319.93,96.73,0.4,Store-8,FW19,60,False,3.4
+1008,Cordless Drill,Tools,Craftsman,228.34,120,50,2025-05-21,Aisle 25,11417.0,137.0,0.4,Store-8,FW19,62,True,4.0
+1009,Hammer Drill,Tools,Craftsman,242.37,119,11,2025-05-15,Aisle 20,2666.07,145.42,0.4,Store-8,FW19,41,True,2.2
+1010,Tool Set,Tools,Craftsman,26.68,75,23,2025-05-11,Aisle 21,613.64,16.01,0.4,Store-8,FW19,38,True,4.0
+1011,Work Light,Tools,Craftsman,168.77,51,15,2025-05-16,Aisle 1,2531.55,101.26,0.4,Store-8,FW19,33,True,4.2
+1012,LED Ceiling Light,Lighting,GE,165.96,159,35,2025-05-12,Aisle 16,5808.6,99.58,0.4,Store-8,FW19,50,True,3.8
+1013,Smart Bulb,Lighting,GE,22.46,152,11,2025-05-11,Aisle 24,247.06,13.48,0.4,Store-8,FW19,34,False,4.1
+1014,Wall Sconce,Lighting,GE,192.37,132,25,2025-05-17,Aisle 22,4809.25,115.42,0.4,Store-8,FW19,26,False,2.7
+1015,Chandelier,Lighting,GE,42.66,42,44,2025-05-18,Aisle 24,1877.04,25.6,0.4,Store-8,FW19,58,True,2.6
+1016,LED Ceiling Light,Lighting,Philips,30.44,36,33,2025-05-11,Aisle 23,1004.52,18.26,0.4,Store-8,FW19,53,True,3.1
+1017,Smart Bulb,Lighting,Philips,242.97,144,39,2025-05-15,Aisle 12,9475.83,145.78,0.4,Store-8,FW19,69,True,2.3
+1018,Wall Sconce,Lighting,Philips,118.77,138,0,2025-05-17,Aisle 10,0.0,71.26,0.4,Store-8,FW19,10,True,2.7
+1019,Chandelier,Lighting,Philips,95.7,97,25,2025-05-22,Aisle 26,2392.5,57.42,0.4,Store-8,FW19,33,False,3.7
+1020,LED Ceiling Light,Lighting,Commercial Electric,173.27,86,7,2025-05-19,Aisle 5,1212.89,103.96,0.4,Store-8,FW19,22,True,1.6
+1021,Smart Bulb,Lighting,Commercial Electric,127.42,179,45,2025-05-17,Aisle 30,5733.9,76.45,0.4,Store-8,FW19,73,False,4.5
+1022,Wall Sconce,Lighting,Commercial Electric,189.38,38,47,2025-05-13,Aisle 25,8900.86,113.63,0.4,Store-8,FW19,49,True,4.8
+1023,Chandelier,Lighting,Commercial Electric,225.04,157,2,2025-05-09,Aisle 25,450.08,135.02,0.4,Store-8,FW19,4,False,4.2
+1024,Garden Hose,Outdoors,Flexon,201.22,140,4,2025-05-18,Aisle 6,804.88,120.73,0.4,Store-8,FW19,4,True,3.0
+1025,Sprinkler,Outdoors,Flexon,184.52,53,24,2025-05-20,Aisle 23,4428.48,110.71,0.4,Store-8,FW19,49,False,2.5
+1026,Outdoor Light,Outdoors,Flexon,145.99,189,15,2025-05-22,Aisle 9,2189.85,87.59,0.4,Store-8,FW19,24,True,1.9
+1027,Patio Heater,Outdoors,Flexon,114.3,158,20,2025-05-10,Aisle 18,2286.0,68.58,0.4,Store-8,FW19,28,False,1.9
+1028,Garden Hose,Outdoors,Rain Bird,34.05,73,12,2025-05-11,Aisle 16,408.6,20.43,0.4,Store-8,FW19,22,False,1.9
+1029,Sprinkler,Outdoors,Rain Bird,170.82,182,25,2025-05-22,Aisle 8,4270.5,102.49,0.4,Store-8,FW19,39,True,1.8
+1030,Outdoor Light,Outdoors,Rain Bird,231.04,148,49,2025-05-20,Aisle 30,11320.96,138.62,0.4,Store-8,FW19,64,False,1.8
+1031,Patio Heater,Outdoors,Rain Bird,52.59,47,17,2025-05-10,Aisle 3,894.03,31.55,0.4,Store-8,FW19,36,True,4.8
+1032,Garden Hose,Outdoors,Ortho,245.84,132,13,2025-05-18,Aisle 10,3195.92,147.5,0.4,Store-8,FW19,28,False,3.9
+1033,Sprinkler,Outdoors,Ortho,36.17,123,9,2025-05-22,Aisle 1,325.53,21.7,0.4,Store-8,FW19,20,False,3.0
+1034,Outdoor Light,Outdoors,Ortho,141.24,92,48,2025-05-19,Aisle 25,6779.52,84.74,0.4,Store-8,FW19,68,True,1.5
+1035,Patio Heater,Outdoors,Ortho,56.58,148,12,2025-05-16,Aisle 27,678.96,33.95,0.4,Store-8,FW19,33,True,4.9
+1036,Interior Paint - Eggshell,Paint,Valspar,228.49,155,24,2025-05-11,Aisle 15,5483.76,137.09,0.4,Store-8,FW19,30,False,1.8
+1037,Exterior Paint - Satin,Paint,Valspar,162.67,88,26,2025-05-10,Aisle 27,4229.42,97.6,0.4,Store-8,FW19,32,True,2.3
+1038,Primer,Paint,Valspar,67.51,94,1,2025-05-19,Aisle 24,67.51,40.51,0.4,Store-8,FW19,31,False,2.0
+1039,Spray Paint,Paint,Valspar,178.63,134,20,2025-05-15,Aisle 18,3572.6,107.18,0.4,Store-8,FW19,29,False,4.0
+1040,Interior Paint - Eggshell,Paint,HGTV Home,154.87,95,9,2025-05-16,Aisle 16,1393.83,92.92,0.4,Store-8,FW19,29,False,2.3
+1041,Exterior Paint - Satin,Paint,HGTV Home,24.69,111,18,2025-05-11,Aisle 24,444.42,14.81,0.4,Store-8,FW19,33,False,2.6
+1042,Primer,Paint,HGTV Home,120.93,137,11,2025-05-17,Aisle 27,1330.23,72.56,0.4,Store-8,FW19,25,True,2.5
+1043,Spray Paint,Paint,HGTV Home,111.55,64,43,2025-05-21,Aisle 7,4796.65,66.93,0.4,Store-8,FW19,45,True,2.0
+1044,Interior Paint - Eggshell,Paint,Rust-Oleum,80.99,166,23,2025-05-10,Aisle 6,1862.77,48.59,0.4,Store-8,FW19,33,False,1.5
+1045,Exterior Paint - Satin,Paint,Rust-Oleum,60.24,39,29,2025-05-20,Aisle 30,1746.96,36.14,0.4,Store-8,FW19,44,False,2.6
+1046,Primer,Paint,Rust-Oleum,225.44,176,32,2025-05-17,Aisle 6,7214.08,135.26,0.4,Store-8,FW19,59,True,4.5
+1047,Spray Paint,Paint,Rust-Oleum,26.39,77,35,2025-05-21,Aisle 24,923.65,15.83,0.4,Store-8,FW19,65,True,4.2
+1048,Smart Thermostat,Home Automation,Nest,163.63,64,44,2025-05-15,Aisle 13,7199.72,98.18,0.4,Store-8,FW19,66,True,3.6
+1049,Security Camera,Home Automation,Nest,149.01,120,44,2025-05-17,Aisle 25,6556.44,89.41,0.4,Store-8,FW19,73,False,3.7
+1050,Smart Lock,Home Automation,Nest,60.87,52,27,2025-05-20,Aisle 21,1643.49,36.52,0.4,Store-8,FW19,41,False,1.8
+1051,Doorbell Camera,Home Automation,Nest,193.9,59,13,2025-05-18,Aisle 25,2520.7,116.34,0.4,Store-8,FW19,21,False,2.3
+1052,Smart Thermostat,Home Automation,Ring,94.81,176,38,2025-05-18,Aisle 9,3602.78,56.89,0.4,Store-8,FW19,55,False,4.6
+1053,Security Camera,Home Automation,Ring,24.19,15,18,2025-05-18,Aisle 27,435.42,14.51,0.4,Store-8,FW19,33,False,3.5
+1054,Smart Lock,Home Automation,Ring,132.13,27,34,2025-05-12,Aisle 20,4492.42,79.28,0.4,Store-8,FW19,56,False,2.7
+1055,Doorbell Camera,Home Automation,Ring,149.5,26,8,2025-05-21,Aisle 19,1196.0,89.7,0.4,Store-8,FW19,30,True,4.2
+1056,Smart Thermostat,Home Automation,Ecobee,82.85,144,28,2025-05-14,Aisle 16,2319.8,49.71,0.4,Store-8,FW19,34,True,3.3
+1057,Security Camera,Home Automation,Ecobee,183.49,5,13,2025-05-21,Aisle 15,2385.37,110.09,0.4,Store-8,FW19,26,True,4.3
+1058,Smart Lock,Home Automation,Ecobee,88.37,148,46,2025-05-10,Aisle 8,4065.02,53.02,0.4,Store-8,FW19,70,False,4.7
+1059,Doorbell Camera,Home Automation,Ecobee,204.42,101,50,2025-05-22,Aisle 19,10221.0,122.65,0.4,Store-8,FW19,55,True,1.7
+1060,Vanity Top,Bath,Kohler,131.33,33,2,2025-05-21,Aisle 23,262.66,78.8,0.4,Store-8,FW19,8,False,3.7
+1061,Toilet,Bath,Kohler,183.66,71,43,2025-05-14,Aisle 11,7897.38,110.2,0.4,Store-8,FW19,73,True,4.1
+1062,Shower Head,Bath,Kohler,78.14,115,27,2025-05-17,Aisle 2,2109.78,46.88,0.4,Store-8,FW19,45,False,1.6
+1063,Faucet,Bath,Kohler,19.42,97,40,2025-05-14,Aisle 20,776.8,11.65,0.4,Store-8,FW19,60,True,4.8
+1064,Vanity Top,Bath,Moen,67.31,67,33,2025-05-20,Aisle 14,2221.23,40.39,0.4,Store-8,FW19,44,False,2.1
+1065,Toilet,Bath,Moen,92.88,139,47,2025-05-09,Aisle 28,4365.36,55.73,0.4,Store-8,FW19,48,True,4.7
+1066,Shower Head,Bath,Moen,111.5,191,16,2025-05-09,Aisle 8,1784.0,66.9,0.4,Store-8,FW19,32,False,3.9
+1067,Faucet,Bath,Moen,38.83,156,15,2025-05-12,Aisle 1,582.45,23.3,0.4,Store-8,FW19,36,False,4.2
+1068,Vanity Top,Bath,Delta,144.65,29,26,2025-05-19,Aisle 23,3760.9,86.79,0.4,Store-8,FW19,56,True,2.1
+1069,Toilet,Bath,Delta,161.26,146,7,2025-05-13,Aisle 12,1128.82,96.76,0.4,Store-8,FW19,10,True,2.6
+1070,Shower Head,Bath,Delta,107.67,86,14,2025-05-10,Aisle 6,1507.38,64.6,0.4,Store-8,FW19,35,False,4.1
+1071,Faucet,Bath,Delta,86.93,133,35,2025-05-18,Aisle 12,3042.55,52.16,0.4,Store-8,FW19,48,True,4.9
+1072,Wood Fence Panel,Building Materials,Severe Weather,238.55,132,37,2025-05-10,Outside Yard,8826.35,143.13,0.4,Store-8,FW19,46,True,3.6
+1073,Concrete Mix,Building Materials,Severe Weather,63.13,123,9,2025-05-21,Outside Yard,568.17,37.88,0.4,Store-8,FW19,36,False,2.2
+1074,Drywall Sheet,Building Materials,Severe Weather,113.03,55,31,2025-05-16,Outside Yard,3503.93,67.82,0.4,Store-8,FW19,46,False,1.5
+1075,Lumber,Building Materials,Severe Weather,13.79,147,0,2025-05-15,Outside Yard,0.0,8.27,0.4,Store-8,FW19,16,True,4.5
+1076,Wood Fence Panel,Building Materials,Top Choice,245.19,127,25,2025-05-22,Outside Yard,6129.75,147.11,0.4,Store-8,FW19,55,True,4.9
+1077,Concrete Mix,Building Materials,Top Choice,64.33,46,34,2025-05-15,Outside Yard,2187.22,38.6,0.4,Store-8,FW19,49,True,4.0
+1078,Drywall Sheet,Building Materials,Top Choice,74.31,179,33,2025-05-13,Outside Yard,2452.23,44.59,0.4,Store-8,FW19,61,False,3.1
+1079,Lumber,Building Materials,Top Choice,247.37,139,20,2025-05-15,Outside Yard,4947.4,148.42,0.4,Store-8,FW19,21,False,4.1
+1080,Wood Fence Panel,Building Materials,TuffBlock,72.81,105,21,2025-05-14,Outside Yard,1529.01,43.69,0.4,Store-8,FW19,33,True,4.7
+1081,Concrete Mix,Building Materials,TuffBlock,48.08,33,21,2025-05-19,Outside Yard,1009.68,28.85,0.4,Store-8,FW19,45,False,2.3
+1082,Drywall Sheet,Building Materials,TuffBlock,168.14,135,21,2025-05-15,Outside Yard,3530.94,100.88,0.4,Store-8,FW19,48,False,4.4
+1083,Lumber,Building Materials,TuffBlock,95.14,69,47,2025-05-18,Outside Yard,4471.58,57.08,0.4,Store-8,FW19,73,False,3.7
+1084,Floor Tile,Flooring,Style Selections,42.07,175,33,2025-05-12,Aisle 2,1388.31,25.24,0.4,Store-8,FW19,61,False,1.7
+1085,Vinyl Plank,Flooring,Style Selections,144.55,10,6,2025-05-10,Aisle 5,867.3,86.73,0.4,Store-8,FW19,26,True,2.4
+1086,Laminate Flooring,Flooring,Style Selections,157.09,160,13,2025-05-15,Aisle 28,2042.17,94.25,0.4,Store-8,FW19,36,False,3.4
+1087,Carpet Tile,Flooring,Style Selections,47.29,173,17,2025-05-16,Aisle 22,803.93,28.37,0.4,Store-8,FW19,36,True,3.6
+1088,Floor Tile,Flooring,Pergo,215.52,169,50,2025-05-17,Aisle 29,10776.0,129.31,0.4,Store-8,FW19,78,False,3.1
+1089,Vinyl Plank,Flooring,Pergo,238.13,111,8,2025-05-17,Aisle 16,1905.04,142.88,0.4,Store-8,FW19,31,True,2.3
+1090,Laminate Flooring,Flooring,Pergo,203.45,90,4,2025-05-13,Aisle 14,813.8,122.07,0.4,Store-8,FW19,11,True,3.1
+1091,Carpet Tile,Flooring,Pergo,66.77,123,40,2025-05-11,Aisle 12,2670.8,40.06,0.4,Store-8,FW19,45,False,4.6
+1092,Floor Tile,Flooring,TrafficMaster,238.54,170,50,2025-05-15,Aisle 12,11927.0,143.12,0.4,Store-8,FW19,70,False,3.2
+1093,Vinyl Plank,Flooring,TrafficMaster,180.08,189,15,2025-05-22,Aisle 3,2701.2,108.05,0.4,Store-8,FW19,44,False,3.6
+1094,Laminate Flooring,Flooring,TrafficMaster,216.29,77,14,2025-05-14,Aisle 5,3028.06,129.77,0.4,Store-8,FW19,32,False,3.4
+1095,Carpet Tile,Flooring,TrafficMaster,76.28,183,11,2025-05-20,Aisle 17,839.08,45.77,0.4,Store-8,FW19,19,True,3.2
+1096,Ceiling Fan,Fans,Honeywell,183.63,115,48,2025-05-14,Aisle 23,8814.24,110.18,0.4,Store-8,FW19,50,False,1.9
+1097,Tower Fan,Fans,Honeywell,114.18,74,20,2025-05-21,Aisle 23,2283.6,68.51,0.4,Store-8,FW19,38,False,3.3
+1098,Pedestal Fan,Fans,Honeywell,65.22,18,50,2025-05-09,Aisle 27,3261.0,39.13,0.4,Store-8,FW19,67,True,3.3
+1099,Box Fan,Fans,Honeywell,150.27,104,37,2025-05-19,Aisle 9,5559.99,90.16,0.4,Store-8,FW19,66,False,3.3
+1100,Ceiling Fan,Fans,Harbor Breeze,71.64,36,21,2025-05-11,Aisle 7,1504.44,42.98,0.4,Store-8,FW19,45,False,4.6
+1101,Tower Fan,Fans,Harbor Breeze,228.8,198,9,2025-05-15,Aisle 15,2059.2,137.28,0.4,Store-8,FW19,35,False,3.0
+1102,Pedestal Fan,Fans,Harbor Breeze,82.36,18,45,2025-05-20,Aisle 26,3706.2,49.42,0.4,Store-8,FW19,51,False,3.9
+1103,Box Fan,Fans,Harbor Breeze,209.74,149,17,2025-05-13,Aisle 15,3565.58,125.84,0.4,Store-8,FW19,31,True,4.8
+1104,Ceiling Fan,Fans,Hunter,112.03,160,20,2025-05-22,Aisle 17,2240.6,67.22,0.4,Store-8,FW19,28,True,4.5
+1105,Tower Fan,Fans,Hunter,50.73,199,40,2025-05-16,Aisle 23,2029.2,30.44,0.4,Store-8,FW19,66,False,2.8
+1106,Pedestal Fan,Fans,Hunter,74.38,17,36,2025-05-17,Aisle 30,2677.68,44.63,0.4,Store-8,FW19,55,False,4.2
+1107,Box Fan,Fans,Hunter,74.53,2,36,2025-05-21,Aisle 27,2683.08,44.72,0.4,Store-8,FW19,55,False,2.8
+1108,Lawn Fertilizer,Garden,Scotts,33.09,107,27,2025-05-21,Aisle 28,893.43,19.85,0.4,Store-8,FW19,38,False,4.3
+1109,Weed Killer,Garden,Scotts,167.16,154,0,2025-05-16,Aisle 15,0.0,100.3,0.4,Store-8,FW19,3,True,4.4
+1110,Plant Food,Garden,Scotts,70.12,176,1,2025-05-11,Aisle 28,70.12,42.07,0.4,Store-8,FW19,15,False,4.4
+1111,Mulch Bag,Garden,Scotts,209.6,138,1,2025-05-18,Aisle 21,209.6,125.76,0.4,Store-8,FW19,12,True,3.7
+1112,Lawn Fertilizer,Garden,Miracle-Gro,71.99,166,25,2025-05-14,Aisle 16,1799.75,43.19,0.4,Store-8,FW19,51,False,4.6
+1113,Weed Killer,Garden,Miracle-Gro,196.92,129,19,2025-05-21,Aisle 2,3741.48,118.15,0.4,Store-8,FW19,20,True,3.0
+1114,Plant Food,Garden,Miracle-Gro,165.96,199,40,2025-05-22,Aisle 9,6638.4,99.58,0.4,Store-8,FW19,68,False,2.4
+1115,Mulch Bag,Garden,Miracle-Gro,13.36,10,34,2025-05-13,Aisle 8,454.24,8.02,0.4,Store-8,FW19,61,False,1.8
+1116,Lawn Fertilizer,Garden,Roundup,217.78,81,42,2025-05-21,Aisle 13,9146.76,130.67,0.4,Store-8,FW19,46,False,3.5
+1117,Weed Killer,Garden,Roundup,238.16,110,13,2025-05-13,Aisle 4,3096.08,142.9,0.4,Store-8,FW19,35,False,3.6
+1118,Plant Food,Garden,Roundup,36.98,1,45,2025-05-13,Aisle 22,1664.1,22.19,0.4,Store-8,FW19,74,False,3.3
+1119,Mulch Bag,Garden,Roundup,94.83,81,22,2025-05-17,Aisle 20,2086.26,56.9,0.4,Store-8,FW19,50,False,2.3
+1000,Cordless Drill,Tools,DEWALT,5.41,73,50,2025-05-18,Aisle 13,270.5,3.25,0.4,Store-9,FW19,73,False,4.4
+1001,Hammer Drill,Tools,DEWALT,228.85,92,43,2025-05-13,Aisle 12,9840.55,137.31,0.4,Store-9,FW19,54,True,3.5
+1002,Tool Set,Tools,DEWALT,156.16,14,40,2025-05-18,Aisle 26,6246.4,93.7,0.4,Store-9,FW19,64,True,4.5
+1003,Work Light,Tools,DEWALT,243.82,14,3,2025-05-21,Aisle 29,731.46,146.29,0.4,Store-9,FW19,17,True,4.8
+1004,Cordless Drill,Tools,Milwaukee,174.2,37,26,2025-05-14,Aisle 1,4529.2,104.52,0.4,Store-9,FW19,38,True,4.2
+1005,Hammer Drill,Tools,Milwaukee,5.24,178,0,2025-05-13,Aisle 13,0.0,3.14,0.4,Store-9,FW19,11,False,3.2
+1006,Tool Set,Tools,Milwaukee,22.07,121,45,2025-05-14,Aisle 30,993.15,13.24,0.4,Store-9,FW19,45,True,4.4
+1007,Work Light,Tools,Milwaukee,111.05,97,1,2025-05-09,Aisle 1,111.05,66.63,0.4,Store-9,FW19,21,False,4.9
+1008,Cordless Drill,Tools,Craftsman,153.9,33,31,2025-05-16,Aisle 12,4770.9,92.34,0.4,Store-9,FW19,58,True,4.7
+1009,Hammer Drill,Tools,Craftsman,157.83,3,18,2025-05-14,Aisle 26,2840.94,94.7,0.4,Store-9,FW19,25,False,2.1
+1010,Tool Set,Tools,Craftsman,20.7,81,26,2025-05-13,Aisle 8,538.2,12.42,0.4,Store-9,FW19,56,False,1.6
+1011,Work Light,Tools,Craftsman,76.26,141,31,2025-05-22,Aisle 21,2364.06,45.76,0.4,Store-9,FW19,47,True,3.5
+1012,LED Ceiling Light,Lighting,GE,162.67,10,1,2025-05-13,Aisle 3,162.67,97.6,0.4,Store-9,FW19,16,False,2.0
+1013,Smart Bulb,Lighting,GE,208.62,194,29,2025-05-13,Aisle 10,6049.98,125.17,0.4,Store-9,FW19,29,False,3.0
+1014,Wall Sconce,Lighting,GE,141.65,144,23,2025-05-16,Aisle 25,3257.95,84.99,0.4,Store-9,FW19,46,False,3.5
+1015,Chandelier,Lighting,GE,100.43,167,19,2025-05-10,Aisle 2,1908.17,60.26,0.4,Store-9,FW19,27,True,2.2
+1016,LED Ceiling Light,Lighting,Philips,74.96,195,42,2025-05-20,Aisle 23,3148.32,44.98,0.4,Store-9,FW19,71,False,4.4
+1017,Smart Bulb,Lighting,Philips,58.38,89,35,2025-05-10,Aisle 22,2043.3,35.03,0.4,Store-9,FW19,49,True,2.1
+1018,Wall Sconce,Lighting,Philips,232.33,63,44,2025-05-22,Aisle 10,10222.52,139.4,0.4,Store-9,FW19,56,False,1.6
+1019,Chandelier,Lighting,Philips,60.93,161,43,2025-05-19,Aisle 21,2619.99,36.56,0.4,Store-9,FW19,47,True,2.7
+1020,LED Ceiling Light,Lighting,Commercial Electric,208.94,28,49,2025-05-18,Aisle 2,10238.06,125.36,0.4,Store-9,FW19,51,False,3.3
+1021,Smart Bulb,Lighting,Commercial Electric,111.65,120,42,2025-05-22,Aisle 27,4689.3,66.99,0.4,Store-9,FW19,67,False,4.8
+1022,Wall Sconce,Lighting,Commercial Electric,75.2,78,46,2025-05-16,Aisle 4,3459.2,45.12,0.4,Store-9,FW19,69,False,4.3
+1023,Chandelier,Lighting,Commercial Electric,52.36,85,10,2025-05-22,Aisle 19,523.6,31.42,0.4,Store-9,FW19,24,True,4.1
+1024,Garden Hose,Outdoors,Flexon,39.42,5,36,2025-05-13,Aisle 28,1419.12,23.65,0.4,Store-9,FW19,62,False,4.8
+1025,Sprinkler,Outdoors,Flexon,243.8,15,31,2025-05-10,Aisle 19,7557.8,146.28,0.4,Store-9,FW19,39,True,2.4
+1026,Outdoor Light,Outdoors,Flexon,187.67,3,27,2025-05-10,Aisle 9,5067.09,112.6,0.4,Store-9,FW19,40,True,1.6
+1027,Patio Heater,Outdoors,Flexon,137.54,110,43,2025-05-22,Aisle 25,5914.22,82.52,0.4,Store-9,FW19,67,True,4.7
+1028,Garden Hose,Outdoors,Rain Bird,94.62,108,3,2025-05-19,Aisle 16,283.86,56.77,0.4,Store-9,FW19,12,True,1.7
+1029,Sprinkler,Outdoors,Rain Bird,99.19,43,23,2025-05-17,Aisle 23,2281.37,59.51,0.4,Store-9,FW19,49,False,2.6
+1030,Outdoor Light,Outdoors,Rain Bird,83.4,189,45,2025-05-13,Aisle 28,3753.0,50.04,0.4,Store-9,FW19,75,True,2.4
+1031,Patio Heater,Outdoors,Rain Bird,145.63,64,27,2025-05-13,Aisle 9,3932.01,87.38,0.4,Store-9,FW19,52,True,1.9
+1032,Garden Hose,Outdoors,Ortho,199.23,193,48,2025-05-18,Aisle 3,9563.04,119.54,0.4,Store-9,FW19,54,False,4.8
+1033,Sprinkler,Outdoors,Ortho,224.65,92,38,2025-05-14,Aisle 1,8536.7,134.79,0.4,Store-9,FW19,50,True,4.2
+1034,Outdoor Light,Outdoors,Ortho,110.3,6,26,2025-05-20,Aisle 9,2867.8,66.18,0.4,Store-9,FW19,26,True,3.4
+1035,Patio Heater,Outdoors,Ortho,99.15,56,35,2025-05-15,Aisle 3,3470.25,59.49,0.4,Store-9,FW19,65,False,2.2
+1036,Interior Paint - Eggshell,Paint,Valspar,152.36,14,11,2025-05-15,Aisle 6,1675.96,91.42,0.4,Store-9,FW19,14,True,3.5
+1037,Exterior Paint - Satin,Paint,Valspar,144.63,128,35,2025-05-09,Aisle 18,5062.05,86.78,0.4,Store-9,FW19,36,True,2.8
+1038,Primer,Paint,Valspar,220.18,81,18,2025-05-14,Aisle 5,3963.24,132.11,0.4,Store-9,FW19,40,True,3.1
+1039,Spray Paint,Paint,Valspar,240.06,109,16,2025-05-21,Aisle 2,3840.96,144.04,0.4,Store-9,FW19,46,False,2.6
+1040,Interior Paint - Eggshell,Paint,HGTV Home,183.03,33,44,2025-05-13,Aisle 21,8053.32,109.82,0.4,Store-9,FW19,58,False,2.3
+1041,Exterior Paint - Satin,Paint,HGTV Home,51.16,80,3,2025-05-21,Aisle 14,153.48,30.7,0.4,Store-9,FW19,3,False,1.9
+1042,Primer,Paint,HGTV Home,236.09,24,39,2025-05-21,Aisle 17,9207.51,141.65,0.4,Store-9,FW19,47,True,3.9
+1043,Spray Paint,Paint,HGTV Home,37.93,115,27,2025-05-09,Aisle 12,1024.11,22.76,0.4,Store-9,FW19,56,False,2.4
+1044,Interior Paint - Eggshell,Paint,Rust-Oleum,167.91,153,7,2025-05-21,Aisle 5,1175.37,100.75,0.4,Store-9,FW19,24,True,2.5
+1045,Exterior Paint - Satin,Paint,Rust-Oleum,30.3,62,21,2025-05-20,Aisle 20,636.3,18.18,0.4,Store-9,FW19,51,False,2.5
+1046,Primer,Paint,Rust-Oleum,66.17,41,44,2025-05-15,Aisle 25,2911.48,39.7,0.4,Store-9,FW19,74,True,3.0
+1047,Spray Paint,Paint,Rust-Oleum,79.69,79,49,2025-05-22,Aisle 12,3904.81,47.81,0.4,Store-9,FW19,56,False,3.2
+1048,Smart Thermostat,Home Automation,Nest,116.06,161,33,2025-05-10,Aisle 10,3829.98,69.64,0.4,Store-9,FW19,33,True,4.5
+1049,Security Camera,Home Automation,Nest,198.19,145,42,2025-05-13,Aisle 1,8323.98,118.91,0.4,Store-9,FW19,55,True,3.7
+1050,Smart Lock,Home Automation,Nest,15.58,75,21,2025-05-17,Aisle 14,327.18,9.35,0.4,Store-9,FW19,30,False,3.7
+1051,Doorbell Camera,Home Automation,Nest,68.02,100,47,2025-05-11,Aisle 25,3196.94,40.81,0.4,Store-9,FW19,61,False,3.0
+1052,Smart Thermostat,Home Automation,Ring,88.1,159,1,2025-05-16,Aisle 8,88.1,52.86,0.4,Store-9,FW19,2,True,2.8
+1053,Security Camera,Home Automation,Ring,152.74,124,48,2025-05-19,Aisle 2,7331.52,91.64,0.4,Store-9,FW19,70,False,3.1
+1054,Smart Lock,Home Automation,Ring,242.32,63,11,2025-05-14,Aisle 18,2665.52,145.39,0.4,Store-9,FW19,30,False,2.1
+1055,Doorbell Camera,Home Automation,Ring,85.53,163,49,2025-05-09,Aisle 21,4190.97,51.32,0.4,Store-9,FW19,52,True,4.7
+1056,Smart Thermostat,Home Automation,Ecobee,67.9,140,44,2025-05-10,Aisle 24,2987.6,40.74,0.4,Store-9,FW19,73,True,2.3
+1057,Security Camera,Home Automation,Ecobee,46.24,194,21,2025-05-18,Aisle 24,971.04,27.74,0.4,Store-9,FW19,28,True,3.0
+1058,Smart Lock,Home Automation,Ecobee,245.91,13,0,2025-05-09,Aisle 15,0.0,147.55,0.4,Store-9,FW19,15,False,4.5
+1059,Doorbell Camera,Home Automation,Ecobee,216.79,103,45,2025-05-22,Aisle 8,9755.55,130.07,0.4,Store-9,FW19,64,True,2.2
+1060,Vanity Top,Bath,Kohler,188.26,169,34,2025-05-15,Aisle 7,6400.84,112.96,0.4,Store-9,FW19,63,True,2.9
+1061,Toilet,Bath,Kohler,223.49,187,38,2025-05-09,Aisle 8,8492.62,134.09,0.4,Store-9,FW19,64,False,1.9
+1062,Shower Head,Bath,Kohler,24.78,81,43,2025-05-12,Aisle 13,1065.54,14.87,0.4,Store-9,FW19,58,True,1.7
+1063,Faucet,Bath,Kohler,191.2,24,33,2025-05-22,Aisle 23,6309.6,114.72,0.4,Store-9,FW19,61,False,4.9
+1064,Vanity Top,Bath,Moen,27.99,70,14,2025-05-17,Aisle 18,391.86,16.79,0.4,Store-9,FW19,26,True,2.4
+1065,Toilet,Bath,Moen,148.24,80,43,2025-05-11,Aisle 8,6374.32,88.94,0.4,Store-9,FW19,61,True,4.9
+1066,Shower Head,Bath,Moen,30.98,121,44,2025-05-15,Aisle 12,1363.12,18.59,0.4,Store-9,FW19,46,False,2.1
+1067,Faucet,Bath,Moen,196.13,34,38,2025-05-22,Aisle 28,7452.94,117.68,0.4,Store-9,FW19,51,True,4.7
+1068,Vanity Top,Bath,Delta,222.6,67,29,2025-05-12,Aisle 20,6455.4,133.56,0.4,Store-9,FW19,37,True,2.2
+1069,Toilet,Bath,Delta,115.41,137,30,2025-05-19,Aisle 3,3462.3,69.25,0.4,Store-9,FW19,54,False,3.1
+1070,Shower Head,Bath,Delta,129.77,0,31,2025-05-16,Aisle 13,4022.87,77.86,0.4,Store-9,FW19,43,True,4.9
+1071,Faucet,Bath,Delta,161.19,101,0,2025-05-16,Aisle 14,0.0,96.71,0.4,Store-9,FW19,7,True,3.7
+1072,Wood Fence Panel,Building Materials,Severe Weather,107.55,145,6,2025-05-09,Outside Yard,645.3,64.53,0.4,Store-9,FW19,17,True,4.7
+1073,Concrete Mix,Building Materials,Severe Weather,194.57,145,32,2025-05-11,Outside Yard,6226.24,116.74,0.4,Store-9,FW19,61,False,2.5
+1074,Drywall Sheet,Building Materials,Severe Weather,19.71,128,6,2025-05-12,Outside Yard,118.26,11.83,0.4,Store-9,FW19,33,False,2.0
+1075,Lumber,Building Materials,Severe Weather,135.42,52,10,2025-05-12,Outside Yard,1354.2,81.25,0.4,Store-9,FW19,11,False,4.2
+1076,Wood Fence Panel,Building Materials,Top Choice,176.12,195,22,2025-05-11,Outside Yard,3874.64,105.67,0.4,Store-9,FW19,29,False,4.9
+1077,Concrete Mix,Building Materials,Top Choice,34.06,114,29,2025-05-15,Outside Yard,987.74,20.44,0.4,Store-9,FW19,32,False,2.3
+1078,Drywall Sheet,Building Materials,Top Choice,163.21,110,23,2025-05-15,Outside Yard,3753.83,97.93,0.4,Store-9,FW19,44,False,3.3
+1079,Lumber,Building Materials,Top Choice,97.5,126,13,2025-05-09,Outside Yard,1267.5,58.5,0.4,Store-9,FW19,23,True,3.8
+1080,Wood Fence Panel,Building Materials,TuffBlock,246.83,153,48,2025-05-12,Outside Yard,11847.84,148.1,0.4,Store-9,FW19,62,False,5.0
+1081,Concrete Mix,Building Materials,TuffBlock,70.55,65,23,2025-05-12,Outside Yard,1622.65,42.33,0.4,Store-9,FW19,41,True,1.5
+1082,Drywall Sheet,Building Materials,TuffBlock,189.7,199,2,2025-05-22,Outside Yard,379.4,113.82,0.4,Store-9,FW19,11,False,2.4
+1083,Lumber,Building Materials,TuffBlock,239.89,2,28,2025-05-15,Outside Yard,6716.92,143.93,0.4,Store-9,FW19,40,True,3.5
+1084,Floor Tile,Flooring,Style Selections,74.21,126,28,2025-05-16,Aisle 24,2077.88,44.53,0.4,Store-9,FW19,46,False,2.4
+1085,Vinyl Plank,Flooring,Style Selections,92.52,43,46,2025-05-17,Aisle 14,4255.92,55.51,0.4,Store-9,FW19,62,True,1.9
+1086,Laminate Flooring,Flooring,Style Selections,70.67,138,47,2025-05-15,Aisle 9,3321.49,42.4,0.4,Store-9,FW19,68,True,3.4
+1087,Carpet Tile,Flooring,Style Selections,95.76,144,47,2025-05-15,Aisle 11,4500.72,57.46,0.4,Store-9,FW19,52,False,2.9
+1088,Floor Tile,Flooring,Pergo,76.89,84,24,2025-05-22,Aisle 11,1845.36,46.13,0.4,Store-9,FW19,45,True,4.5
+1089,Vinyl Plank,Flooring,Pergo,60.53,192,13,2025-05-21,Aisle 23,786.89,36.32,0.4,Store-9,FW19,30,True,3.0
+1090,Laminate Flooring,Flooring,Pergo,165.84,75,37,2025-05-14,Aisle 26,6136.08,99.5,0.4,Store-9,FW19,62,True,4.2
+1091,Carpet Tile,Flooring,Pergo,126.54,95,20,2025-05-17,Aisle 5,2530.8,75.92,0.4,Store-9,FW19,29,False,3.4
+1092,Floor Tile,Flooring,TrafficMaster,116.87,5,31,2025-05-15,Aisle 23,3622.97,70.12,0.4,Store-9,FW19,57,False,2.2
+1093,Vinyl Plank,Flooring,TrafficMaster,21.04,54,36,2025-05-12,Aisle 12,757.44,12.62,0.4,Store-9,FW19,43,False,1.5
+1094,Laminate Flooring,Flooring,TrafficMaster,154.67,48,1,2025-05-20,Aisle 27,154.67,92.8,0.4,Store-9,FW19,15,True,3.4
+1095,Carpet Tile,Flooring,TrafficMaster,173.34,98,23,2025-05-19,Aisle 30,3986.82,104.0,0.4,Store-9,FW19,38,False,2.5
+1096,Ceiling Fan,Fans,Honeywell,95.12,61,21,2025-05-15,Aisle 8,1997.52,57.07,0.4,Store-9,FW19,48,False,2.9
+1097,Tower Fan,Fans,Honeywell,118.08,63,33,2025-05-22,Aisle 13,3896.64,70.85,0.4,Store-9,FW19,34,True,3.8
+1098,Pedestal Fan,Fans,Honeywell,234.41,103,26,2025-05-16,Aisle 19,6094.66,140.65,0.4,Store-9,FW19,54,True,2.7
+1099,Box Fan,Fans,Honeywell,125.86,56,11,2025-05-10,Aisle 3,1384.46,75.52,0.4,Store-9,FW19,39,True,1.9
+1100,Ceiling Fan,Fans,Harbor Breeze,163.15,150,37,2025-05-19,Aisle 28,6036.55,97.89,0.4,Store-9,FW19,38,True,2.3
+1101,Tower Fan,Fans,Harbor Breeze,31.97,190,49,2025-05-19,Aisle 9,1566.53,19.18,0.4,Store-9,FW19,51,True,4.9
+1102,Pedestal Fan,Fans,Harbor Breeze,234.43,76,34,2025-05-09,Aisle 16,7970.62,140.66,0.4,Store-9,FW19,34,True,3.9
+1103,Box Fan,Fans,Harbor Breeze,78.03,121,46,2025-05-14,Aisle 27,3589.38,46.82,0.4,Store-9,FW19,69,True,4.2
+1104,Ceiling Fan,Fans,Hunter,50.81,92,5,2025-05-18,Aisle 3,254.05,30.49,0.4,Store-9,FW19,29,True,3.9
+1105,Tower Fan,Fans,Hunter,187.81,81,49,2025-05-14,Aisle 13,9202.69,112.69,0.4,Store-9,FW19,68,False,4.8
+1106,Pedestal Fan,Fans,Hunter,68.44,163,5,2025-05-22,Aisle 16,342.2,41.06,0.4,Store-9,FW19,10,False,4.4
+1107,Box Fan,Fans,Hunter,174.12,156,0,2025-05-22,Aisle 4,0.0,104.47,0.4,Store-9,FW19,12,True,2.5
+1108,Lawn Fertilizer,Garden,Scotts,86.61,67,43,2025-05-15,Aisle 14,3724.23,51.97,0.4,Store-9,FW19,58,False,1.9
+1109,Weed Killer,Garden,Scotts,114.7,60,36,2025-05-21,Aisle 6,4129.2,68.82,0.4,Store-9,FW19,49,False,2.3
+1110,Plant Food,Garden,Scotts,186.51,144,31,2025-05-20,Aisle 25,5781.81,111.91,0.4,Store-9,FW19,44,False,1.8
+1111,Mulch Bag,Garden,Scotts,9.39,63,42,2025-05-17,Aisle 1,394.38,5.63,0.4,Store-9,FW19,66,True,4.3
+1112,Lawn Fertilizer,Garden,Miracle-Gro,44.35,15,36,2025-05-16,Aisle 23,1596.6,26.61,0.4,Store-9,FW19,61,False,3.9
+1113,Weed Killer,Garden,Miracle-Gro,172.7,69,6,2025-05-16,Aisle 20,1036.2,103.62,0.4,Store-9,FW19,27,False,4.3
+1114,Plant Food,Garden,Miracle-Gro,200.72,49,21,2025-05-11,Aisle 28,4215.12,120.43,0.4,Store-9,FW19,24,True,3.2
+1115,Mulch Bag,Garden,Miracle-Gro,171.6,90,3,2025-05-17,Aisle 4,514.8,102.96,0.4,Store-9,FW19,28,True,5.0
+1116,Lawn Fertilizer,Garden,Roundup,232.56,63,0,2025-05-20,Aisle 2,0.0,139.54,0.4,Store-9,FW19,1,False,4.7
+1117,Weed Killer,Garden,Roundup,32.31,192,48,2025-05-14,Aisle 14,1550.88,19.39,0.4,Store-9,FW19,51,True,3.9
+1118,Plant Food,Garden,Roundup,241.41,41,50,2025-05-22,Aisle 29,12070.5,144.85,0.4,Store-9,FW19,65,True,1.9
+1119,Mulch Bag,Garden,Roundup,39.8,173,50,2025-05-20,Aisle 24,1990.0,23.88,0.4,Store-9,FW19,63,False,2.4
+1000,Cordless Drill,Tools,DEWALT,159.4,165,23,2025-05-15,Aisle 29,3666.2,95.64,0.4,Store-10,FW19,49,False,4.2
+1001,Hammer Drill,Tools,DEWALT,40.63,95,14,2025-05-13,Aisle 29,568.82,24.38,0.4,Store-10,FW19,36,True,4.6
+1002,Tool Set,Tools,DEWALT,67.38,94,21,2025-05-13,Aisle 12,1414.98,40.43,0.4,Store-10,FW19,51,False,3.1
+1003,Work Light,Tools,DEWALT,117.61,48,46,2025-05-15,Aisle 30,5410.06,70.57,0.4,Store-10,FW19,64,False,4.4
+1004,Cordless Drill,Tools,Milwaukee,103.46,54,34,2025-05-11,Aisle 29,3517.64,62.08,0.4,Store-10,FW19,35,False,3.4
+1005,Hammer Drill,Tools,Milwaukee,225.75,198,4,2025-05-13,Aisle 25,903.0,135.45,0.4,Store-10,FW19,29,False,3.4
+1006,Tool Set,Tools,Milwaukee,236.19,56,31,2025-05-12,Aisle 8,7321.89,141.71,0.4,Store-10,FW19,59,False,3.9
+1007,Work Light,Tools,Milwaukee,185.15,138,16,2025-05-13,Aisle 3,2962.4,111.09,0.4,Store-10,FW19,37,False,1.8
+1008,Cordless Drill,Tools,Craftsman,135.95,105,18,2025-05-15,Aisle 3,2447.1,81.57,0.4,Store-10,FW19,41,False,1.5
+1009,Hammer Drill,Tools,Craftsman,160.29,193,21,2025-05-13,Aisle 12,3366.09,96.17,0.4,Store-10,FW19,22,True,2.7
+1010,Tool Set,Tools,Craftsman,29.3,107,44,2025-05-13,Aisle 3,1289.2,17.58,0.4,Store-10,FW19,55,True,4.0
+1011,Work Light,Tools,Craftsman,159.99,65,5,2025-05-21,Aisle 4,799.95,95.99,0.4,Store-10,FW19,16,True,3.6
+1012,LED Ceiling Light,Lighting,GE,85.36,21,47,2025-05-17,Aisle 2,4011.92,51.22,0.4,Store-10,FW19,52,True,3.3
+1013,Smart Bulb,Lighting,GE,228.02,32,33,2025-05-17,Aisle 27,7524.66,136.81,0.4,Store-10,FW19,39,False,3.3
+1014,Wall Sconce,Lighting,GE,48.21,194,23,2025-05-14,Aisle 14,1108.83,28.93,0.4,Store-10,FW19,31,False,4.9
+1015,Chandelier,Lighting,GE,55.77,3,14,2025-05-19,Aisle 20,780.78,33.46,0.4,Store-10,FW19,34,True,4.4
+1016,LED Ceiling Light,Lighting,Philips,136.32,98,22,2025-05-11,Aisle 23,2999.04,81.79,0.4,Store-10,FW19,24,False,1.7
+1017,Smart Bulb,Lighting,Philips,229.33,65,31,2025-05-17,Aisle 13,7109.23,137.6,0.4,Store-10,FW19,55,False,4.3
+1018,Wall Sconce,Lighting,Philips,39.08,151,11,2025-05-16,Aisle 17,429.88,23.45,0.4,Store-10,FW19,21,True,4.2
+1019,Chandelier,Lighting,Philips,167.66,102,19,2025-05-10,Aisle 2,3185.54,100.6,0.4,Store-10,FW19,47,False,3.1
+1020,LED Ceiling Light,Lighting,Commercial Electric,135.03,114,14,2025-05-19,Aisle 6,1890.42,81.02,0.4,Store-10,FW19,37,True,1.7
+1021,Smart Bulb,Lighting,Commercial Electric,215.23,11,14,2025-05-10,Aisle 21,3013.22,129.14,0.4,Store-10,FW19,15,False,4.7
+1022,Wall Sconce,Lighting,Commercial Electric,145.49,176,14,2025-05-22,Aisle 15,2036.86,87.29,0.4,Store-10,FW19,38,True,4.5
+1023,Chandelier,Lighting,Commercial Electric,240.07,153,20,2025-05-21,Aisle 21,4801.4,144.04,0.4,Store-10,FW19,44,False,4.3
+1024,Garden Hose,Outdoors,Flexon,143.57,108,6,2025-05-09,Aisle 9,861.42,86.14,0.4,Store-10,FW19,31,False,1.6
+1025,Sprinkler,Outdoors,Flexon,202.65,35,35,2025-05-14,Aisle 18,7092.75,121.59,0.4,Store-10,FW19,53,True,4.7
+1026,Outdoor Light,Outdoors,Flexon,189.32,190,32,2025-05-14,Aisle 30,6058.24,113.59,0.4,Store-10,FW19,41,True,4.1
+1027,Patio Heater,Outdoors,Flexon,98.33,155,6,2025-05-19,Aisle 22,589.98,59.0,0.4,Store-10,FW19,31,True,3.4
+1028,Garden Hose,Outdoors,Rain Bird,151.06,67,2,2025-05-16,Aisle 27,302.12,90.64,0.4,Store-10,FW19,13,True,4.7
+1029,Sprinkler,Outdoors,Rain Bird,95.31,183,50,2025-05-14,Aisle 1,4765.5,57.19,0.4,Store-10,FW19,64,False,3.1
+1030,Outdoor Light,Outdoors,Rain Bird,86.87,126,6,2025-05-19,Aisle 27,521.22,52.12,0.4,Store-10,FW19,8,False,2.8
+1031,Patio Heater,Outdoors,Rain Bird,153.29,56,4,2025-05-21,Aisle 3,613.16,91.97,0.4,Store-10,FW19,7,True,4.8
+1032,Garden Hose,Outdoors,Ortho,229.5,29,15,2025-05-15,Aisle 13,3442.5,137.7,0.4,Store-10,FW19,31,True,4.3
+1033,Sprinkler,Outdoors,Ortho,202.26,128,34,2025-05-18,Aisle 20,6876.84,121.36,0.4,Store-10,FW19,41,True,3.3
+1034,Outdoor Light,Outdoors,Ortho,51.88,8,16,2025-05-13,Aisle 5,830.08,31.13,0.4,Store-10,FW19,27,True,4.5
+1035,Patio Heater,Outdoors,Ortho,242.07,43,9,2025-05-12,Aisle 14,2178.63,145.24,0.4,Store-10,FW19,19,True,3.2
+1036,Interior Paint - Eggshell,Paint,Valspar,132.52,81,40,2025-05-09,Aisle 22,5300.8,79.51,0.4,Store-10,FW19,51,True,2.7
+1037,Exterior Paint - Satin,Paint,Valspar,124.81,76,22,2025-05-19,Aisle 27,2745.82,74.89,0.4,Store-10,FW19,34,False,2.3
+1038,Primer,Paint,Valspar,161.9,31,24,2025-05-10,Aisle 21,3885.6,97.14,0.4,Store-10,FW19,29,True,4.7
+1039,Spray Paint,Paint,Valspar,92.82,107,33,2025-05-09,Aisle 10,3063.06,55.69,0.4,Store-10,FW19,58,True,2.7
+1040,Interior Paint - Eggshell,Paint,HGTV Home,50.03,45,26,2025-05-12,Aisle 10,1300.78,30.02,0.4,Store-10,FW19,35,False,4.8
+1041,Exterior Paint - Satin,Paint,HGTV Home,48.82,42,39,2025-05-16,Aisle 16,1903.98,29.29,0.4,Store-10,FW19,53,False,1.5
+1042,Primer,Paint,HGTV Home,156.23,67,10,2025-05-21,Aisle 17,1562.3,93.74,0.4,Store-10,FW19,37,False,4.8
+1043,Spray Paint,Paint,HGTV Home,13.21,21,9,2025-05-09,Aisle 7,118.89,7.93,0.4,Store-10,FW19,22,False,3.4
+1044,Interior Paint - Eggshell,Paint,Rust-Oleum,139.8,17,43,2025-05-13,Aisle 17,6011.4,83.88,0.4,Store-10,FW19,58,True,1.8
+1045,Exterior Paint - Satin,Paint,Rust-Oleum,152.82,98,0,2025-05-13,Aisle 16,0.0,91.69,0.4,Store-10,FW19,30,True,3.3
+1046,Primer,Paint,Rust-Oleum,153.88,103,43,2025-05-18,Aisle 12,6616.84,92.33,0.4,Store-10,FW19,72,True,2.4
+1047,Spray Paint,Paint,Rust-Oleum,9.79,40,1,2025-05-11,Aisle 16,9.79,5.87,0.4,Store-10,FW19,26,False,3.7
+1048,Smart Thermostat,Home Automation,Nest,143.7,51,35,2025-05-15,Aisle 19,5029.5,86.22,0.4,Store-10,FW19,36,False,4.4
+1049,Security Camera,Home Automation,Nest,184.91,143,48,2025-05-16,Aisle 18,8875.68,110.95,0.4,Store-10,FW19,78,False,4.6
+1050,Smart Lock,Home Automation,Nest,62.0,31,36,2025-05-17,Aisle 21,2232.0,37.2,0.4,Store-10,FW19,65,False,4.9
+1051,Doorbell Camera,Home Automation,Nest,216.23,38,17,2025-05-14,Aisle 19,3675.91,129.74,0.4,Store-10,FW19,37,False,2.1
+1052,Smart Thermostat,Home Automation,Ring,156.49,158,11,2025-05-22,Aisle 4,1721.39,93.89,0.4,Store-10,FW19,24,True,5.0
+1053,Security Camera,Home Automation,Ring,75.15,174,21,2025-05-10,Aisle 27,1578.15,45.09,0.4,Store-10,FW19,23,True,5.0
+1054,Smart Lock,Home Automation,Ring,215.3,67,17,2025-05-13,Aisle 15,3660.1,129.18,0.4,Store-10,FW19,28,False,2.9
+1055,Doorbell Camera,Home Automation,Ring,249.72,174,35,2025-05-09,Aisle 29,8740.2,149.83,0.4,Store-10,FW19,65,False,1.7
+1056,Smart Thermostat,Home Automation,Ecobee,225.98,165,37,2025-05-09,Aisle 6,8361.26,135.59,0.4,Store-10,FW19,56,True,4.8
+1057,Security Camera,Home Automation,Ecobee,109.02,43,49,2025-05-21,Aisle 11,5341.98,65.41,0.4,Store-10,FW19,75,True,2.4
+1058,Smart Lock,Home Automation,Ecobee,130.62,187,48,2025-05-14,Aisle 9,6269.76,78.37,0.4,Store-10,FW19,62,False,4.6
+1059,Doorbell Camera,Home Automation,Ecobee,177.63,108,12,2025-05-13,Aisle 18,2131.56,106.58,0.4,Store-10,FW19,40,False,4.6
+1060,Vanity Top,Bath,Kohler,21.43,28,3,2025-05-16,Aisle 2,64.29,12.86,0.4,Store-10,FW19,7,True,4.1
+1061,Toilet,Bath,Kohler,164.14,184,0,2025-05-09,Aisle 15,0.0,98.48,0.4,Store-10,FW19,19,False,4.6
+1062,Shower Head,Bath,Kohler,88.44,45,33,2025-05-14,Aisle 2,2918.52,53.06,0.4,Store-10,FW19,56,True,1.8
+1063,Faucet,Bath,Kohler,206.77,126,6,2025-05-15,Aisle 20,1240.62,124.06,0.4,Store-10,FW19,17,True,1.6
+1064,Vanity Top,Bath,Moen,10.58,68,47,2025-05-11,Aisle 1,497.26,6.35,0.4,Store-10,FW19,65,True,4.5
+1065,Toilet,Bath,Moen,223.5,12,32,2025-05-15,Aisle 18,7152.0,134.1,0.4,Store-10,FW19,39,False,2.6
+1066,Shower Head,Bath,Moen,86.6,98,3,2025-05-09,Aisle 29,259.8,51.96,0.4,Store-10,FW19,31,True,4.0
+1067,Faucet,Bath,Moen,19.54,110,39,2025-05-20,Aisle 16,762.06,11.72,0.4,Store-10,FW19,56,True,1.6
+1068,Vanity Top,Bath,Delta,89.72,148,19,2025-05-14,Aisle 24,1704.68,53.83,0.4,Store-10,FW19,41,False,3.9
+1069,Toilet,Bath,Delta,134.65,166,33,2025-05-14,Aisle 3,4443.45,80.79,0.4,Store-10,FW19,53,True,3.4
+1070,Shower Head,Bath,Delta,93.55,39,19,2025-05-21,Aisle 19,1777.45,56.13,0.4,Store-10,FW19,34,True,1.8
+1071,Faucet,Bath,Delta,159.07,79,29,2025-05-21,Aisle 22,4613.03,95.44,0.4,Store-10,FW19,29,True,4.9
+1072,Wood Fence Panel,Building Materials,Severe Weather,178.5,73,28,2025-05-15,Outside Yard,4998.0,107.1,0.4,Store-10,FW19,41,True,3.5
+1073,Concrete Mix,Building Materials,Severe Weather,204.93,181,4,2025-05-21,Outside Yard,819.72,122.96,0.4,Store-10,FW19,13,True,5.0
+1074,Drywall Sheet,Building Materials,Severe Weather,8.87,163,6,2025-05-09,Outside Yard,53.22,5.32,0.4,Store-10,FW19,19,True,2.1
+1075,Lumber,Building Materials,Severe Weather,116.38,178,22,2025-05-17,Outside Yard,2560.36,69.83,0.4,Store-10,FW19,23,False,4.2
+1076,Wood Fence Panel,Building Materials,Top Choice,37.64,198,28,2025-05-20,Outside Yard,1053.92,22.58,0.4,Store-10,FW19,42,False,3.0
+1077,Concrete Mix,Building Materials,Top Choice,113.81,61,3,2025-05-18,Outside Yard,341.43,68.29,0.4,Store-10,FW19,31,False,3.2
+1078,Drywall Sheet,Building Materials,Top Choice,52.33,158,0,2025-05-16,Outside Yard,0.0,31.4,0.4,Store-10,FW19,12,True,1.9
+1079,Lumber,Building Materials,Top Choice,235.8,67,46,2025-05-11,Outside Yard,10846.8,141.48,0.4,Store-10,FW19,53,True,2.5
+1080,Wood Fence Panel,Building Materials,TuffBlock,162.65,116,20,2025-05-13,Outside Yard,3253.0,97.59,0.4,Store-10,FW19,38,False,4.8
+1081,Concrete Mix,Building Materials,TuffBlock,196.3,43,49,2025-05-21,Outside Yard,9618.7,117.78,0.4,Store-10,FW19,51,False,3.4
+1082,Drywall Sheet,Building Materials,TuffBlock,198.88,195,44,2025-05-19,Outside Yard,8750.72,119.33,0.4,Store-10,FW19,49,True,4.7
+1083,Lumber,Building Materials,TuffBlock,228.49,14,35,2025-05-21,Outside Yard,7997.15,137.09,0.4,Store-10,FW19,63,False,2.7
+1084,Floor Tile,Flooring,Style Selections,224.42,199,45,2025-05-21,Aisle 14,10098.9,134.65,0.4,Store-10,FW19,55,False,2.3
+1085,Vinyl Plank,Flooring,Style Selections,187.25,54,1,2025-05-10,Aisle 18,187.25,112.35,0.4,Store-10,FW19,30,True,3.9
+1086,Laminate Flooring,Flooring,Style Selections,5.74,9,0,2025-05-17,Aisle 19,0.0,3.44,0.4,Store-10,FW19,10,False,2.3
+1087,Carpet Tile,Flooring,Style Selections,200.96,177,41,2025-05-09,Aisle 30,8239.36,120.58,0.4,Store-10,FW19,71,True,4.8
+1088,Floor Tile,Flooring,Pergo,174.29,4,50,2025-05-09,Aisle 11,8714.5,104.57,0.4,Store-10,FW19,74,True,4.3
+1089,Vinyl Plank,Flooring,Pergo,132.5,2,5,2025-05-17,Aisle 4,662.5,79.5,0.4,Store-10,FW19,17,True,1.7
+1090,Laminate Flooring,Flooring,Pergo,109.15,20,6,2025-05-12,Aisle 25,654.9,65.49,0.4,Store-10,FW19,8,False,4.2
+1091,Carpet Tile,Flooring,Pergo,226.82,90,41,2025-05-22,Aisle 14,9299.62,136.09,0.4,Store-10,FW19,59,False,4.5
+1092,Floor Tile,Flooring,TrafficMaster,43.0,132,49,2025-05-17,Aisle 3,2107.0,25.8,0.4,Store-10,FW19,57,True,2.7
+1093,Vinyl Plank,Flooring,TrafficMaster,186.73,124,22,2025-05-12,Aisle 26,4108.06,112.04,0.4,Store-10,FW19,47,True,1.7
+1094,Laminate Flooring,Flooring,TrafficMaster,76.08,46,40,2025-05-16,Aisle 26,3043.2,45.65,0.4,Store-10,FW19,55,True,1.7
+1095,Carpet Tile,Flooring,TrafficMaster,55.62,105,21,2025-05-10,Aisle 28,1168.02,33.37,0.4,Store-10,FW19,51,False,3.9
+1096,Ceiling Fan,Fans,Honeywell,42.28,99,10,2025-05-22,Aisle 3,422.8,25.37,0.4,Store-10,FW19,10,True,1.9
+1097,Tower Fan,Fans,Honeywell,18.1,109,29,2025-05-13,Aisle 26,524.9,10.86,0.4,Store-10,FW19,37,False,3.7
+1098,Pedestal Fan,Fans,Honeywell,227.5,13,19,2025-05-14,Aisle 2,4322.5,136.5,0.4,Store-10,FW19,21,True,4.6
+1099,Box Fan,Fans,Honeywell,35.07,58,33,2025-05-10,Aisle 26,1157.31,21.04,0.4,Store-10,FW19,61,True,4.6
+1100,Ceiling Fan,Fans,Harbor Breeze,63.9,61,22,2025-05-15,Aisle 5,1405.8,38.34,0.4,Store-10,FW19,27,True,3.7
+1101,Tower Fan,Fans,Harbor Breeze,10.68,90,14,2025-05-15,Aisle 12,149.52,6.41,0.4,Store-10,FW19,24,False,1.9
+1102,Pedestal Fan,Fans,Harbor Breeze,172.63,200,27,2025-05-22,Aisle 1,4661.01,103.58,0.4,Store-10,FW19,33,True,4.0
+1103,Box Fan,Fans,Harbor Breeze,89.9,38,1,2025-05-20,Aisle 8,89.9,53.94,0.4,Store-10,FW19,7,False,2.5
+1104,Ceiling Fan,Fans,Hunter,89.34,118,42,2025-05-21,Aisle 4,3752.28,53.6,0.4,Store-10,FW19,55,False,4.3
+1105,Tower Fan,Fans,Hunter,86.61,178,34,2025-05-11,Aisle 26,2944.74,51.97,0.4,Store-10,FW19,57,True,4.5
+1106,Pedestal Fan,Fans,Hunter,169.56,181,49,2025-05-14,Aisle 27,8308.44,101.74,0.4,Store-10,FW19,75,False,3.2
+1107,Box Fan,Fans,Hunter,173.1,52,46,2025-05-17,Aisle 28,7962.6,103.86,0.4,Store-10,FW19,75,True,4.1
+1108,Lawn Fertilizer,Garden,Scotts,247.4,124,4,2025-05-14,Aisle 29,989.6,148.44,0.4,Store-10,FW19,5,False,4.7
+1109,Weed Killer,Garden,Scotts,233.79,26,8,2025-05-09,Aisle 23,1870.32,140.27,0.4,Store-10,FW19,25,True,1.5
+1110,Plant Food,Garden,Scotts,103.7,38,4,2025-05-15,Aisle 17,414.8,62.22,0.4,Store-10,FW19,8,True,3.9
+1111,Mulch Bag,Garden,Scotts,77.91,66,23,2025-05-17,Aisle 8,1791.93,46.75,0.4,Store-10,FW19,24,False,3.1
+1112,Lawn Fertilizer,Garden,Miracle-Gro,219.52,150,41,2025-05-09,Aisle 26,9000.32,131.71,0.4,Store-10,FW19,67,True,4.3
+1113,Weed Killer,Garden,Miracle-Gro,68.47,194,42,2025-05-09,Aisle 22,2875.74,41.08,0.4,Store-10,FW19,64,False,4.4
+1114,Plant Food,Garden,Miracle-Gro,48.47,124,24,2025-05-16,Aisle 4,1163.28,29.08,0.4,Store-10,FW19,25,False,4.9
+1115,Mulch Bag,Garden,Miracle-Gro,174.28,43,34,2025-05-18,Aisle 19,5925.52,104.57,0.4,Store-10,FW19,60,True,4.4
+1116,Lawn Fertilizer,Garden,Roundup,22.37,191,1,2025-05-17,Aisle 28,22.37,13.42,0.4,Store-10,FW19,3,False,1.5
+1117,Weed Killer,Garden,Roundup,204.42,42,19,2025-05-21,Aisle 9,3883.98,122.65,0.4,Store-10,FW19,35,False,4.8
+1118,Plant Food,Garden,Roundup,220.41,78,24,2025-05-19,Aisle 18,5289.84,132.25,0.4,Store-10,FW19,25,False,1.9
+1119,Mulch Bag,Garden,Roundup,142.36,34,14,2025-05-18,Aisle 28,1993.04,85.42,0.4,Store-10,FW19,32,True,4.3
