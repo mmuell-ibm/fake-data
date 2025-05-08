@@ -1,0 +1,101 @@
+,timestamp,alert_type,severity,affected_service,location,ticket_id,acknowledged,resolved
+0,2025-03-15T01:51:30.893486,Configuration Drift Detected,Critical,Chat Interface,Detroit,INC491729,True,False
+1,2025-03-07T21:12:04.265593,High Latency Detected,Medium,Logging Service,New York,INC725492,True,False
+2,2025-03-23T21:51:07.331851,Memory Usage High,Critical,Database Cluster,Berlin,INC482778,True,False
+3,2025-03-21T11:41:11.259156,Failed Login Attempts,Medium,Logging Service,Paris,INC661813,False,False
+4,2025-02-20T21:57:54.598075,Disk Space Low,Low,User Authentication,Detroit,INC284261,True,True
+5,2025-03-14T18:27:51.218027,Service Unavailable,High,Database Cluster,Detroit,INC655195,False,False
+6,2025-02-02T17:18:26.665881,Memory Usage High,High,Chat Interface,Detroit,INC327629,False,True
+7,2025-02-19T04:55:20.184273,Memory Usage High,High,Chat Interface,London,INC104937,True,False
+8,2025-03-04T04:31:03.514908,Increased Error Rate,Medium,Logging Service,Detroit,INC100195,False,True
+9,2025-02-03T07:38:43.618498,Increased Error Rate,Low,Chat Interface,Chicago,INC674505,True,True
+10,2025-03-29T14:29:17.726057,Disk Space Low,Critical,User Authentication,London,INC250558,True,True
+11,2025-04-03T09:01:42.137633,Increased Error Rate,Medium,Database Cluster,Berlin,INC533482,True,False
+12,2025-02-13T11:27:09.221163,CPU Utilization Spike,Low,Logging Service,London,INC330716,False,True
+13,2025-03-01T01:43:59.458823,Disk Space Low,Medium,Logging Service,London,INC793012,True,True
+14,2025-03-09T18:17:36.176116,Database Connection Issues,Low,User Authentication,Detroit,INC917077,False,True
+15,2025-02-06T19:05:18.141760,Unexpected Shutdown,Low,Chat Interface,London,INC251026,False,True
+16,2025-02-28T00:55:52.528040,Increased Error Rate,Medium,Logging Service,Berlin,INC224555,True,True
+17,2025-03-02T04:49:18.717537,Unexpected Shutdown,Low,Logging Service,New York,INC938323,True,False
+18,2025-03-23T12:08:49.292167,Increased Error Rate,Medium,Database Cluster,Berlin,INC136669,True,True
+19,2025-02-21T15:34:14.463221,Configuration Drift Detected,Critical,Chat Interface,New York,INC330389,True,True
+20,2025-03-17T15:41:22.268924,Memory Usage High,Medium,Chat Interface,Paris,INC273725,False,True
+21,2025-03-12T05:02:00.761514,CPU Utilization Spike,Critical,Logging Service,London,INC936818,False,False
+22,2025-03-01T22:14:30.713574,Disk Space Low,Low,Chat Interface,London,INC912412,True,False
+23,2025-01-30T09:33:21.365624,Increased Error Rate,Critical,User Authentication,Paris,INC978037,True,False
+24,2025-01-12T03:03:53.979523,Failed Login Attempts,Critical,Chat Interface,Paris,INC229170,True,False
+25,2025-01-06T12:05:12.797632,Failed Login Attempts,High,User Authentication,London,INC842967,True,True
+26,2025-03-29T05:47:05.628404,Authentication Failures,Medium,Database Cluster,Berlin,INC350461,False,True
+27,2025-02-05T03:43:29.317922,Authentication Failures,Low,User Authentication,Detroit,INC647457,False,False
+28,2025-02-04T14:15:53.024771,Failed Login Attempts,Low,Chat Interface,Berlin,INC177792,False,False
+29,2025-03-10T16:21:03.776323,Service Unavailable,Medium,Database Cluster,Paris,INC895752,True,False
+30,2025-01-06T11:20:30.362708,High Latency Detected,Critical,Chat Interface,Paris,INC219504,False,True
+31,2025-02-10T00:35:29.204731,Failed Login Attempts,High,Database Cluster,Detroit,INC710544,False,False
+32,2025-01-27T11:10:47.146321,Configuration Drift Detected,Medium,User Authentication,New York,INC603258,True,False
+33,2025-01-10T08:05:12.020796,CPU Utilization Spike,Low,Database Cluster,Berlin,INC533601,False,True
+34,2025-03-03T11:17:21.893532,Increased Error Rate,Critical,Logging Service,Berlin,INC332152,True,True
+35,2025-02-17T22:25:29.051964,Memory Usage High,Medium,Logging Service,London,INC778199,True,True
+36,2025-02-23T13:15:33.960507,Log Ingestion Delays,High,Chat Interface,Detroit,INC600009,False,True
+37,2025-03-11T19:58:25.095327,Failed Login Attempts,Critical,User Authentication,Chicago,INC654649,True,False
+38,2025-03-29T17:50:45.870751,Configuration Drift Detected,Low,User Authentication,Paris,INC562171,True,True
+39,2025-04-02T18:27:23.131069,CPU Utilization Spike,Critical,Chat Interface,Chicago,INC747575,False,True
+40,2025-01-24T12:01:46.073526,Database Connection Issues,Low,Chat Interface,London,INC492637,True,False
+41,2025-02-16T08:59:34.559344,Database Connection Issues,Low,Chat Interface,Detroit,INC717150,False,True
+42,2025-03-20T18:04:46.165411,Log Ingestion Delays,Medium,Logging Service,London,INC577300,False,True
+43,2025-01-04T02:39:30.449172,Service Unavailable,Low,Logging Service,Berlin,INC644370,False,False
+44,2025-03-21T21:17:37.631337,Failed Login Attempts,Medium,Logging Service,Detroit,INC705889,False,True
+45,2025-01-18T23:57:28.093644,Unexpected Shutdown,Low,User Authentication,Detroit,INC272812,True,True
+46,2025-02-09T16:02:22.785787,Increased Error Rate,Critical,Chat Interface,New York,INC803992,False,False
+47,2025-03-14T08:39:55.978307,Increased Error Rate,High,Logging Service,Berlin,INC585047,False,True
+48,2025-01-27T23:29:42.454121,Increased Error Rate,High,Chat Interface,New York,INC530785,True,True
+49,2025-01-22T16:33:18.820213,Configuration Drift Detected,Medium,User Authentication,New York,INC445567,True,True
+50,2025-01-08T01:54:26.388516,Authentication Failures,Low,Chat Interface,New York,INC285762,False,True
+51,2025-03-16T05:03:54.507661,Unexpected Shutdown,Critical,Logging Service,London,INC727502,False,False
+52,2025-03-28T19:05:37.573948,CPU Utilization Spike,High,Database Cluster,London,INC123619,True,False
+53,2025-03-07T03:04:29.890579,Configuration Drift Detected,High,Chat Interface,Berlin,INC723509,False,False
+54,2025-02-23T10:24:44.508005,CPU Utilization Spike,Low,Database Cluster,Chicago,INC868300,False,False
+55,2025-04-02T05:59:22.609572,Authentication Failures,Medium,Database Cluster,New York,INC240120,False,False
+56,2025-01-20T20:22:28.800677,Database Connection Issues,Critical,User Authentication,Berlin,INC128812,False,False
+57,2025-02-18T04:35:37.076149,Log Ingestion Delays,Medium,Logging Service,London,INC994377,True,False
+58,2025-02-20T03:06:44.883546,Increased Error Rate,Low,Database Cluster,Paris,INC661822,False,False
+59,2025-02-16T06:12:11.659601,Disk Space Low,Low,Logging Service,Paris,INC522671,True,False
+60,2025-03-30T23:26:18.291277,Unexpected Shutdown,Medium,Chat Interface,Paris,INC524646,False,False
+61,2025-02-14T10:32:25.147831,Configuration Drift Detected,Medium,Logging Service,Paris,INC622297,True,False
+62,2025-03-16T05:17:36.557069,CPU Utilization Spike,Low,Database Cluster,Detroit,INC342359,True,True
+63,2025-01-31T00:27:11.019771,Unexpected Shutdown,Critical,User Authentication,London,INC740171,True,True
+64,2025-02-15T06:13:06.182771,Configuration Drift Detected,Medium,Logging Service,Paris,INC606892,False,True
+65,2025-03-22T14:16:01.303276,CPU Utilization Spike,Low,Database Cluster,Detroit,INC369556,False,True
+66,2025-01-21T05:55:57.823037,Database Connection Issues,Medium,Logging Service,Berlin,INC637399,False,True
+67,2025-02-10T22:41:35.771837,Authentication Failures,Medium,User Authentication,Chicago,INC801895,False,True
+68,2025-02-15T06:12:29.174884,Increased Error Rate,Low,User Authentication,Detroit,INC203313,True,False
+69,2025-02-19T06:46:03.249415,Authentication Failures,Medium,Database Cluster,Paris,INC769480,True,True
+70,2025-04-02T18:06:53.450670,Database Connection Issues,Medium,User Authentication,London,INC379805,False,True
+71,2025-02-24T05:30:51.162919,Increased Error Rate,Low,Database Cluster,Chicago,INC283834,True,False
+72,2025-02-08T14:53:50.360155,Failed Login Attempts,Medium,Database Cluster,Paris,INC336835,True,False
+73,2025-02-01T03:05:36.139854,Authentication Failures,Critical,Database Cluster,London,INC184619,True,False
+74,2025-03-08T17:04:03.601711,Service Unavailable,High,Database Cluster,Paris,INC339585,False,False
+75,2025-03-10T10:36:46.881194,Unexpected Shutdown,Medium,Chat Interface,Detroit,INC306950,False,True
+76,2025-03-20T04:12:44.449723,Authentication Failures,Critical,User Authentication,New York,INC282409,True,True
+77,2025-01-08T14:08:06.587069,CPU Utilization Spike,Medium,User Authentication,Paris,INC823111,False,False
+78,2025-03-18T13:33:35.372766,Database Connection Issues,Low,User Authentication,Berlin,INC355173,True,True
+79,2025-02-19T17:50:57.653054,Increased Error Rate,High,Chat Interface,Berlin,INC216878,True,False
+80,2025-02-17T01:20:13.249496,High Latency Detected,Low,Database Cluster,London,INC301612,False,True
+81,2025-02-11T00:08:35.378758,Authentication Failures,Low,Logging Service,Chicago,INC481048,True,True
+82,2025-01-04T15:42:45.890617,Authentication Failures,Critical,Chat Interface,Berlin,INC802566,True,False
+83,2025-03-28T21:44:44.307505,Memory Usage High,Low,Chat Interface,Paris,INC750668,False,False
+84,2025-03-24T01:24:12.861295,Unexpected Shutdown,Medium,Chat Interface,Paris,INC928487,False,False
+85,2025-02-13T02:31:08.679770,Memory Usage High,High,Chat Interface,Paris,INC544239,False,True
+86,2025-02-06T22:25:19.581155,Memory Usage High,Critical,User Authentication,Detroit,INC788183,False,False
+87,2025-02-11T12:26:37.687424,Failed Login Attempts,Low,User Authentication,Detroit,INC125062,False,True
+88,2025-02-17T09:13:59.904979,Increased Error Rate,Critical,Database Cluster,London,INC782855,False,False
+89,2025-02-21T23:56:29.724431,Log Ingestion Delays,Medium,User Authentication,Chicago,INC801668,True,False
+90,2025-01-04T05:16:23.466782,Failed Login Attempts,Medium,User Authentication,Paris,INC769379,False,True
+91,2025-03-02T15:33:55.054398,Disk Space Low,Critical,Chat Interface,London,INC599300,True,False
+92,2025-01-27T14:38:14.422638,Configuration Drift Detected,High,Database Cluster,Detroit,INC898924,True,False
+93,2025-02-11T08:53:00.296249,Configuration Drift Detected,High,User Authentication,New York,INC719911,False,False
+94,2025-03-13T17:28:49.485759,Failed Login Attempts,Medium,Database Cluster,London,INC652260,True,True
+95,2025-01-07T21:39:18.618654,Failed Login Attempts,Critical,User Authentication,Chicago,INC531981,False,True
+96,2025-02-10T15:47:27.066822,Service Unavailable,Medium,Logging Service,New York,INC548842,True,False
+97,2025-02-07T04:59:10.785164,Memory Usage High,Critical,User Authentication,Berlin,INC234684,True,False
+98,2025-02-09T09:34:03.555299,Log Ingestion Delays,Medium,User Authentication,Chicago,INC293827,False,False
+99,2025-01-25T15:22:01.590917,Database Connection Issues,Low,Logging Service,Berlin,INC728098,True,True
