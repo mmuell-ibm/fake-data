@@ -1,0 +1,501 @@
+product_id,product_name,department,brand,price,stock_quantity,units_sold,restock_date,location_aisle
+1001,Work Light,Tools,Milwaukee,243.41,132,8,2025-05-14,Aisle 5
+1002,Shower Head,Bath,Delta,190.92,75,25,2025-05-18,Aisle 26
+1003,Hammer Drill,Tools,DEWALT,164.6,197,1,2025-05-20,Aisle 2
+1004,Interior Paint - Eggshell,Paint,Valspar,201.41,6,44,2025-05-22,Aisle 7
+1005,Primer,Paint,Rust-Oleum,78.63,179,42,2025-05-09,Aisle 21
+1006,Faucet,Bath,Delta,33.09,183,36,2025-05-14,Aisle 27
+1007,Exterior Paint - Satin,Paint,Rust-Oleum,7.62,43,32,2025-05-12,Aisle 3
+1008,Mulch Bag,Garden,Roundup,63.34,119,22,2025-05-16,Aisle 26
+1009,Hammer Drill,Tools,Craftsman,239.49,57,47,2025-05-17,Aisle 27
+1010,Toilet,Bath,Delta,248.99,15,7,2025-05-11,Aisle 27
+1011,Plant Food,Garden,Roundup,86.07,58,5,2025-05-18,Aisle 1
+1012,Work Light,Tools,Craftsman,176.26,121,33,2025-05-19,Aisle 4
+1013,Doorbell Camera,Home Automation,Ecobee,61.86,65,31,2025-05-16,Aisle 28
+1014,Pedestal Fan,Fans,Hunter,188.52,37,11,2025-05-21,Aisle 12
+1015,Smart Bulb,Lighting,Commercial Electric,33.3,83,8,2025-05-16,Aisle 17
+1016,Exterior Paint - Satin,Paint,HGTV Home,185.14,39,6,2025-05-14,Aisle 1
+1017,Weed Killer,Garden,Roundup,39.75,173,50,2025-05-20,Aisle 11
+1018,Smart Lock,Home Automation,Ecobee,26.94,178,9,2025-05-09,Aisle 20
+1019,Vanity Top,Bath,Moen,64.78,181,25,2025-05-11,Aisle 22
+1020,Security Camera,Home Automation,Ring,16.31,58,43,2025-05-11,Aisle 15
+1021,Lawn Fertilizer,Garden,Scotts,15.83,104,45,2025-05-10,Aisle 3
+1022,Tower Fan,Fans,Honeywell,60.13,161,36,2025-05-12,Aisle 27
+1023,Hammer Drill,Tools,Craftsman,89.81,168,4,2025-05-20,Aisle 25
+1024,Cordless Drill,Tools,Craftsman,113.85,26,16,2025-05-09,Aisle 26
+1025,Interior Paint - Eggshell,Paint,Valspar,226.28,10,45,2025-05-15,Aisle 14
+1026,Floor Tile,Flooring,TrafficMaster,192.91,104,28,2025-05-21,Aisle 13
+1027,Smart Bulb,Lighting,Philips,71.37,190,47,2025-05-17,Aisle 5
+1028,LED Ceiling Light,Lighting,Commercial Electric,236.8,41,49,2025-05-14,Aisle 25
+1029,Ceiling Fan,Fans,Harbor Breeze,40.51,30,23,2025-05-09,Aisle 15
+1030,Tower Fan,Fans,Hunter,219.78,81,10,2025-05-11,Aisle 20
+1031,Garden Hose,Outdoors,Rain Bird,63.88,198,37,2025-05-21,Aisle 19
+1032,Concrete Mix,Building Materials,Severe Weather,42.53,43,15,2025-05-14,Outside Yard
+1033,Floor Tile,Flooring,TrafficMaster,185.09,69,34,2025-05-22,Aisle 27
+1034,Lawn Fertilizer,Garden,Roundup,116.74,93,24,2025-05-16,Aisle 14
+1035,Vanity Top,Bath,Delta,23.3,127,34,2025-05-19,Aisle 6
+1036,Concrete Mix,Building Materials,TuffBlock,32.63,13,6,2025-05-09,Outside Yard
+1037,Tower Fan,Fans,Honeywell,100.99,92,28,2025-05-22,Aisle 17
+1038,Smart Lock,Home Automation,Nest,20.67,134,31,2025-05-21,Aisle 5
+1039,Shower Head,Bath,Kohler,216.71,0,10,2025-05-11,Aisle 11
+1040,Vanity Top,Bath,Moen,194.04,195,49,2025-05-19,Aisle 13
+1041,Doorbell Camera,Home Automation,Ring,143.45,160,34,2025-05-18,Aisle 26
+1042,Outdoor Light,Outdoors,Rain Bird,234.46,165,45,2025-05-09,Aisle 10
+1043,Wood Fence Panel,Building Materials,TuffBlock,11.67,34,13,2025-05-09,Outside Yard
+1044,Vanity Top,Bath,Delta,77.32,14,11,2025-05-18,Aisle 8
+1045,Pedestal Fan,Fans,Honeywell,222.16,21,17,2025-05-12,Aisle 8
+1046,Smart Thermostat,Home Automation,Ecobee,68.84,74,20,2025-05-12,Aisle 17
+1047,Primer,Paint,Valspar,188.12,63,18,2025-05-21,Aisle 15
+1048,Plant Food,Garden,Scotts,36.34,118,38,2025-05-19,Aisle 28
+1049,Wall Sconce,Lighting,GE,183.07,120,14,2025-05-17,Aisle 2
+1050,Patio Heater,Outdoors,Flexon,36.83,68,43,2025-05-09,Aisle 20
+1051,Plant Food,Garden,Roundup,131.79,167,40,2025-05-13,Aisle 12
+1052,Cordless Drill,Tools,Milwaukee,108.9,74,8,2025-05-18,Aisle 19
+1053,Smart Bulb,Lighting,Commercial Electric,102.11,129,47,2025-05-21,Aisle 18
+1054,Wall Sconce,Lighting,Commercial Electric,88.88,24,41,2025-05-11,Aisle 18
+1055,Interior Paint - Eggshell,Paint,Rust-Oleum,180.94,127,39,2025-05-12,Aisle 17
+1056,Security Camera,Home Automation,Ecobee,103.36,111,12,2025-05-13,Aisle 16
+1057,Laminate Flooring,Flooring,Pergo,76.56,140,29,2025-05-21,Aisle 7
+1058,Tool Set,Tools,DEWALT,249.35,175,23,2025-05-12,Aisle 28
+1059,Chandelier,Lighting,Commercial Electric,148.47,4,35,2025-05-16,Aisle 13
+1060,Tool Set,Tools,Craftsman,152.58,19,1,2025-05-22,Aisle 27
+1061,Tool Set,Tools,Craftsman,201.15,30,7,2025-05-18,Aisle 16
+1062,Sprinkler,Outdoors,Flexon,110.49,71,16,2025-05-17,Aisle 25
+1063,Sprinkler,Outdoors,Rain Bird,172.25,83,28,2025-05-17,Aisle 2
+1064,Wall Sconce,Lighting,Philips,117.44,160,25,2025-05-18,Aisle 2
+1065,Garden Hose,Outdoors,Ortho,229.98,112,41,2025-05-11,Aisle 12
+1066,Sprinkler,Outdoors,Rain Bird,80.09,149,35,2025-05-10,Aisle 10
+1067,Toilet,Bath,Kohler,6.29,80,11,2025-05-22,Aisle 3
+1068,Cordless Drill,Tools,DEWALT,248.16,136,32,2025-05-10,Aisle 15
+1069,Plant Food,Garden,Miracle-Gro,143.92,140,22,2025-05-12,Aisle 29
+1070,Carpet Tile,Flooring,Style Selections,109.72,38,36,2025-05-10,Aisle 23
+1071,Smart Thermostat,Home Automation,Ecobee,93.27,152,26,2025-05-13,Aisle 21
+1072,Work Light,Tools,Craftsman,74.37,148,19,2025-05-19,Aisle 27
+1073,Garden Hose,Outdoors,Ortho,60.91,66,50,2025-05-20,Aisle 8
+1074,Toilet,Bath,Kohler,158.11,118,25,2025-05-22,Aisle 22
+1075,Interior Paint - Eggshell,Paint,HGTV Home,58.07,16,45,2025-05-21,Aisle 28
+1076,Smart Bulb,Lighting,Commercial Electric,56.26,5,9,2025-05-10,Aisle 23
+1077,Hammer Drill,Tools,Craftsman,248.93,156,39,2025-05-14,Aisle 4
+1078,Smart Lock,Home Automation,Nest,48.61,132,28,2025-05-21,Aisle 13
+1079,Shower Head,Bath,Kohler,134.78,5,16,2025-05-20,Aisle 9
+1080,Smart Thermostat,Home Automation,Ecobee,74.25,28,43,2025-05-09,Aisle 24
+1081,Chandelier,Lighting,GE,63.8,157,28,2025-05-13,Aisle 10
+1082,Sprinkler,Outdoors,Flexon,208.8,75,4,2025-05-09,Aisle 11
+1083,Exterior Paint - Satin,Paint,Valspar,75.87,87,48,2025-05-18,Aisle 25
+1084,Garden Hose,Outdoors,Ortho,107.82,147,0,2025-05-12,Aisle 7
+1085,Drywall Sheet,Building Materials,Top Choice,108.66,93,27,2025-05-13,Outside Yard
+1086,Floor Tile,Flooring,Pergo,6.75,57,5,2025-05-15,Aisle 9
+1087,Floor Tile,Flooring,Pergo,203.32,145,19,2025-05-12,Aisle 28
+1088,Smart Lock,Home Automation,Ring,123.45,27,17,2025-05-16,Aisle 24
+1089,Wall Sconce,Lighting,Commercial Electric,17.87,148,29,2025-05-14,Aisle 12
+1090,Spray Paint,Paint,Rust-Oleum,69.7,0,41,2025-05-12,Aisle 28
+1091,Work Light,Tools,DEWALT,104.2,142,28,2025-05-11,Aisle 5
+1092,Plant Food,Garden,Miracle-Gro,55.52,32,49,2025-05-12,Aisle 12
+1093,Outdoor Light,Outdoors,Ortho,181.74,51,33,2025-05-18,Aisle 26
+1094,Cordless Drill,Tools,Craftsman,180.11,128,38,2025-05-17,Aisle 18
+1095,Shower Head,Bath,Moen,191.78,122,4,2025-05-12,Aisle 28
+1096,Smart Bulb,Lighting,GE,191.97,19,38,2025-05-11,Aisle 15
+1097,Tower Fan,Fans,Hunter,53.76,57,17,2025-05-18,Aisle 28
+1098,Wood Fence Panel,Building Materials,Top Choice,82.63,179,36,2025-05-21,Outside Yard
+1099,Work Light,Tools,DEWALT,24.95,37,19,2025-05-15,Aisle 16
+1100,Exterior Paint - Satin,Paint,Valspar,196.98,78,32,2025-05-22,Aisle 10
+1101,Wall Sconce,Lighting,Philips,186.4,171,20,2025-05-09,Aisle 19
+1102,Wood Fence Panel,Building Materials,Severe Weather,100.36,192,28,2025-05-16,Outside Yard
+1103,Ceiling Fan,Fans,Honeywell,159.2,77,30,2025-05-13,Aisle 18
+1104,Doorbell Camera,Home Automation,Ring,112.91,25,16,2025-05-13,Aisle 7
+1105,Mulch Bag,Garden,Miracle-Gro,219.05,59,46,2025-05-12,Aisle 23
+1106,Smart Lock,Home Automation,Nest,188.0,12,39,2025-05-21,Aisle 1
+1107,Outdoor Light,Outdoors,Ortho,172.49,59,9,2025-05-11,Aisle 10
+1108,Weed Killer,Garden,Miracle-Gro,123.52,78,28,2025-05-17,Aisle 15
+1109,Toilet,Bath,Kohler,62.43,108,32,2025-05-12,Aisle 3
+1110,Cordless Drill,Tools,DEWALT,132.24,136,21,2025-05-20,Aisle 8
+1111,Wood Fence Panel,Building Materials,TuffBlock,242.77,65,32,2025-05-20,Outside Yard
+1112,Sprinkler,Outdoors,Flexon,155.86,16,9,2025-05-17,Aisle 2
+1113,Wall Sconce,Lighting,Commercial Electric,183.19,8,19,2025-05-15,Aisle 17
+1114,Carpet Tile,Flooring,Style Selections,29.62,116,31,2025-05-16,Aisle 27
+1115,Faucet,Bath,Kohler,66.1,89,19,2025-05-20,Aisle 18
+1116,Wood Fence Panel,Building Materials,Top Choice,127.03,84,35,2025-05-10,Outside Yard
+1117,Box Fan,Fans,Hunter,225.17,72,31,2025-05-22,Aisle 8
+1118,Spray Paint,Paint,Valspar,241.36,50,29,2025-05-12,Aisle 23
+1119,Floor Tile,Flooring,TrafficMaster,136.06,151,1,2025-05-18,Aisle 29
+1120,LED Ceiling Light,Lighting,Commercial Electric,102.46,46,38,2025-05-17,Aisle 11
+1121,Sprinkler,Outdoors,Rain Bird,56.73,126,33,2025-05-12,Aisle 19
+1122,Toilet,Bath,Delta,249.12,101,5,2025-05-22,Aisle 24
+1123,Laminate Flooring,Flooring,TrafficMaster,69.9,15,23,2025-05-12,Aisle 25
+1124,Primer,Paint,Valspar,97.3,39,45,2025-05-12,Aisle 20
+1125,Pedestal Fan,Fans,Harbor Breeze,99.99,5,9,2025-05-12,Aisle 30
+1126,Smart Lock,Home Automation,Ecobee,12.29,7,24,2025-05-20,Aisle 20
+1127,Garden Hose,Outdoors,Flexon,197.09,41,50,2025-05-18,Aisle 17
+1128,Concrete Mix,Building Materials,Top Choice,20.75,191,25,2025-05-17,Outside Yard
+1129,Faucet,Bath,Delta,127.68,64,26,2025-05-18,Aisle 9
+1130,Patio Heater,Outdoors,Flexon,153.04,129,50,2025-05-11,Aisle 22
+1131,Pedestal Fan,Fans,Hunter,183.34,101,20,2025-05-17,Aisle 21
+1132,Smart Lock,Home Automation,Ring,35.16,66,2,2025-05-17,Aisle 16
+1133,Exterior Paint - Satin,Paint,Rust-Oleum,228.71,120,46,2025-05-14,Aisle 2
+1134,Floor Tile,Flooring,Style Selections,99.84,9,44,2025-05-22,Aisle 9
+1135,Toilet,Bath,Delta,23.69,0,23,2025-05-15,Aisle 16
+1136,Smart Thermostat,Home Automation,Ecobee,106.15,6,11,2025-05-21,Aisle 1
+1137,Work Light,Tools,DEWALT,13.28,71,39,2025-05-15,Aisle 29
+1138,Pedestal Fan,Fans,Hunter,16.39,155,22,2025-05-12,Aisle 2
+1139,Primer,Paint,Rust-Oleum,192.41,184,37,2025-05-22,Aisle 20
+1140,Mulch Bag,Garden,Roundup,77.42,127,43,2025-05-18,Aisle 7
+1141,Vinyl Plank,Flooring,Pergo,71.08,23,21,2025-05-18,Aisle 7
+1142,Carpet Tile,Flooring,Pergo,77.32,52,44,2025-05-17,Aisle 17
+1143,Wood Fence Panel,Building Materials,TuffBlock,67.13,69,29,2025-05-10,Outside Yard
+1144,Vanity Top,Bath,Kohler,167.84,48,21,2025-05-21,Aisle 28
+1145,LED Ceiling Light,Lighting,Commercial Electric,87.05,65,3,2025-05-18,Aisle 16
+1146,Exterior Paint - Satin,Paint,HGTV Home,104.79,126,18,2025-05-21,Aisle 15
+1147,Patio Heater,Outdoors,Flexon,143.67,76,43,2025-05-16,Aisle 5
+1148,Ceiling Fan,Fans,Honeywell,158.31,73,42,2025-05-17,Aisle 23
+1149,Work Light,Tools,DEWALT,97.0,153,36,2025-05-10,Aisle 26
+1150,Vanity Top,Bath,Kohler,131.63,137,39,2025-05-14,Aisle 20
+1151,Carpet Tile,Flooring,Pergo,66.49,98,47,2025-05-11,Aisle 17
+1152,Chandelier,Lighting,Philips,159.2,192,25,2025-05-16,Aisle 25
+1153,Floor Tile,Flooring,Style Selections,249.24,101,30,2025-05-15,Aisle 26
+1154,Laminate Flooring,Flooring,Style Selections,248.24,171,31,2025-05-12,Aisle 15
+1155,Chandelier,Lighting,Commercial Electric,190.6,101,43,2025-05-19,Aisle 3
+1156,Box Fan,Fans,Honeywell,102.52,110,45,2025-05-11,Aisle 12
+1157,Work Light,Tools,DEWALT,220.99,67,23,2025-05-15,Aisle 25
+1158,Cordless Drill,Tools,Craftsman,56.35,81,13,2025-05-17,Aisle 15
+1159,LED Ceiling Light,Lighting,Philips,17.79,51,42,2025-05-22,Aisle 15
+1160,Mulch Bag,Garden,Roundup,195.95,89,31,2025-05-19,Aisle 8
+1161,Mulch Bag,Garden,Scotts,154.96,9,13,2025-05-09,Aisle 5
+1162,Garden Hose,Outdoors,Rain Bird,230.38,13,27,2025-05-14,Aisle 6
+1163,LED Ceiling Light,Lighting,Commercial Electric,107.39,193,31,2025-05-12,Aisle 4
+1164,Ceiling Fan,Fans,Honeywell,66.81,184,20,2025-05-21,Aisle 2
+1165,Faucet,Bath,Moen,75.32,199,35,2025-05-16,Aisle 18
+1166,Carpet Tile,Flooring,Style Selections,189.28,152,24,2025-05-16,Aisle 11
+1167,Vanity Top,Bath,Delta,100.05,122,25,2025-05-12,Aisle 28
+1168,Pedestal Fan,Fans,Harbor Breeze,182.11,67,3,2025-05-10,Aisle 8
+1169,Floor Tile,Flooring,Style Selections,61.33,60,5,2025-05-12,Aisle 10
+1170,Chandelier,Lighting,Commercial Electric,215.3,51,36,2025-05-16,Aisle 16
+1171,Plant Food,Garden,Scotts,24.92,80,14,2025-05-10,Aisle 22
+1172,Wall Sconce,Lighting,Commercial Electric,249.68,19,22,2025-05-19,Aisle 3
+1173,Shower Head,Bath,Kohler,76.16,4,34,2025-05-22,Aisle 29
+1174,Hammer Drill,Tools,Milwaukee,246.18,99,36,2025-05-15,Aisle 17
+1175,Garden Hose,Outdoors,Rain Bird,193.97,74,42,2025-05-14,Aisle 16
+1176,Primer,Paint,Valspar,212.59,100,46,2025-05-14,Aisle 21
+1177,Hammer Drill,Tools,Milwaukee,143.62,111,26,2025-05-13,Aisle 3
+1178,Cordless Drill,Tools,Craftsman,30.45,101,25,2025-05-16,Aisle 15
+1179,Plant Food,Garden,Scotts,81.82,195,9,2025-05-12,Aisle 9
+1180,Exterior Paint - Satin,Paint,Rust-Oleum,232.19,47,14,2025-05-22,Aisle 29
+1181,Spray Paint,Paint,Valspar,136.35,197,35,2025-05-09,Aisle 26
+1182,LED Ceiling Light,Lighting,Philips,224.23,85,15,2025-05-10,Aisle 1
+1183,Laminate Flooring,Flooring,Style Selections,59.38,183,35,2025-05-13,Aisle 11
+1184,Interior Paint - Eggshell,Paint,Valspar,231.94,127,14,2025-05-13,Aisle 3
+1185,Mulch Bag,Garden,Miracle-Gro,31.91,71,37,2025-05-12,Aisle 18
+1186,Wood Fence Panel,Building Materials,TuffBlock,126.55,6,37,2025-05-12,Outside Yard
+1187,Garden Hose,Outdoors,Ortho,56.69,22,4,2025-05-09,Aisle 28
+1188,Lumber,Building Materials,TuffBlock,232.78,67,11,2025-05-21,Outside Yard
+1189,Wall Sconce,Lighting,Philips,149.38,175,3,2025-05-11,Aisle 12
+1190,Garden Hose,Outdoors,Ortho,56.04,22,0,2025-05-20,Aisle 23
+1191,Tool Set,Tools,DEWALT,153.43,49,23,2025-05-19,Aisle 20
+1192,Cordless Drill,Tools,DEWALT,163.48,104,1,2025-05-17,Aisle 24
+1193,Lawn Fertilizer,Garden,Miracle-Gro,18.77,109,1,2025-05-11,Aisle 4
+1194,LED Ceiling Light,Lighting,Commercial Electric,126.98,46,22,2025-05-11,Aisle 5
+1195,Shower Head,Bath,Delta,143.27,147,34,2025-05-17,Aisle 2
+1196,Lumber,Building Materials,Top Choice,220.42,138,7,2025-05-17,Outside Yard
+1197,Chandelier,Lighting,GE,165.38,85,48,2025-05-10,Aisle 2
+1198,Vinyl Plank,Flooring,Pergo,171.34,117,44,2025-05-09,Aisle 8
+1199,Smart Thermostat,Home Automation,Ecobee,241.58,138,23,2025-05-10,Aisle 29
+1200,Smart Lock,Home Automation,Ecobee,112.43,126,25,2025-05-18,Aisle 12
+1201,Vinyl Plank,Flooring,Style Selections,108.27,1,33,2025-05-09,Aisle 7
+1202,Exterior Paint - Satin,Paint,Rust-Oleum,120.74,75,25,2025-05-11,Aisle 12
+1203,Concrete Mix,Building Materials,Top Choice,111.77,76,47,2025-05-20,Outside Yard
+1204,Toilet,Bath,Delta,141.53,78,20,2025-05-15,Aisle 9
+1205,Cordless Drill,Tools,DEWALT,157.5,22,31,2025-05-21,Aisle 22
+1206,Vanity Top,Bath,Kohler,54.52,18,41,2025-05-10,Aisle 15
+1207,Weed Killer,Garden,Roundup,63.36,177,44,2025-05-20,Aisle 8
+1208,Security Camera,Home Automation,Ecobee,87.23,128,41,2025-05-17,Aisle 14
+1209,Interior Paint - Eggshell,Paint,HGTV Home,108.37,20,41,2025-05-10,Aisle 16
+1210,Pedestal Fan,Fans,Hunter,155.04,19,3,2025-05-09,Aisle 10
+1211,Tool Set,Tools,Craftsman,108.93,95,28,2025-05-22,Aisle 30
+1212,Shower Head,Bath,Delta,12.74,46,13,2025-05-19,Aisle 6
+1213,Pedestal Fan,Fans,Hunter,109.0,109,17,2025-05-17,Aisle 15
+1214,Security Camera,Home Automation,Ecobee,242.43,3,44,2025-05-11,Aisle 27
+1215,Wood Fence Panel,Building Materials,Severe Weather,109.32,34,23,2025-05-16,Outside Yard
+1216,Floor Tile,Flooring,Pergo,137.57,86,30,2025-05-12,Aisle 23
+1217,Shower Head,Bath,Kohler,186.76,35,30,2025-05-16,Aisle 10
+1218,Lawn Fertilizer,Garden,Miracle-Gro,133.86,52,33,2025-05-12,Aisle 17
+1219,Exterior Paint - Satin,Paint,HGTV Home,214.5,88,41,2025-05-22,Aisle 24
+1220,Pedestal Fan,Fans,Harbor Breeze,7.46,35,9,2025-05-16,Aisle 11
+1221,Interior Paint - Eggshell,Paint,Valspar,22.45,68,16,2025-05-16,Aisle 11
+1222,Wood Fence Panel,Building Materials,TuffBlock,57.76,87,31,2025-05-14,Outside Yard
+1223,Cordless Drill,Tools,Milwaukee,79.08,55,45,2025-05-22,Aisle 10
+1224,Chandelier,Lighting,Commercial Electric,34.25,190,10,2025-05-12,Aisle 20
+1225,Toilet,Bath,Moen,225.47,165,7,2025-05-17,Aisle 15
+1226,Toilet,Bath,Delta,238.43,26,42,2025-05-20,Aisle 22
+1227,Carpet Tile,Flooring,Style Selections,137.89,35,50,2025-05-14,Aisle 15
+1228,Hammer Drill,Tools,Craftsman,153.23,147,35,2025-05-18,Aisle 5
+1229,Work Light,Tools,Milwaukee,112.86,93,49,2025-05-21,Aisle 21
+1230,Pedestal Fan,Fans,Hunter,247.14,79,32,2025-05-10,Aisle 2
+1231,Carpet Tile,Flooring,Style Selections,91.3,115,10,2025-05-09,Aisle 7
+1232,Chandelier,Lighting,GE,97.28,34,28,2025-05-14,Aisle 10
+1233,Chandelier,Lighting,Commercial Electric,201.44,195,42,2025-05-10,Aisle 19
+1234,Smart Bulb,Lighting,GE,143.7,37,26,2025-05-17,Aisle 27
+1235,Pedestal Fan,Fans,Harbor Breeze,148.13,13,36,2025-05-15,Aisle 20
+1236,Security Camera,Home Automation,Nest,121.7,181,46,2025-05-14,Aisle 9
+1237,Faucet,Bath,Moen,204.61,162,33,2025-05-10,Aisle 4
+1238,Sprinkler,Outdoors,Rain Bird,142.73,180,39,2025-05-20,Aisle 3
+1239,Smart Bulb,Lighting,Commercial Electric,63.95,4,44,2025-05-20,Aisle 22
+1240,Vanity Top,Bath,Kohler,212.27,65,32,2025-05-18,Aisle 24
+1241,Chandelier,Lighting,GE,217.6,24,50,2025-05-16,Aisle 18
+1242,Tower Fan,Fans,Hunter,134.37,78,21,2025-05-14,Aisle 30
+1243,Pedestal Fan,Fans,Hunter,44.27,79,42,2025-05-10,Aisle 13
+1244,Concrete Mix,Building Materials,TuffBlock,134.97,128,41,2025-05-13,Outside Yard
+1245,Drywall Sheet,Building Materials,TuffBlock,208.1,175,11,2025-05-19,Outside Yard
+1246,Lawn Fertilizer,Garden,Miracle-Gro,143.78,58,3,2025-05-14,Aisle 30
+1247,Pedestal Fan,Fans,Hunter,135.99,36,13,2025-05-21,Aisle 25
+1248,Outdoor Light,Outdoors,Ortho,184.84,51,47,2025-05-19,Aisle 8
+1249,Doorbell Camera,Home Automation,Ring,92.71,101,18,2025-05-21,Aisle 10
+1250,Garden Hose,Outdoors,Flexon,154.84,2,35,2025-05-19,Aisle 30
+1251,Smart Lock,Home Automation,Ring,159.14,147,19,2025-05-12,Aisle 6
+1252,Cordless Drill,Tools,Craftsman,121.55,143,9,2025-05-21,Aisle 24
+1253,Carpet Tile,Flooring,TrafficMaster,105.8,52,20,2025-05-12,Aisle 20
+1254,Wood Fence Panel,Building Materials,Severe Weather,211.63,136,4,2025-05-20,Outside Yard
+1255,Carpet Tile,Flooring,Pergo,248.5,47,37,2025-05-18,Aisle 10
+1256,LED Ceiling Light,Lighting,Philips,120.43,58,14,2025-05-11,Aisle 23
+1257,Smart Lock,Home Automation,Ecobee,159.41,127,0,2025-05-18,Aisle 12
+1258,Lumber,Building Materials,Severe Weather,225.28,176,32,2025-05-14,Outside Yard
+1259,Lawn Fertilizer,Garden,Scotts,34.6,156,43,2025-05-09,Aisle 24
+1260,Wall Sconce,Lighting,GE,55.58,98,47,2025-05-15,Aisle 16
+1261,Drywall Sheet,Building Materials,TuffBlock,143.18,184,30,2025-05-15,Outside Yard
+1262,Tower Fan,Fans,Harbor Breeze,42.69,150,31,2025-05-18,Aisle 12
+1263,Doorbell Camera,Home Automation,Nest,21.34,159,15,2025-05-16,Aisle 29
+1264,Pedestal Fan,Fans,Hunter,14.53,177,11,2025-05-18,Aisle 6
+1265,Patio Heater,Outdoors,Ortho,71.17,200,8,2025-05-21,Aisle 6
+1266,Tool Set,Tools,DEWALT,21.55,51,31,2025-05-15,Aisle 21
+1267,Toilet,Bath,Kohler,13.04,155,44,2025-05-21,Aisle 28
+1268,Vanity Top,Bath,Kohler,186.43,78,10,2025-05-18,Aisle 14
+1269,Drywall Sheet,Building Materials,Top Choice,202.11,116,10,2025-05-14,Outside Yard
+1270,Work Light,Tools,DEWALT,59.41,13,42,2025-05-16,Aisle 25
+1271,Box Fan,Fans,Hunter,82.33,185,8,2025-05-11,Aisle 14
+1272,LED Ceiling Light,Lighting,Commercial Electric,158.0,156,33,2025-05-15,Aisle 11
+1273,Work Light,Tools,DEWALT,110.91,124,8,2025-05-15,Aisle 20
+1274,Box Fan,Fans,Honeywell,159.39,50,32,2025-05-13,Aisle 17
+1275,Drywall Sheet,Building Materials,TuffBlock,125.57,53,14,2025-05-14,Outside Yard
+1276,Primer,Paint,Rust-Oleum,49.76,32,11,2025-05-20,Aisle 11
+1277,Ceiling Fan,Fans,Harbor Breeze,36.41,111,20,2025-05-10,Aisle 17
+1278,Shower Head,Bath,Moen,117.31,77,12,2025-05-20,Aisle 27
+1279,Drywall Sheet,Building Materials,Top Choice,90.44,185,5,2025-05-10,Outside Yard
+1280,Smart Thermostat,Home Automation,Nest,7.95,93,27,2025-05-13,Aisle 7
+1281,Plant Food,Garden,Miracle-Gro,104.06,113,11,2025-05-09,Aisle 7
+1282,Exterior Paint - Satin,Paint,HGTV Home,180.72,58,24,2025-05-20,Aisle 24
+1283,Vinyl Plank,Flooring,Style Selections,38.61,26,22,2025-05-15,Aisle 13
+1284,Concrete Mix,Building Materials,Top Choice,112.57,5,25,2025-05-15,Outside Yard
+1285,Smart Lock,Home Automation,Nest,16.66,25,10,2025-05-17,Aisle 24
+1286,Wall Sconce,Lighting,Philips,53.78,72,16,2025-05-16,Aisle 17
+1287,Vanity Top,Bath,Moen,40.43,158,33,2025-05-14,Aisle 14
+1288,Box Fan,Fans,Hunter,236.4,88,13,2025-05-19,Aisle 7
+1289,Toilet,Bath,Delta,36.83,160,33,2025-05-18,Aisle 3
+1290,Tower Fan,Fans,Harbor Breeze,148.67,190,28,2025-05-15,Aisle 30
+1291,Exterior Paint - Satin,Paint,Rust-Oleum,16.73,196,15,2025-05-20,Aisle 6
+1292,Chandelier,Lighting,Philips,74.16,169,21,2025-05-20,Aisle 21
+1293,Floor Tile,Flooring,Pergo,79.25,136,26,2025-05-18,Aisle 11
+1294,Smart Thermostat,Home Automation,Ring,133.91,15,40,2025-05-20,Aisle 12
+1295,Cordless Drill,Tools,DEWALT,249.5,39,11,2025-05-20,Aisle 15
+1296,Tool Set,Tools,DEWALT,199.06,61,26,2025-05-16,Aisle 25
+1297,Concrete Mix,Building Materials,Top Choice,79.36,60,4,2025-05-13,Outside Yard
+1298,Laminate Flooring,Flooring,TrafficMaster,160.88,172,44,2025-05-13,Aisle 21
+1299,Toilet,Bath,Delta,91.6,180,0,2025-05-10,Aisle 20
+1300,Mulch Bag,Garden,Miracle-Gro,145.79,6,17,2025-05-11,Aisle 4
+1301,Interior Paint - Eggshell,Paint,HGTV Home,127.95,64,28,2025-05-21,Aisle 11
+1302,Sprinkler,Outdoors,Flexon,148.06,143,27,2025-05-14,Aisle 9
+1303,Chandelier,Lighting,GE,182.63,128,48,2025-05-22,Aisle 9
+1304,Mulch Bag,Garden,Scotts,92.18,37,33,2025-05-11,Aisle 18
+1305,Interior Paint - Eggshell,Paint,HGTV Home,109.54,63,35,2025-05-14,Aisle 6
+1306,Security Camera,Home Automation,Ecobee,235.13,0,28,2025-05-21,Aisle 24
+1307,Laminate Flooring,Flooring,TrafficMaster,223.47,118,47,2025-05-12,Aisle 7
+1308,Sprinkler,Outdoors,Flexon,149.56,166,23,2025-05-13,Aisle 25
+1309,Vinyl Plank,Flooring,TrafficMaster,195.7,52,44,2025-05-22,Aisle 5
+1310,Concrete Mix,Building Materials,TuffBlock,176.35,17,24,2025-05-20,Outside Yard
+1311,Smart Thermostat,Home Automation,Ring,55.39,18,20,2025-05-19,Aisle 2
+1312,Lumber,Building Materials,Top Choice,93.55,6,26,2025-05-22,Outside Yard
+1313,LED Ceiling Light,Lighting,GE,240.82,120,19,2025-05-13,Aisle 14
+1314,Sprinkler,Outdoors,Ortho,149.96,199,26,2025-05-09,Aisle 25
+1315,Tool Set,Tools,Craftsman,69.2,69,34,2025-05-20,Aisle 20
+1316,Vinyl Plank,Flooring,Style Selections,218.99,46,26,2025-05-15,Aisle 19
+1317,Plant Food,Garden,Scotts,130.45,158,12,2025-05-11,Aisle 22
+1318,LED Ceiling Light,Lighting,Commercial Electric,244.85,135,40,2025-05-20,Aisle 9
+1319,Mulch Bag,Garden,Roundup,9.31,150,34,2025-05-19,Aisle 1
+1320,Shower Head,Bath,Kohler,209.39,197,47,2025-05-13,Aisle 18
+1321,Smart Thermostat,Home Automation,Ring,75.51,159,3,2025-05-09,Aisle 10
+1322,Carpet Tile,Flooring,Style Selections,134.8,136,10,2025-05-13,Aisle 14
+1323,Faucet,Bath,Moen,42.91,7,34,2025-05-12,Aisle 12
+1324,Concrete Mix,Building Materials,Top Choice,145.19,161,2,2025-05-11,Outside Yard
+1325,Sprinkler,Outdoors,Flexon,160.2,153,43,2025-05-21,Aisle 23
+1326,Concrete Mix,Building Materials,Top Choice,146.75,126,1,2025-05-16,Outside Yard
+1327,Drywall Sheet,Building Materials,Top Choice,104.83,32,39,2025-05-16,Outside Yard
+1328,Smart Thermostat,Home Automation,Ring,6.52,32,34,2025-05-11,Aisle 27
+1329,Concrete Mix,Building Materials,Top Choice,98.12,160,48,2025-05-22,Outside Yard
+1330,Shower Head,Bath,Delta,239.02,90,37,2025-05-21,Aisle 21
+1331,Concrete Mix,Building Materials,Severe Weather,207.14,116,49,2025-05-16,Outside Yard
+1332,Floor Tile,Flooring,Style Selections,28.8,152,21,2025-05-17,Aisle 28
+1333,Box Fan,Fans,Honeywell,219.42,66,50,2025-05-21,Aisle 3
+1334,Vanity Top,Bath,Kohler,16.51,163,45,2025-05-19,Aisle 21
+1335,Faucet,Bath,Moen,49.78,85,4,2025-05-19,Aisle 3
+1336,Pedestal Fan,Fans,Hunter,30.22,149,12,2025-05-22,Aisle 5
+1337,Plant Food,Garden,Miracle-Gro,105.64,44,14,2025-05-09,Aisle 4
+1338,Lawn Fertilizer,Garden,Scotts,70.14,115,33,2025-05-17,Aisle 30
+1339,Smart Lock,Home Automation,Nest,51.44,103,13,2025-05-22,Aisle 1
+1340,Weed Killer,Garden,Miracle-Gro,99.68,84,16,2025-05-20,Aisle 25
+1341,Smart Bulb,Lighting,Philips,215.05,55,34,2025-05-19,Aisle 23
+1342,Smart Lock,Home Automation,Ring,119.19,33,46,2025-05-18,Aisle 2
+1343,Garden Hose,Outdoors,Rain Bird,180.12,36,14,2025-05-12,Aisle 18
+1344,Lumber,Building Materials,Top Choice,87.71,157,29,2025-05-21,Outside Yard
+1345,Patio Heater,Outdoors,Flexon,200.19,40,17,2025-05-15,Aisle 4
+1346,Garden Hose,Outdoors,Rain Bird,24.74,52,12,2025-05-11,Aisle 25
+1347,Doorbell Camera,Home Automation,Ring,115.92,22,2,2025-05-15,Aisle 10
+1348,Laminate Flooring,Flooring,TrafficMaster,58.94,23,15,2025-05-10,Aisle 9
+1349,Chandelier,Lighting,Philips,13.51,64,21,2025-05-18,Aisle 13
+1350,Hammer Drill,Tools,Milwaukee,92.26,199,15,2025-05-19,Aisle 22
+1351,Security Camera,Home Automation,Ecobee,38.18,105,47,2025-05-20,Aisle 15
+1352,Smart Bulb,Lighting,Commercial Electric,201.74,94,13,2025-05-21,Aisle 29
+1353,Interior Paint - Eggshell,Paint,HGTV Home,192.7,104,30,2025-05-18,Aisle 9
+1354,Security Camera,Home Automation,Ring,218.64,5,6,2025-05-14,Aisle 7
+1355,Lumber,Building Materials,TuffBlock,100.37,131,17,2025-05-09,Outside Yard
+1356,Lawn Fertilizer,Garden,Scotts,47.38,109,9,2025-05-12,Aisle 10
+1357,Vanity Top,Bath,Delta,240.67,23,23,2025-05-09,Aisle 13
+1358,Wood Fence Panel,Building Materials,Top Choice,225.14,194,3,2025-05-18,Outside Yard
+1359,Concrete Mix,Building Materials,Severe Weather,166.22,82,24,2025-05-13,Outside Yard
+1360,Cordless Drill,Tools,Milwaukee,234.43,37,17,2025-05-09,Aisle 18
+1361,Spray Paint,Paint,Valspar,148.4,190,23,2025-05-13,Aisle 11
+1362,Ceiling Fan,Fans,Harbor Breeze,141.43,67,35,2025-05-09,Aisle 1
+1363,Weed Killer,Garden,Roundup,36.45,107,9,2025-05-20,Aisle 10
+1364,Primer,Paint,HGTV Home,143.99,191,20,2025-05-09,Aisle 18
+1365,Primer,Paint,Valspar,244.01,123,20,2025-05-20,Aisle 11
+1366,Work Light,Tools,DEWALT,211.57,10,17,2025-05-10,Aisle 30
+1367,Exterior Paint - Satin,Paint,Rust-Oleum,211.13,16,28,2025-05-11,Aisle 23
+1368,Weed Killer,Garden,Roundup,129.24,90,14,2025-05-17,Aisle 6
+1369,Ceiling Fan,Fans,Harbor Breeze,48.52,13,6,2025-05-11,Aisle 27
+1370,Shower Head,Bath,Moen,20.47,146,39,2025-05-18,Aisle 3
+1371,Mulch Bag,Garden,Scotts,82.91,142,10,2025-05-15,Aisle 5
+1372,Floor Tile,Flooring,TrafficMaster,48.78,33,33,2025-05-22,Aisle 17
+1373,Doorbell Camera,Home Automation,Ring,35.3,174,19,2025-05-16,Aisle 18
+1374,Exterior Paint - Satin,Paint,HGTV Home,118.45,104,44,2025-05-19,Aisle 7
+1375,Smart Bulb,Lighting,Commercial Electric,118.47,118,16,2025-05-09,Aisle 1
+1376,LED Ceiling Light,Lighting,GE,243.79,24,3,2025-05-09,Aisle 23
+1377,Mulch Bag,Garden,Roundup,169.21,4,42,2025-05-16,Aisle 10
+1378,Box Fan,Fans,Harbor Breeze,117.21,104,9,2025-05-12,Aisle 16
+1379,Ceiling Fan,Fans,Harbor Breeze,164.21,32,10,2025-05-22,Aisle 21
+1380,Drywall Sheet,Building Materials,Top Choice,173.03,192,35,2025-05-19,Outside Yard
+1381,Work Light,Tools,DEWALT,150.42,45,29,2025-05-18,Aisle 11
+1382,Toilet,Bath,Kohler,130.1,198,46,2025-05-10,Aisle 1
+1383,Work Light,Tools,DEWALT,66.77,3,25,2025-05-14,Aisle 11
+1384,Faucet,Bath,Moen,236.18,196,19,2025-05-19,Aisle 27
+1385,Floor Tile,Flooring,Style Selections,193.53,10,21,2025-05-14,Aisle 4
+1386,Smart Lock,Home Automation,Ecobee,59.31,39,19,2025-05-17,Aisle 29
+1387,Ceiling Fan,Fans,Hunter,142.4,94,25,2025-05-17,Aisle 22
+1388,Ceiling Fan,Fans,Hunter,202.69,25,13,2025-05-18,Aisle 18
+1389,Mulch Bag,Garden,Roundup,126.58,43,20,2025-05-10,Aisle 28
+1390,Patio Heater,Outdoors,Rain Bird,213.91,172,46,2025-05-22,Aisle 8
+1391,Drywall Sheet,Building Materials,TuffBlock,237.01,11,38,2025-05-15,Outside Yard
+1392,Tower Fan,Fans,Honeywell,217.45,71,40,2025-05-18,Aisle 8
+1393,Security Camera,Home Automation,Ring,172.41,179,39,2025-05-12,Aisle 5
+1394,Spray Paint,Paint,Valspar,194.88,29,11,2025-05-14,Aisle 20
+1395,Laminate Flooring,Flooring,TrafficMaster,10.04,82,35,2025-05-13,Aisle 3
+1396,Work Light,Tools,Craftsman,213.39,94,13,2025-05-10,Aisle 10
+1397,Security Camera,Home Automation,Ring,214.92,69,44,2025-05-21,Aisle 23
+1398,Vinyl Plank,Flooring,Style Selections,97.38,105,14,2025-05-15,Aisle 1
+1399,LED Ceiling Light,Lighting,Commercial Electric,33.36,168,0,2025-05-18,Aisle 3
+1400,Lumber,Building Materials,Severe Weather,134.05,47,0,2025-05-21,Outside Yard
+1401,Concrete Mix,Building Materials,Severe Weather,213.92,59,35,2025-05-13,Outside Yard
+1402,Exterior Paint - Satin,Paint,HGTV Home,31.99,116,45,2025-05-12,Aisle 23
+1403,Spray Paint,Paint,Rust-Oleum,189.68,58,44,2025-05-13,Aisle 3
+1404,Smart Lock,Home Automation,Ecobee,56.64,173,35,2025-05-11,Aisle 16
+1405,Laminate Flooring,Flooring,Pergo,217.08,0,10,2025-05-10,Aisle 8
+1406,Drywall Sheet,Building Materials,Severe Weather,89.4,82,44,2025-05-11,Outside Yard
+1407,Chandelier,Lighting,Philips,34.04,111,10,2025-05-19,Aisle 20
+1408,Spray Paint,Paint,Rust-Oleum,219.18,26,27,2025-05-16,Aisle 24
+1409,Pedestal Fan,Fans,Hunter,145.94,73,2,2025-05-21,Aisle 18
+1410,Tower Fan,Fans,Harbor Breeze,191.26,8,1,2025-05-10,Aisle 1
+1411,Faucet,Bath,Delta,127.96,77,33,2025-05-13,Aisle 13
+1412,Garden Hose,Outdoors,Rain Bird,227.03,104,33,2025-05-21,Aisle 19
+1413,Lumber,Building Materials,TuffBlock,14.51,80,48,2025-05-09,Outside Yard
+1414,Shower Head,Bath,Delta,158.62,36,7,2025-05-18,Aisle 3
+1415,Garden Hose,Outdoors,Flexon,31.71,157,47,2025-05-16,Aisle 7
+1416,Pedestal Fan,Fans,Harbor Breeze,119.04,20,7,2025-05-17,Aisle 15
+1417,Weed Killer,Garden,Miracle-Gro,211.5,119,32,2025-05-16,Aisle 11
+1418,Smart Lock,Home Automation,Nest,144.82,71,46,2025-05-16,Aisle 12
+1419,Vinyl Plank,Flooring,TrafficMaster,210.96,5,6,2025-05-21,Aisle 3
+1420,Cordless Drill,Tools,DEWALT,162.67,192,49,2025-05-15,Aisle 17
+1421,Concrete Mix,Building Materials,TuffBlock,58.64,174,34,2025-05-13,Outside Yard
+1422,Spray Paint,Paint,Valspar,97.52,159,14,2025-05-17,Aisle 4
+1423,Spray Paint,Paint,Valspar,189.48,76,46,2025-05-17,Aisle 15
+1424,Primer,Paint,Valspar,129.31,181,32,2025-05-19,Aisle 29
+1425,Box Fan,Fans,Harbor Breeze,64.49,149,24,2025-05-20,Aisle 19
+1426,Hammer Drill,Tools,DEWALT,197.31,163,10,2025-05-10,Aisle 23
+1427,Primer,Paint,Rust-Oleum,39.55,176,26,2025-05-16,Aisle 20
+1428,Box Fan,Fans,Harbor Breeze,60.55,138,44,2025-05-10,Aisle 14
+1429,Garden Hose,Outdoors,Flexon,92.59,96,49,2025-05-14,Aisle 18
+1430,Ceiling Fan,Fans,Harbor Breeze,30.85,186,5,2025-05-13,Aisle 16
+1431,Toilet,Bath,Delta,181.52,160,13,2025-05-18,Aisle 16
+1432,Mulch Bag,Garden,Roundup,100.15,177,45,2025-05-11,Aisle 12
+1433,Pedestal Fan,Fans,Harbor Breeze,220.08,70,16,2025-05-21,Aisle 21
+1434,Lumber,Building Materials,TuffBlock,74.69,129,11,2025-05-10,Outside Yard
+1435,Box Fan,Fans,Harbor Breeze,180.78,123,29,2025-05-21,Aisle 8
+1436,Wood Fence Panel,Building Materials,Severe Weather,148.3,30,34,2025-05-09,Outside Yard
+1437,Cordless Drill,Tools,Craftsman,215.93,136,8,2025-05-19,Aisle 25
+1438,Shower Head,Bath,Moen,215.52,99,26,2025-05-20,Aisle 21
+1439,Lumber,Building Materials,Severe Weather,9.5,190,44,2025-05-11,Outside Yard
+1440,Exterior Paint - Satin,Paint,Valspar,16.69,47,23,2025-05-18,Aisle 23
+1441,Doorbell Camera,Home Automation,Ring,36.1,181,10,2025-05-17,Aisle 3
+1442,Work Light,Tools,Craftsman,175.7,35,11,2025-05-12,Aisle 25
+1443,Floor Tile,Flooring,Style Selections,147.17,56,15,2025-05-11,Aisle 29
+1444,LED Ceiling Light,Lighting,GE,78.42,100,20,2025-05-12,Aisle 17
+1445,Lawn Fertilizer,Garden,Scotts,70.31,114,49,2025-05-09,Aisle 17
+1446,Spray Paint,Paint,HGTV Home,191.54,147,38,2025-05-17,Aisle 20
+1447,Toilet,Bath,Moen,46.61,179,45,2025-05-22,Aisle 29
+1448,Smart Lock,Home Automation,Ecobee,75.38,32,38,2025-05-16,Aisle 21
+1449,Box Fan,Fans,Harbor Breeze,85.7,169,45,2025-05-12,Aisle 30
+1450,Plant Food,Garden,Scotts,161.61,168,30,2025-05-15,Aisle 18
+1451,Security Camera,Home Automation,Ring,143.42,1,20,2025-05-22,Aisle 4
+1452,Garden Hose,Outdoors,Ortho,153.21,22,13,2025-05-11,Aisle 18
+1453,Laminate Flooring,Flooring,Style Selections,193.77,194,44,2025-05-09,Aisle 6
+1454,Interior Paint - Eggshell,Paint,HGTV Home,121.37,51,7,2025-05-18,Aisle 18
+1455,Patio Heater,Outdoors,Flexon,241.34,96,45,2025-05-14,Aisle 9
+1456,Patio Heater,Outdoors,Rain Bird,99.39,144,18,2025-05-13,Aisle 9
+1457,Security Camera,Home Automation,Nest,65.08,165,15,2025-05-22,Aisle 24
+1458,Security Camera,Home Automation,Ecobee,47.68,142,16,2025-05-12,Aisle 5
+1459,LED Ceiling Light,Lighting,Philips,90.3,185,32,2025-05-16,Aisle 30
+1460,Wood Fence Panel,Building Materials,TuffBlock,85.36,26,1,2025-05-12,Outside Yard
+1461,Work Light,Tools,DEWALT,245.55,8,46,2025-05-17,Aisle 13
+1462,Pedestal Fan,Fans,Honeywell,132.13,194,25,2025-05-11,Aisle 27
+1463,Sprinkler,Outdoors,Rain Bird,13.06,109,24,2025-05-18,Aisle 12
+1464,Spray Paint,Paint,Valspar,65.18,137,19,2025-05-13,Aisle 11
+1465,Plant Food,Garden,Roundup,174.28,156,48,2025-05-21,Aisle 25
+1466,Plant Food,Garden,Roundup,81.04,104,46,2025-05-20,Aisle 16
+1467,Box Fan,Fans,Honeywell,10.54,115,47,2025-05-19,Aisle 5
+1468,Exterior Paint - Satin,Paint,Valspar,187.55,30,14,2025-05-22,Aisle 19
+1469,Interior Paint - Eggshell,Paint,Rust-Oleum,165.57,142,49,2025-05-18,Aisle 24
+1470,LED Ceiling Light,Lighting,Philips,141.83,151,39,2025-05-14,Aisle 29
+1471,Tower Fan,Fans,Honeywell,240.3,16,5,2025-05-13,Aisle 30
+1472,Wall Sconce,Lighting,Commercial Electric,26.16,156,3,2025-05-15,Aisle 26
+1473,Spray Paint,Paint,Rust-Oleum,155.65,192,31,2025-05-21,Aisle 10
+1474,Toilet,Bath,Moen,183.47,62,36,2025-05-15,Aisle 9
+1475,Chandelier,Lighting,Commercial Electric,125.48,10,15,2025-05-16,Aisle 2
+1476,Ceiling Fan,Fans,Hunter,77.65,122,17,2025-05-14,Aisle 13
+1477,Security Camera,Home Automation,Ring,241.73,108,17,2025-05-16,Aisle 30
+1478,Concrete Mix,Building Materials,Top Choice,176.62,10,39,2025-05-19,Outside Yard
+1479,Laminate Flooring,Flooring,Style Selections,102.5,69,10,2025-05-19,Aisle 13
+1480,Floor Tile,Flooring,Style Selections,199.69,40,5,2025-05-11,Aisle 18
+1481,Patio Heater,Outdoors,Ortho,165.65,81,21,2025-05-13,Aisle 28
+1482,Garden Hose,Outdoors,Ortho,224.97,93,38,2025-05-19,Aisle 8
+1483,Chandelier,Lighting,Philips,20.49,117,30,2025-05-12,Aisle 29
+1484,Vanity Top,Bath,Kohler,50.69,28,8,2025-05-16,Aisle 15
+1485,Garden Hose,Outdoors,Rain Bird,25.58,190,35,2025-05-13,Aisle 23
+1486,Outdoor Light,Outdoors,Ortho,72.57,7,15,2025-05-22,Aisle 22
+1487,Wood Fence Panel,Building Materials,Top Choice,244.64,83,21,2025-05-09,Outside Yard
+1488,Wood Fence Panel,Building Materials,Top Choice,199.23,175,33,2025-05-20,Outside Yard
+1489,Patio Heater,Outdoors,Flexon,156.2,19,41,2025-05-10,Aisle 15
+1490,Security Camera,Home Automation,Ring,11.98,4,17,2025-05-17,Aisle 15
+1491,LED Ceiling Light,Lighting,GE,180.01,35,33,2025-05-13,Aisle 12
+1492,Wood Fence Panel,Building Materials,Top Choice,51.55,7,38,2025-05-20,Outside Yard
+1493,Smart Thermostat,Home Automation,Ring,220.66,108,23,2025-05-21,Aisle 2
+1494,Wood Fence Panel,Building Materials,Severe Weather,84.95,3,50,2025-05-16,Outside Yard
+1495,Outdoor Light,Outdoors,Ortho,249.98,43,27,2025-05-20,Aisle 20
+1496,Smart Lock,Home Automation,Ring,121.34,144,36,2025-05-18,Aisle 14
+1497,Patio Heater,Outdoors,Ortho,80.05,127,30,2025-05-20,Aisle 13
+1498,Interior Paint - Eggshell,Paint,Valspar,47.02,77,18,2025-05-10,Aisle 6
+1499,Ceiling Fan,Fans,Harbor Breeze,16.37,101,37,2025-05-11,Aisle 7
+1500,Sprinkler,Outdoors,Rain Bird,166.38,165,15,2025-05-10,Aisle 20
