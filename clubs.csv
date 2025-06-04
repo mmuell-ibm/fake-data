@@ -1,0 +1,48 @@
+club_name,category,description,membership_count,meeting_schedule,contact_email,president_name,founded_year,accepting_new_members,club_website
+AI Society,Academic,Explores the latest in artificial intelligence through projects and talks,84,Tuesdays at 7 PM,aisociety@univ.edu,Jordan Kim,2016,Yes,http://univ.edu/aisociety
+Environmental Action Network,Service,Leads sustainability efforts and cleanups around campus,52,Saturdays at 10 AM,enviro@univ.edu,Taylor Singh,2008,Yes,http://univ.edu/enviro
+Chess Club,Recreational,Holds weekly matches and tournaments for all skill levels,33,Mondays at 6 PM,chess@univ.edu,Elliot Zhang,2002,Yes,http://univ.edu/chess
+Dance Fusion,Arts,Performs contemporary and cultural dance routines,41,Wednesdays at 8 PM,dancefusion@univ.edu,Maya Desai,2011,Yes,http://univ.edu/dancefusion
+Finance Society,Professional,Connects students to internships and finance careers,96,Thursdays at 5 PM,finance@univ.edu,Daniel Rivera,2005,No,http://univ.edu/finance
+Queer & Allied Student Union,Cultural,Supports LGBTQ+ students with events and advocacy,78,Fridays at 4 PM,qasu@univ.edu,Lauren Ellis,2013,Yes,http://univ.edu/qasu
+Philosophy Roundtable,Academic,Weekly discussion of philosophical topics,29,Tuesdays at 5 PM,philosophy@univ.edu,Samuel Ibrahim,1999,Yes,http://univ.edu/philosophy
+Film Appreciation Society,Arts,Screens and analyzes classic and indie films,61,Sundays at 7 PM,filmclub@univ.edu,Nico Patel,2010,Yes,http://univ.edu/filmclub
+Hack Club,Academic,Hosts hackathons and tech workshops,88,Wednesdays at 6 PM,hackclub@univ.edu,Emma Choi,2018,Yes,http://univ.edu/hackclub
+Student Government,Leadership,Elected body that represents student interests,40,Thursdays at 6 PM,sg@univ.edu,Jack Nguyen,1980,No,http://univ.edu/sg
+Culinary Collective,Cultural,Explores global cuisines with cooking nights and potlucks,25,Fridays at 6 PM,culinary@univ.edu,Alice Moreno,2019,Yes,http://univ.edu/culinary
+Creative Writing Circle,Arts,Weekly workshops and poetry readings,34,Wednesdays at 7 PM,writingcircle@univ.edu,Leo Thomas,2006,Yes,http://univ.edu/writingcircle
+Women in STEM,Professional,Supports women in science and engineering,67,Tuesdays at 6 PM,wistem@univ.edu,Clara Bhatt,2014,Yes,http://univ.edu/wistem
+Rocketry Club,Academic,Builds and launches model rockets,21,Saturdays at 1 PM,rocketry@univ.edu,Omar Wells,2003,Yes,http://univ.edu/rocketry
+Salsa Society,Arts,Teaches and performs salsa dancing,46,Mondays at 8 PM,salsa@univ.edu,Natalie Cruz,2012,Yes,http://univ.edu/salsa
+Black Student Union,Cultural,Hosts events and panels for Black student community,81,Thursdays at 4 PM,bsu@univ.edu,Malik Johnson,1988,Yes,http://univ.edu/bsu
+Tabletop Gaming Guild,Recreational,Board games, D&D, and tabletop RPG nights,53,Fridays at 6 PM,tabletop@univ.edu,Avery Lin,2007,Yes,http://univ.edu/tabletop
+Robotics Club,Academic,Designs robots for competitions,64,Saturdays at 11 AM,robotics@univ.edu,Hassan Clarke,2015,Yes,http://univ.edu/robotics
+Campus Choir,Arts,Performs choral pieces and collaborates with orchestra,38,Tuesdays at 7 PM,choir@univ.edu,Olivia Park,1995,Yes,http://univ.edu/choir
+Mental Health Peer Network,Service,Peer-led workshops and awareness campaigns,55,Wednesdays at 5 PM,mhpnetwork@univ.edu,Riya Nair,2016,Yes,http://univ.edu/mhpnetwork
+Ultimate Frisbee Club,Recreational,Practice and intramural games,32,Sundays at 3 PM,ultimate@univ.edu,Isaac Ford,2009,Yes,http://univ.edu/ultimate
+International Students Org,Cultural,Supports international students and cultural exchange,90,Fridays at 5 PM,iso@univ.edu,Zara Mehta,2001,Yes,http://univ.edu/iso
+Photography Society,Arts,Hosts photo walks and exhibitions,44,Thursdays at 6 PM,photo@univ.edu,Ethan Castillo,2010,Yes,http://univ.edu/photo
+Pre-Med Club,Academic,Seminars, mentorship, and med school prep,79,Mondays at 5 PM,premed@univ.edu,Lana Kim,2004,Yes,http://univ.edu/premed
+Outdoors Club,Recreational,Hiking, camping, and environmental education,61,Saturdays at 9 AM,outdoors@univ.edu,Jake Monroe,1997,Yes,http://univ.edu/outdoors
+Arabic Language Circle,Cultural,Practice and appreciation of Arabic language and culture,23,Tuesdays at 4 PM,arabic@univ.edu,Salma Farouk,2020,Yes,http://univ.edu/arabic
+Data Science Society,Academic,Hands-on data projects and competitions,70,Wednesdays at 6 PM,datasci@univ.edu,Victor Lin,2019,Yes,http://univ.edu/datasci
+Law Society,Professional,Pre-law advising and mock trial opportunities,45,Mondays at 7 PM,law@univ.edu,Amira Rhodes,2005,Yes,http://univ.edu/lawsociety
+Campus Gardeners,Service,Maintains the community garden and compost program,28,Saturdays at 10 AM,garden@univ.edu,Noah Patel,2013,Yes,http://univ.edu/garden
+Anime Club,Recreational,Screens anime and discusses fandom,57,Fridays at 7 PM,anime@univ.edu,Morgan Ito,2006,Yes,http://univ.edu/anime
+Gaming Esports Club,Recreational,Hosts tournaments and LAN parties,73,Thursdays at 8 PM,esports@univ.edu,Kai Bennett,2018,Yes,http://univ.edu/esports
+Debate Union,Academic,Competitive debate tournaments and workshops,62,Tuesdays at 5 PM,debate@univ.edu,Julia Chavez,1992,Yes,http://univ.edu/debate
+Hillel Jewish Student Life,Cultural,Jewish holidays, traditions, and support,33,Fridays at 6 PM,hillel@univ.edu,Noam Silver,1984,Yes,http://univ.edu/hillel
+Veterans on Campus,Service,Supports student veterans and military families,19,Wednesdays at 3 PM,veterans@univ.edu,Ryan Geller,2011,Yes,http://univ.edu/vets
+Marketing Association,Professional,Workshops, speakers, and networking for marketing careers,58,Mondays at 6 PM,marketing@univ.edu,Tess Wolfe,2008,Yes,http://univ.edu/marketing
+French Culture Club,Cultural,Celebrates francophone culture through events and cuisine,31,Tuesdays at 5 PM,french@univ.edu,Louis Duval,2010,Yes,http://univ.edu/french
+Sustainability Coalition,Service,Campus climate initiatives and zero waste projects,39,Thursdays at 5 PM,sustain@univ.edu,Isla Cooper,2017,Yes,http://univ.edu/sustain
+Bioethics Society,Academic,Discusses ethical issues in biology and medicine,26,Wednesdays at 6 PM,bioethics@univ.edu,Reed Solomon,2003,Yes,http://univ.edu/bioethics
+Model United Nations,Academic,Simulates UN diplomacy and international policy,50,Fridays at 4 PM,mun@univ.edu,Anjali Rao,1990,Yes,http://univ.edu/mun
+Drama Guild,Arts,Performs student-run theatrical productions,47,Mondays at 7 PM,drama@univ.edu,Kendall Ortiz,2000,Yes,http://univ.edu/drama
+Latin Dance Crew,Arts,Performs salsa, bachata, and reggaeton routines,36,Thursdays at 7 PM,latindance@univ.edu,Rafael Diaz,2012,Yes,http://univ.edu/latindance
+Nutrition & Wellness Club,Academic,Promotes health literacy and wellness,22,Wednesdays at 4 PM,nutrition@univ.edu,Lily Adams,2015,Yes,http://univ.edu/nutrition
+History Forum,Academic,Hosts lectures and historical documentary screenings,30,Tuesdays at 6 PM,history@univ.edu,Micah Green,2006,Yes,http://univ.edu/history
+Korean Student Association,Cultural,Supports Korean students and shares Korean culture,63,Fridays at 6 PM,ksa@univ.edu,Hyun Jae Lee,2001,Yes,http://univ.edu/ksa
+Acapella Collective,Arts,Vocal performance group open to all majors,37,Wednesdays at 8 PM,acapella@univ.edu,Brynn Carter,2004,Yes,http://univ.edu/acapella
+Women's Rugby Club,Recreational,Competitive rugby team open to all skill levels,48,Saturdays at 2 PM,rugby@univ.edu,Sophie Marshall,2010,Yes,http://univ.edu/rugby
+Public Health Alliance,Service,Health equity education and community service,35,Thursdays at 6 PM,publichealth@univ.edu,Amina Yusuf,2018,Yes,http://univ.edu/publichealth
